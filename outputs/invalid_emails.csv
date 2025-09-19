@@ -1,3 +1,2626 @@
 order_id,email,country,sku,qty,unit_price,total
-1003,ahmed@@example.com,Pakistan,SKU-001,3.0,19.0,57.0
-1008,sara.khan@example,USA,SKU-003,5.0,5.0,25.0
+1113,faizan.johnson @ eml.com,UAE,SKU-009,1.0,10.84,10.84
+1115,amna@example,India,SKU-002,1.0,12.74,12.74
+1119,olivia@example,Pakistan,SKU-003,3.0,4.66,13.98
+1135,arjun.akram @ shop.com,USA,SKU-005,4.0,3.18,12.72
+1138,meera.zafar@@shop.com,Pakistan,SKU-003,3.0,5.3,15.9
+1148,ahmed.ali @ hotmail.com,USA,SKU-006,4.0,14.36,57.44
+1167,amna@example,UAE,SKU-009,1.0,9.11,9.11
+1170,michael.iqbal @ example.com,USA,SKU-006,5.0,13.68,68.4
+1174,ahmed@example,USA,SKU-005,4.0,3.24,12.96
+1175,rahul@example,Pakistan,SKU-010,0.0,28.22,0.0
+1193,sophia.hassan @ hotmail.com,India,SKU-006,3.0,15.14,45.42
+1194,ali@example,Pakistan,SKU-001,1.0,19.25,19.25
+1201,emily.khan@@marketplace.net,India,SKU-010,5.0,27.77,138.85
+1204,rahul@example,USA,SKU-002,0.0,,
+1210,sara@example,UAE,SKU-006,5.0,14.87,74.35
+1225,jane.ahmad@@hotmail.com,Pakistan,SKU-001,5.0,18.28,91.4
+1242,sophia@example,Pakistan,SKU-004,3.0,7.66,22.98
+1244,priya.obrien @ example.com,Pakistan,SKU-008,3.0,20.25,60.75
+1253,laiba.patel @ hotmail.com,Pakistan,SKU-002,2.0,13.57,27.14
+1259,amna.singh @ eml.com,USA,SKU-005,3.0,3.28,9.84
+1273,jane.kumar @ mail.com,UAE,SKU-003,2.0,5.0,10.0
+1284,olivia@example,India,SKU-007,4.0,0.0,0.0
+1305,liam@example,Pakistan,SKU-004,4.0,7.51,30.04
+1307,omar.khan@@hotmail.com,USA,SKU-003,1.0,4.72,4.72
+1310,anil@example,UAE,SKU-010,3.0,31.35,94.05
+1333,ali.khan @ hotmail.com,Pakistan,SKU-009,5.0,10.87,54.35
+1389,meera.tariq@@mail.com,Pakistan,SKU-006,3.0,16.2,48.6
+1394,ahmed.brown @ eml.com,UAE,SKU-004,2.0,7.04,14.08
+1404,bilal.miller@@shop.com,UAE,SKU-002,4.0,11.31,45.24
+1406,rahul.johnson@@example.com,UAE,SKU-007,4.0,0.0,0.0
+1417,huda.williams @ example.com,Pakistan,SKU-006,4.0,15.68,62.72
+1420,zain@example,USA,SKU-001,1.0,18.57,18.57
+1437,rahul.hassan @ marketplace.net,India,SKU-008,1.0,23.42,23.42
+1466,sara@example,UAE,SKU-001,2.0,18.62,37.24
+1480,huda.davis @ mail.com,Pakistan,SKU-010,3.0,29.21,87.63
+1490,usman.chen@@mail.com,India,SKU-005,4.0,3.19,12.76
+1493,ahmed.siddiqui@@example.com,Pakistan,SKU-007,0.0,0.0,0.0
+1497,hassan@example,Pakistan,SKU-008,3.0,21.81,65.43
+1502,nida.ahmad@@eml.com,USA,SKU-007,1.0,0.0,0.0
+1525,rahul.williams@@example.com,India,SKU-010,4.0,31.02,124.08
+1528,nida@example,Pakistan,SKU-009,4.0,9.22,36.88
+1536,arjun@example,Pakistan,SKU-005,4.0,3.42,13.68
+1537,bilal.abbas@@eml.com,Pakistan,SKU-002,,12.89,
+1563,omar@example,Pakistan,SKU-010,4.0,,
+1574,sara.raza @ hotmail.com,Pakistan,SKU-007,5.0,0.0,0.0
+1582,john.tariq @ eml.com,Pakistan,SKU-008,5.0,23.82,119.1
+1583,ali.patel@@mail.com,Pakistan,SKU-002,1.0,12.94,12.94
+1610,john@example,USA,SKU-004,2.0,7.64,15.28
+1618,anil.doe @ example.com,UAE,SKU-007,3.0,0.0,0.0
+1619,emily@example,USA,SKU-004,4.0,7.41,29.64
+1626,rahul.obrien @ marketplace.net,UAE,SKU-006,5.0,15.8,79.0
+1629,bilal@example,Pakistan,SKU-005,1.0,3.1,3.1
+1636,olivia.williams@@hotmail.com,India,SKU-009,5.0,,
+1637,ali@example,India,SKU-004,1.0,7.59,7.59
+1657,faizan@example,UAE,SKU-006,4.0,14.34,57.36
+1681,amna@example,USA,SKU-005,,3.16,
+1687,rahul@example,UAE,SKU-001,2.0,,
+1690,sophia@example,USA,SKU-007,2.0,0.0,0.0
+1705,nida.miller@@eml.com,India,SKU-003,3.0,4.61,13.83
+1709,rahul.tariq@@example.com,UAE,SKU-001,2.0,19.85,39.7
+1721,noah.sharma @ marketplace.net,UAE,SKU-005,2.0,3.44,6.88
+1754,nida@example,India,SKU-007,4.0,0.0,0.0
+1761,omar.hassan@@mail.com,India,SKU-006,4.0,16.19,64.76
+1781,ava@example,Pakistan,SKU-006,2.0,16.01,32.02
+1786,anil.patel @ example.com,USA,SKU-004,4.0,7.64,30.56
+1808,noah.ali @ eml.com,Pakistan,SKU-005,4.0,3.31,13.24
+1814,sonia.obrien@@marketplace.net,UAE,SKU-007,1.0,0.0,0.0
+1828,amna.gupta@@shop.com,India,SKU-007,2.0,0.0,0.0
+1831,huda.yadav@@hotmail.com,Pakistan,SKU-001,4.0,21.3,85.2
+1840,sara.ali @ mail.com,India,SKU-004,3.0,,
+1874,olivia.williams @ eml.com,UAE,SKU-010,3.0,28.44,85.32
+1880,liam.ali @ hotmail.com,Pakistan,SKU-006,2.0,15.77,31.54
+1893,noah@example,USA,SKU-009,1.0,10.6,10.6
+1899,bilal.doe @ hotmail.com,Pakistan,SKU-001,3.0,21.93,65.79
+1913,bilal.khan @ hotmail.com,USA,SKU-002,1.0,13.55,13.55
+1922,olivia.zafar @ hotmail.com,USA,SKU-001,2.0,21.66,43.32
+1947,arjun.davis@@hotmail.com,USA,SKU-002,3.0,12.39,37.17
+1956,sara.ahmad@@mail.com,USA,SKU-005,2.0,3.46,6.92
+1963,huda@example,Pakistan,SKU-009,1.0,9.12,9.12
+1965,anil@example,USA,SKU-002,3.0,12.71,38.13
+1969,ahmed@example,Pakistan,SKU-007,3.0,,
+1997,noor@example,India,SKU-005,3.0,2.99,8.97
+1999,omar.ali @ shop.com,Pakistan,SKU-008,4.0,23.88,95.52
+2000,sonia.raza @ example.com,USA,SKU-001,4.0,19.96,79.84
+2002,sara.williams @ marketplace.net,India,SKU-005,5.0,2.97,14.85
+2003,noor@example,Pakistan,SKU-003,4.0,,
+2011,amna@example,Pakistan,SKU-004,4.0,6.82,27.28
+2027,amna@example,Pakistan,SKU-001,4.0,18.52,74.08
+2032,olivia.iqbal@@marketplace.net,India,SKU-002,3.0,11.88,35.64
+2033,meera.akram@@shop.com,Pakistan,SKU-003,3.0,5.22,15.66
+2050,sophia@example,Pakistan,SKU-001,2.0,19.63,39.26
+2056,bilal@example,UAE,SKU-001,3.0,18.95,56.85
+2080,amna.akram@@shop.com,India,SKU-009,2.0,9.39,18.78
+2098,noor.chen@@shop.com,UAE,SKU-008,4.0,,
+2101,noor@example,India,SKU-005,2.0,3.38,6.76
+2120,sara.johnson@@example.com,USA,SKU-010,5.0,31.49,157.45
+2129,olivia.raza@@hotmail.com,UAE,SKU-005,1.0,2.96,2.96
+2132,ahmed.ali@@eml.com,USA,SKU-006,2.0,15.28,30.56
+2141,noor.zafar @ mail.com,Pakistan,SKU-001,1.0,20.51,20.51
+2144,zain@example,Pakistan,SKU-006,1.0,15.99,15.99
+2153,priya.smith@@shop.com,India,SKU-007,1.0,0.0,0.0
+2154,zain.gupta@@hotmail.com,Pakistan,SKU-008,2.0,20.23,40.46
+2165,omar@example,India,SKU-005,4.0,3.15,12.6
+2174,sonia.ali @ marketplace.net,Pakistan,SKU-003,2.0,4.54,9.08
+2190,omar.hassan@@shop.com,USA,SKU-001,5.0,20.56,102.8
+2192,ahmed.williams@@example.com,Pakistan,SKU-005,1.0,,
+2198,john.sharma @ shop.com,Pakistan,SKU-005,5.0,2.99,14.95
+2203,anil.iqbal@@hotmail.com,UAE,SKU-010,3.0,29.08,87.24
+2237,laiba.iqbal@@marketplace.net,Pakistan,SKU-004,1.0,7.9,7.9
+2259,faizan.qureshi@@shop.com,UAE,SKU-009,2.0,9.09,18.18
+2260,zain.gupta @ shop.com,USA,SKU-002,5.0,12.36,61.8
+2266,sophia@example,UAE,SKU-006,2.0,15.21,30.42
+2271,ali@example,India,SKU-005,5.0,3.45,17.25
+2279,sonia.doe@@mail.com,Pakistan,SKU-010,5.0,31.1,155.5
+2291,faizan.davis@@hotmail.com,Pakistan,SKU-009,4.0,10.67,42.68
+2294,ali.khan @ mail.com,India,SKU-009,2.0,9.69,19.38
+2304,emily.ahmad@@mail.com,Pakistan,SKU-006,1.0,13.5,13.5
+2314,arjun.singh @ marketplace.net,India,SKU-005,5.0,3.22,16.1
+2343,michael@example,USA,SKU-001,1.0,19.33,19.33
+2345,meera.yadav @ mail.com,Pakistan,SKU-009,5.0,,
+2350,ayesha.smith @ hotmail.com,India,SKU-010,1.0,28.02,28.02
+2352,liam.iqbal @ eml.com,USA,SKU-008,5.0,20.37,101.85
+2363,meera.ahmad @ shop.com,USA,SKU-007,2.0,0.0,0.0
+2371,meera.tariq@@mail.com,Pakistan,SKU-005,1.0,3.42,3.42
+2386,olivia.patel@@example.com,USA,SKU-002,3.0,13.53,40.59
+2421,sara@example,UAE,SKU-004,1.0,7.86,7.86
+2425,huda.chen @ shop.com,UAE,SKU-004,4.0,7.45,29.8
+2429,noor.siddiqui@@hotmail.com,USA,SKU-010,5.0,32.24,161.2
+2443,sonia.davis @ example.com,UAE,SKU-005,5.0,3.52,17.6
+2462,rahul.khan @ marketplace.net,USA,SKU-008,2.0,22.63,45.26
+2466,ahmed@example,USA,SKU-009,5.0,8.99,44.95
+2479,olivia@example,India,SKU-009,2.0,10.72,21.44
+2504,noah.obrien@@mail.com,Pakistan,SKU-006,3.0,15.7,47.1
+2507,sara.khan@@marketplace.net,Pakistan,SKU-006,1.0,15.69,15.69
+2511,noah@example,UAE,SKU-007,,0.0,
+2517,priya.ali@@eml.com,USA,SKU-003,5.0,4.56,22.8
+2522,ava@example,USA,SKU-001,2.0,18.87,37.74
+2541,michael.raza@@eml.com,Pakistan,SKU-004,1.0,7.13,7.13
+2543,anil.ali @ marketplace.net,Pakistan,SKU-001,3.0,20.0,60.0
+2547,anil.singh@@mail.com,Pakistan,SKU-008,1.0,21.19,21.19
+2564,sara.smith @ eml.com,Pakistan,SKU-001,5.0,,
+2573,amna.sharma @ shop.com,UAE,SKU-006,3.0,16.32,48.96
+2614,noor.smith @ example.com,Pakistan,SKU-009,4.0,9.55,38.2
+2627,ahmed.noor@@marketplace.net,India,SKU-001,3.0,20.23,60.69
+2642,ava.akram @ marketplace.net,Pakistan,SKU-006,5.0,14.07,70.35
+2646,jane.doe@@mail.com,USA,SKU-005,4.0,3.35,13.4
+2654,anil.patel @ eml.com,Pakistan,SKU-006,1.0,13.92,13.92
+2665,emily.patel @ eml.com,UAE,SKU-008,4.0,23.77,95.08
+2681,bilal@example,UAE,SKU-003,1.0,5.04,5.04
+2683,bilal.smith @ mail.com,USA,SKU-002,4.0,13.23,52.92
+2686,jane@example,Pakistan,SKU-001,4.0,21.95,87.8
+2692,zain@example,UAE,SKU-010,2.0,31.21,62.42
+2698,ali.noor@@example.com,Pakistan,SKU-006,5.0,14.3,71.5
+2712,sonia.hassan@@mail.com,Pakistan,SKU-009,2.0,10.8,21.6
+2767,sophia.qureshi @ hotmail.com,UAE,SKU-008,4.0,22.97,91.88
+2780,meera@example,India,SKU-001,4.0,19.73,78.92
+2803,michael@example,USA,SKU-010,3.0,30.35,91.05
+2832,anil.khan@@marketplace.net,India,SKU-001,5.0,18.14,90.7
+2835,zain@example,Pakistan,SKU-003,2.0,5.32,10.64
+2845,faizan@example,Pakistan,SKU-008,1.0,20.61,20.61
+2852,olivia@example,Pakistan,SKU-007,,0.0,
+2856,ayesha.ali@@example.com,India,SKU-010,3.0,28.76,86.28
+2867,sonia.doe@@example.com,UAE,SKU-002,1.0,12.92,12.92
+2876,ava.sharma @ eml.com,USA,SKU-001,3.0,21.81,65.43
+2883,sonia.tariq@@example.com,Pakistan,SKU-002,1.0,11.54,11.54
+2888,ali.khan @ example.com,USA,SKU-006,5.0,16.39,81.95
+2904,olivia.khan@@hotmail.com,India,SKU-009,5.0,9.3,46.5
+2913,john.miller @ hotmail.com,USA,SKU-001,2.0,19.0,38.0
+2915,faizan@example,USA,SKU-009,2.0,10.01,20.02
+2923,zain.iqbal@@marketplace.net,UAE,SKU-002,5.0,13.2,66.0
+2924,priya@example,Pakistan,SKU-004,5.0,7.62,38.1
+2928,priya.raza @ shop.com,UAE,SKU-004,1.0,8.16,8.16
+2930,ahmed@example,Pakistan,SKU-009,4.0,10.02,40.08
+2931,sophia@example,Pakistan,SKU-008,3.0,19.92,59.76
+2932,laiba.singh @ example.com,USA,SKU-009,1.0,10.91,10.91
+2941,bilal.abbas @ mail.com,USA,SKU-003,4.0,5.14,20.56
+2946,rahul.raza @ marketplace.net,UAE,SKU-003,2.0,5.42,10.84
+2985,bilal@example,USA,SKU-002,3.0,13.39,40.17
+3025,omar@example,Pakistan,SKU-010,4.0,31.18,124.72
+3031,usman@example,USA,SKU-004,1.0,8.15,8.15
+3036,michael.yadav@@marketplace.net,USA,SKU-007,1.0,0.0,0.0
+3039,nida.hassan@@hotmail.com,India,SKU-006,4.0,16.22,64.88
+3045,arjun.chen@@marketplace.net,India,SKU-010,2.0,28.44,56.88
+3053,noah.hassan@@mail.com,USA,SKU-001,1.0,19.1,19.1
+3066,ahmed.qureshi@@eml.com,India,SKU-009,2.0,9.85,19.7
+3067,olivia.noor @ example.com,USA,SKU-004,3.0,7.21,21.63
+3068,ali.yadav@@eml.com,USA,SKU-009,1.0,10.59,10.59
+3081,priya.ali @ eml.com,India,SKU-006,3.0,16.43,49.29
+3083,rahul.raza@@marketplace.net,Pakistan,SKU-009,4.0,10.5,42.0
+3089,priya.smith@@marketplace.net,UAE,SKU-006,5.0,15.37,76.85
+3090,bilal.iqbal@@mail.com,India,SKU-003,3.0,5.35,16.05
+3092,sara@example,UAE,SKU-007,2.0,0.0,0.0
+3096,noor.zafar@@shop.com,UAE,SKU-005,3.0,3.31,9.93
+3097,omar.akram@@shop.com,Pakistan,SKU-010,3.0,31.69,95.07
+3109,noah.abbas@@hotmail.com,Pakistan,SKU-005,1.0,3.05,3.05
+3118,rahul.khan @ hotmail.com,Pakistan,SKU-003,0.0,4.83,0.0
+3121,sophia@example,Pakistan,SKU-003,1.0,5.03,5.03
+3123,arjun.tariq@@example.com,USA,SKU-003,5.0,5.09,25.45
+3131,jane.doe @ shop.com,Pakistan,SKU-004,4.0,6.8,27.2
+3140,bilal.tariq @ hotmail.com,India,SKU-003,3.0,5.37,16.11
+3152,usman.abbas @ example.com,India,SKU-002,5.0,12.29,61.45
+3155,huda.raza@@shop.com,USA,SKU-008,3.0,20.81,62.43
+3160,bilal.abbas@@shop.com,USA,SKU-004,3.0,7.79,23.37
+3161,noah.chen @ example.com,Pakistan,SKU-001,5.0,21.6,108.0
+3175,omar.ali@@eml.com,Pakistan,SKU-001,4.0,18.94,75.76
+3180,ahmed@example,India,SKU-005,1.0,,
+3182,olivia.smith@@marketplace.net,USA,SKU-005,1.0,3.08,3.08
+3185,amna@example,India,SKU-008,3.0,,
+3205,amna@example,USA,SKU-007,5.0,0.0,0.0
+3219,huda.doe@@hotmail.com,India,SKU-001,2.0,18.1,36.2
+3223,amna@example,India,SKU-008,2.0,21.52,43.04
+3224,zain@example,Pakistan,SKU-009,3.0,10.82,32.46
+3240,ayesha@example,Pakistan,SKU-003,,5.17,
+3251,arjun.abbas @ example.com,Pakistan,SKU-007,2.0,0.0,0.0
+3252,michael.patel@@shop.com,USA,SKU-008,5.0,23.13,115.65
+3267,amna.raza @ shop.com,Pakistan,SKU-006,5.0,15.4,77.0
+3279,john@example,Pakistan,SKU-002,4.0,12.46,49.84
+3286,liam.singh@@eml.com,Pakistan,SKU-002,5.0,12.24,61.2
+3325,anil@example,USA,SKU-001,2.0,18.34,36.68
+3333,meera@example,USA,SKU-006,2.0,16.43,32.86
+3345,sophia@example,UAE,SKU-003,1.0,4.72,4.72
+3357,jane.miller@@mail.com,Pakistan,SKU-004,5.0,6.9,34.5
+3367,liam.hassan@@shop.com,Pakistan,SKU-010,4.0,,
+3383,ahmed@example,Pakistan,SKU-003,4.0,5.41,21.64
+3385,sara@example,Pakistan,SKU-003,2.0,5.01,10.02
+3392,rahul@example,Pakistan,SKU-007,3.0,0.0,0.0
+3408,noah.noor @ eml.com,USA,SKU-009,1.0,9.58,9.58
+3431,rahul@example,UAE,SKU-009,1.0,,
+3445,liam@example,Pakistan,SKU-003,1.0,5.33,5.33
+3453,laiba@example,India,SKU-005,4.0,3.24,12.96
+3460,priya.davis@@eml.com,Pakistan,SKU-002,5.0,12.74,63.7
+3461,rahul.abbas @ hotmail.com,USA,SKU-003,2.0,4.87,9.74
+3464,sophia.sharma @ mail.com,India,SKU-007,4.0,0.0,0.0
+3475,sonia.ahmad@@eml.com,USA,SKU-009,5.0,10.77,53.85
+3478,noah@example,USA,SKU-002,1.0,12.05,12.05
+3487,hassan@example,Pakistan,SKU-008,5.0,22.99,114.95
+3491,amna@example,India,SKU-009,4.0,9.65,38.6
+3496,faizan.singh @ shop.com,USA,SKU-006,4.0,14.94,59.76
+3498,jane.khan@@example.com,Pakistan,SKU-002,4.0,13.09,52.36
+3502,sonia@example,UAE,SKU-004,1.0,7.92,7.92
+3506,faizan.chen @ marketplace.net,Pakistan,SKU-007,4.0,0.0,0.0
+3507,priya@example,USA,SKU-010,5.0,31.69,158.45
+3513,priya.tariq@@shop.com,Pakistan,SKU-009,1.0,10.01,10.01
+3522,huda.obrien @ hotmail.com,Pakistan,SKU-006,0.0,14.75,0.0
+3532,omar@example,India,SKU-004,4.0,7.86,31.44
+3533,jane.davis@@example.com,Pakistan,SKU-002,1.0,,
+3588,hassan@example,Pakistan,SKU-008,1.0,20.39,20.39
+3596,meera.johnson@@eml.com,Pakistan,SKU-008,2.0,23.46,46.92
+3604,ahmed.iqbal@@shop.com,USA,SKU-001,1.0,20.26,20.26
+3629,hassan.doe@@eml.com,Pakistan,SKU-007,1.0,0.0,0.0
+3657,amna.miller @ eml.com,Pakistan,SKU-006,5.0,16.12,80.6
+3659,noor@example,Pakistan,SKU-003,4.0,4.87,19.48
+3673,michael@example,UAE,SKU-008,0.0,22.06,0.0
+3683,sonia.doe @ hotmail.com,India,SKU-003,1.0,5.29,5.29
+3700,huda@example,USA,SKU-004,1.0,,
+3727,huda@example,India,SKU-005,1.0,3.24,3.24
+3733,hassan.gupta @ marketplace.net,Pakistan,SKU-003,5.0,5.13,25.65
+3752,emily.singh@@mail.com,Pakistan,SKU-005,4.0,3.5,14.0
+3781,rahul.tariq @ shop.com,Pakistan,SKU-008,4.0,24.19,96.76
+3807,liam.khan@@mail.com,USA,SKU-009,4.0,10.62,42.48
+3813,john.ahmad@@mail.com,USA,SKU-002,1.0,,
+3819,ayesha.patel@@eml.com,Pakistan,SKU-004,2.0,6.79,13.58
+3827,rahul.gupta @ example.com,UAE,SKU-001,3.0,20.84,62.52
+3844,jane.doe@@eml.com,USA,SKU-009,5.0,9.02,45.1
+3856,noah@example,Pakistan,SKU-008,2.0,,
+3858,ahmed@example,USA,SKU-003,3.0,,
+3884,sonia.ali @ marketplace.net,Pakistan,SKU-007,3.0,0.0,0.0
+3905,ahmed.patel @ example.com,Pakistan,SKU-002,4.0,11.69,46.76
+3906,ayesha.chen@@shop.com,Pakistan,SKU-008,3.0,21.33,63.99
+3908,faizan.brown@@hotmail.com,India,SKU-010,1.0,,
+3911,liam@example,USA,SKU-003,2.0,5.2,10.4
+3912,faizan.iqbal@@example.com,USA,SKU-009,2.0,9.49,18.98
+3914,emily@example,UAE,SKU-009,4.0,10.89,43.56
+3917,sara@example,UAE,SKU-010,1.0,29.1,29.1
+3920,emily.yadav@@shop.com,UAE,SKU-001,4.0,19.35,77.4
+3923,ali.smith@@hotmail.com,Pakistan,SKU-009,1.0,9.22,9.22
+3925,noah@example,Pakistan,SKU-010,4.0,31.29,125.16
+3934,ahmed.tariq@@marketplace.net,India,SKU-002,3.0,13.01,39.03
+3944,rahul@example,India,SKU-005,3.0,3.09,9.27
+3966,john.davis@@eml.com,USA,SKU-006,2.0,16.47,32.94
+3970,amna.khan@@hotmail.com,India,SKU-010,4.0,31.88,127.52
+3977,nida.chen @ example.com,Pakistan,SKU-009,2.0,9.49,18.98
+3997,priya.gupta @ eml.com,Pakistan,SKU-008,3.0,20.33,60.99
+4001,arjun@example,USA,SKU-001,5.0,19.61,98.05
+4004,sara.noor @ example.com,UAE,SKU-001,2.0,,
+4005,michael.ali @ shop.com,Pakistan,SKU-006,4.0,14.92,59.68
+4008,sara.davis @ example.com,USA,SKU-004,1.0,7.28,7.28
+4017,sophia.khan @ hotmail.com,UAE,SKU-010,4.0,29.48,117.92
+4019,faizan.zafar @ hotmail.com,Pakistan,SKU-005,2.0,,
+4024,liam.akram@@marketplace.net,Pakistan,SKU-003,3.0,5.33,15.99
+4031,john.khan @ marketplace.net,Pakistan,SKU-006,3.0,13.76,41.28
+4035,ali.tariq @ mail.com,Pakistan,SKU-006,4.0,14.52,58.08
+4063,emily.williams@@marketplace.net,Pakistan,SKU-003,4.0,4.96,19.84
+4064,amna.hassan@@mail.com,Pakistan,SKU-002,2.0,12.85,25.7
+4070,amna.siddiqui @ example.com,India,SKU-001,2.0,21.48,42.96
+4111,sara.johnson @ example.com,India,SKU-009,2.0,10.9,21.8
+4118,sophia.smith@@eml.com,India,SKU-004,3.0,8.09,24.27
+4129,ayesha@example,USA,SKU-001,1.0,21.03,21.03
+4137,anil@example,UAE,SKU-008,4.0,21.11,84.44
+4159,usman.smith @ eml.com,UAE,SKU-003,5.0,4.81,24.05
+4167,anil@example,USA,SKU-002,2.0,,
+4181,ayesha.noor @ shop.com,India,SKU-005,5.0,3.25,16.25
+4193,noah.siddiqui @ shop.com,Pakistan,SKU-007,1.0,0.0,0.0
+4198,ayesha.ahmad@@marketplace.net,UAE,SKU-004,3.0,8.21,24.63
+4219,hassan.kumar @ hotmail.com,Pakistan,SKU-004,4.0,7.62,30.48
+4221,ayesha.johnson @ hotmail.com,USA,SKU-003,1.0,4.76,4.76
+4228,hassan.zafar @ eml.com,Pakistan,SKU-004,,,
+4230,arjun@example,UAE,SKU-006,5.0,15.47,77.35
+4237,arjun.raza @ hotmail.com,Pakistan,SKU-002,4.0,12.64,50.56
+4242,ayesha.sharma @ hotmail.com,UAE,SKU-005,3.0,3.5,10.5
+4243,sara.abbas@@example.com,USA,SKU-008,3.0,21.92,65.76
+4258,meera@example,USA,SKU-001,1.0,18.64,18.64
+4278,rahul.chen@@example.com,USA,SKU-006,5.0,16.24,81.2
+4284,noor.khan@@shop.com,Pakistan,SKU-004,1.0,8.19,8.19
+4319,liam@example,Pakistan,SKU-007,3.0,0.0,0.0
+4369,liam@example,Pakistan,SKU-010,1.0,30.17,30.17
+4371,hassan.tariq @ shop.com,UAE,SKU-004,2.0,,
+4386,hassan.davis @ eml.com,India,SKU-008,1.0,22.45,22.45
+4420,sophia@example,USA,SKU-008,1.0,19.86,19.86
+4433,john.siddiqui @ eml.com,India,SKU-004,2.0,6.88,13.76
+4442,arjun@example,Pakistan,SKU-007,4.0,0.0,0.0
+4443,liam.yadav@@marketplace.net,Pakistan,SKU-009,2.0,9.55,19.1
+4494,john.iqbal@@eml.com,UAE,SKU-008,5.0,20.41,102.05
+4503,bilal.raza @ eml.com,UAE,SKU-001,4.0,,
+4506,hassan@example,USA,SKU-003,5.0,5.35,26.75
+4508,emily.brown @ mail.com,UAE,SKU-010,1.0,31.76,31.76
+4510,olivia@example,Pakistan,SKU-008,2.0,23.79,47.58
+4523,ayesha.raza @ hotmail.com,Pakistan,SKU-004,2.0,7.95,15.9
+4531,laiba.patel@@eml.com,Pakistan,SKU-003,4.0,5.12,20.48
+4544,michael.johnson@@example.com,USA,SKU-007,1.0,0.0,0.0
+4547,bilal.yadav @ example.com,UAE,SKU-001,4.0,21.52,86.08
+4549,ali.chen@@hotmail.com,UAE,SKU-004,1.0,7.2,7.2
+4581,liam.doe@@mail.com,Pakistan,SKU-005,4.0,2.99,11.96
+4596,noor.akram @ hotmail.com,Pakistan,SKU-010,4.0,28.6,114.4
+4614,meera.siddiqui@@eml.com,USA,SKU-004,5.0,7.05,35.25
+4621,usman.smith @ mail.com,Pakistan,SKU-003,5.0,4.79,23.95
+4634,bilal@example,UAE,SKU-005,0.0,3.22,0.0
+4640,arjun.johnson@@mail.com,Pakistan,SKU-002,3.0,13.1,39.3
+4642,john@example,USA,SKU-001,1.0,18.27,18.27
+4663,priya.noor @ hotmail.com,Pakistan,SKU-003,5.0,,
+4667,noah.raza@@eml.com,USA,SKU-003,3.0,5.34,16.02
+4670,jane.iqbal@@marketplace.net,Pakistan,SKU-005,1.0,3.41,3.41
+4671,omar.zafar @ marketplace.net,India,SKU-002,4.0,12.6,50.4
+4672,amna@example,USA,SKU-003,,5.15,
+4673,sonia.patel @ shop.com,Pakistan,SKU-006,4.0,14.06,56.24
+4675,faizan.siddiqui@@shop.com,India,SKU-003,5.0,5.43,27.15
+4698,john.iqbal @ eml.com,USA,SKU-008,4.0,,
+4722,sonia.williams @ example.com,Pakistan,SKU-006,1.0,16.18,16.18
+4729,rahul@example,Pakistan,SKU-002,5.0,13.51,67.55
+4734,usman@example,Pakistan,SKU-006,5.0,,
+4749,ali.smith @ marketplace.net,Pakistan,SKU-009,,9.98,
+4751,hassan.brown@@eml.com,Pakistan,SKU-007,5.0,0.0,0.0
+4771,jane.hassan @ eml.com,Pakistan,SKU-007,1.0,,
+4772,anil@example,USA,SKU-009,3.0,10.16,30.48
+4778,usman.obrien @ eml.com,Pakistan,SKU-005,4.0,3.15,12.6
+4780,huda@example,India,SKU-008,5.0,19.81,99.05
+4783,huda.patel@@shop.com,USA,SKU-006,1.0,,
+4788,arjun@example,UAE,SKU-007,2.0,0.0,0.0
+4799,michael@example,USA,SKU-002,5.0,11.59,57.95
+4821,ayesha.khan @ example.com,India,SKU-002,4.0,,
+4829,sara@example,Pakistan,SKU-003,,,
+4836,nida@example,USA,SKU-003,3.0,5.2,15.6
+4856,ayesha.noor @ eml.com,Pakistan,SKU-007,1.0,,
+4863,omar.tariq@@marketplace.net,USA,SKU-003,4.0,4.78,19.12
+4868,ahmed.gupta @ shop.com,UAE,SKU-004,3.0,7.77,23.31
+4869,meera.chen@@hotmail.com,USA,SKU-004,5.0,7.93,39.65
+4881,zain.williams@@marketplace.net,Pakistan,SKU-006,1.0,15.27,15.27
+4886,noah.smith @ shop.com,India,SKU-004,3.0,6.78,20.34
+4892,meera.ali @ marketplace.net,Pakistan,SKU-007,1.0,0.0,0.0
+4906,meera.tariq@@hotmail.com,Pakistan,SKU-007,1.0,0.0,0.0
+4957,emily.ali@@example.com,Pakistan,SKU-006,4.0,13.66,54.64
+4963,huda.zafar @ shop.com,USA,SKU-005,5.0,3.26,16.3
+4983,faizan.akram @ example.com,Pakistan,SKU-009,4.0,9.76,39.04
+4988,huda.williams @ hotmail.com,Pakistan,SKU-001,2.0,19.57,39.14
+4991,john@example,Pakistan,SKU-002,2.0,12.61,25.22
+4992,bilal@example,Pakistan,SKU-001,5.0,19.75,98.75
+5008,noor@example,Pakistan,SKU-006,3.0,13.99,41.97
+5059,emily.hassan@@shop.com,UAE,SKU-005,2.0,3.4,6.8
+5076,usman.miller @ marketplace.net,UAE,SKU-001,,,
+5078,noah.sharma@@shop.com,USA,SKU-007,4.0,0.0,0.0
+5079,olivia.davis @ shop.com,USA,SKU-009,4.0,10.02,40.08
+5080,huda.khan @ hotmail.com,Pakistan,SKU-006,5.0,13.76,68.8
+5081,laiba@example,Pakistan,SKU-006,5.0,14.09,70.45
+5086,ahmed.miller @ marketplace.net,USA,SKU-007,2.0,0.0,0.0
+5087,omar@example,USA,SKU-010,1.0,28.28,28.28
+5090,meera.miller@@shop.com,UAE,SKU-004,4.0,7.53,30.12
+5109,liam.zafar @ marketplace.net,India,SKU-002,2.0,13.52,27.04
+5120,priya.chen@@example.com,Pakistan,SKU-001,5.0,,
+5128,emily.ali@@example.com,Pakistan,SKU-004,5.0,8.0,40.0
+5129,bilal.siddiqui@@eml.com,USA,SKU-007,5.0,0.0,0.0
+5139,hassan.noor @ hotmail.com,Pakistan,SKU-006,2.0,16.41,32.82
+5141,bilal.doe@@marketplace.net,Pakistan,SKU-006,2.0,,
+5142,ahmed@example,India,SKU-008,5.0,23.68,118.4
+5149,john.gupta@@hotmail.com,Pakistan,SKU-006,2.0,14.43,28.86
+5156,rahul.ali@@mail.com,UAE,SKU-001,2.0,20.32,40.64
+5161,noah@example,USA,SKU-007,4.0,0.0,0.0
+5162,amna.miller @ hotmail.com,UAE,SKU-007,1.0,,
+5164,emily.ahmad @ example.com,USA,SKU-010,4.0,,
+5166,hassan.raza@@hotmail.com,Pakistan,SKU-006,2.0,13.86,27.72
+5168,huda@example,UAE,SKU-005,5.0,3.07,15.35
+5199,jane.singh @ shop.com,India,SKU-007,3.0,0.0,0.0
+5208,ahmed.brown@@mail.com,Pakistan,SKU-001,4.0,21.5,86.0
+5220,ali.kumar @ shop.com,UAE,SKU-008,1.0,20.69,20.69
+5225,michael.davis @ example.com,Pakistan,SKU-002,2.0,12.32,24.64
+5232,ava@example,Pakistan,SKU-003,3.0,,
+5233,jane.patel @ hotmail.com,UAE,SKU-003,4.0,4.8,19.2
+5238,liam.miller @ marketplace.net,UAE,SKU-008,3.0,23.96,71.88
+5251,laiba@example,USA,SKU-008,4.0,20.05,80.2
+5276,meera@example,Pakistan,SKU-005,5.0,2.94,14.7
+5289,sara@example,India,SKU-003,5.0,5.43,27.15
+5300,sara.davis @ marketplace.net,Pakistan,SKU-002,1.0,11.73,11.73
+5305,sonia@example,USA,SKU-009,5.0,10.35,51.75
+5307,noah.ali@@mail.com,UAE,SKU-010,5.0,30.45,152.25
+5330,nida@example,USA,SKU-008,4.0,22.32,89.28
+5340,usman.ali@@eml.com,Pakistan,SKU-003,0.0,5.11,0.0
+5348,liam.noor@@eml.com,USA,SKU-006,1.0,15.02,15.02
+5353,faizan.hassan @ hotmail.com,India,SKU-004,5.0,6.94,34.7
+5396,zain.raza @ eml.com,Pakistan,SKU-001,3.0,20.26,60.78
+5400,noor@example,USA,SKU-004,1.0,7.76,7.76
+5421,meera.miller@@shop.com,USA,SKU-010,4.0,,
+5465,meera@example,Pakistan,SKU-002,3.0,13.13,39.39
+5469,amna.abbas @ mail.com,India,SKU-010,1.0,,
+5477,emily@example,Pakistan,SKU-009,1.0,9.01,9.01
+5482,olivia@example,India,SKU-007,4.0,0.0,0.0
+5503,laiba@example,Pakistan,SKU-008,3.0,20.36,61.08
+5505,omar.hassan@@shop.com,India,SKU-005,5.0,3.14,15.7
+5506,faizan.sharma @ eml.com,UAE,SKU-007,3.0,0.0,0.0
+5508,jane.williams@@mail.com,Pakistan,SKU-009,2.0,10.1,20.2
+5517,ali.miller @ eml.com,Pakistan,SKU-003,1.0,4.76,4.76
+5533,ahmed@example,USA,SKU-005,4.0,3.28,13.12
+5535,ahmed.miller @ marketplace.net,Pakistan,SKU-008,3.0,20.09,60.27
+5541,emily.khan@@shop.com,India,SKU-005,5.0,3.23,16.15
+5548,olivia@example,Pakistan,SKU-010,4.0,28.41,113.64
+5549,ava@example,USA,SKU-002,1.0,12.56,12.56
+5561,faizan@example,Pakistan,SKU-009,3.0,10.14,30.42
+5584,ali.brown@@eml.com,UAE,SKU-008,3.0,20.98,62.94
+5608,ayesha.ali @ example.com,USA,SKU-005,3.0,3.56,10.68
+5635,rahul@example,UAE,SKU-008,3.0,20.19,60.57
+5639,olivia.khan @ shop.com,Pakistan,SKU-002,1.0,12.76,12.76
+5656,laiba.doe@@marketplace.net,India,SKU-003,2.0,4.98,9.96
+5657,jane.gupta @ mail.com,India,SKU-010,5.0,31.44,157.2
+5659,olivia.gupta @ hotmail.com,USA,SKU-001,4.0,19.53,78.12
+5663,meera.gupta @ marketplace.net,USA,SKU-002,5.0,13.28,66.4
+5669,huda.patel@@example.com,Pakistan,SKU-005,1.0,3.2,3.2
+5670,rahul.miller @ marketplace.net,USA,SKU-006,4.0,14.83,59.32
+5698,zain@example,USA,SKU-005,2.0,3.54,7.08
+5715,omar@example,USA,SKU-010,3.0,30.86,92.58
+5716,laiba@example,India,SKU-010,5.0,30.34,151.7
+5745,sonia.miller@@example.com,USA,SKU-007,5.0,0.0,0.0
+5749,emily@example,Pakistan,SKU-001,4.0,19.22,76.88
+5753,arjun.brown @ example.com,India,SKU-010,4.0,,
+5766,amna@example,Pakistan,SKU-007,2.0,0.0,0.0
+5772,huda@example,USA,SKU-003,4.0,5.46,21.84
+5775,noah@example,UAE,SKU-003,3.0,5.25,15.75
+5776,ava.patel @ mail.com,Pakistan,SKU-009,5.0,10.77,53.85
+5784,noah@example,Pakistan,SKU-010,3.0,27.94,83.82
+5837,jane@example,Pakistan,SKU-006,4.0,16.14,64.56
+5840,ali.khan@@example.com,Pakistan,SKU-010,4.0,32.0,128.0
+5845,jane@example,UAE,SKU-005,2.0,3.5,7.0
+5846,bilal@example,Pakistan,SKU-010,1.0,28.83,28.83
+5847,jane@example,USA,SKU-009,3.0,,
+5849,amna.zafar @ example.com,USA,SKU-008,5.0,20.14,100.7
+5888,ahmed.akram @ shop.com,UAE,SKU-002,2.0,13.58,27.16
+5919,usman.doe @ eml.com,India,SKU-001,4.0,,
+5939,rahul.obrien@@eml.com,UAE,SKU-002,1.0,11.53,11.53
+5951,amna@example,India,SKU-010,5.0,29.65,148.25
+5961,sara@example,Pakistan,SKU-008,1.0,21.01,21.01
+5980,omar@example,Pakistan,SKU-002,5.0,,
+5990,nida.davis@@hotmail.com,USA,SKU-001,5.0,21.15,105.75
+5995,olivia.iqbal @ marketplace.net,India,SKU-010,2.0,31.49,62.98
+5998,noah.brown@@example.com,USA,SKU-010,3.0,,
+6021,noah@example,USA,SKU-007,5.0,,
+6057,sophia.singh @ eml.com,India,SKU-005,5.0,3.44,17.2
+6081,nida@example,Pakistan,SKU-007,4.0,0.0,0.0
+6082,olivia@example,USA,SKU-005,1.0,3.46,3.46
+6108,anil@example,Pakistan,SKU-007,1.0,0.0,0.0
+6117,john@example,Pakistan,SKU-001,1.0,18.3,18.3
+6124,rahul@example,India,SKU-009,2.0,9.12,18.24
+6129,liam.akram@@example.com,USA,SKU-006,3.0,13.97,41.91
+6133,liam@example,Pakistan,SKU-007,3.0,,
+6175,ava.chen @ example.com,USA,SKU-008,1.0,,
+6179,meera.abbas@@shop.com,Pakistan,SKU-009,5.0,10.9,54.5
+6195,faizan@example,Pakistan,SKU-001,2.0,21.67,43.34
+6205,noor@example,UAE,SKU-002,3.0,12.82,38.46
+6220,huda.khan @ example.com,India,SKU-001,2.0,20.88,41.76
+6222,faizan.yadav @ eml.com,Pakistan,SKU-001,2.0,21.77,43.54
+6238,laiba@example,Pakistan,SKU-008,2.0,,
+6250,arjun.zafar @ example.com,Pakistan,SKU-005,5.0,3.39,16.95
+6276,john.patel @ hotmail.com,India,SKU-006,4.0,13.82,55.28
+6278,bilal@example,UAE,SKU-008,5.0,23.31,116.55
+6296,ahmed@example,USA,SKU-009,3.0,9.71,29.13
+6358,nida.williams @ shop.com,Pakistan,SKU-002,4.0,12.8,51.2
+6366,anil@example,Pakistan,SKU-004,5.0,7.02,35.1
+6380,ahmed.khan @ eml.com,UAE,SKU-007,4.0,0.0,0.0
+6385,liam@example,USA,SKU-010,3.0,27.52,82.56
+6403,ali.chen @ example.com,Pakistan,SKU-004,5.0,7.49,37.45
+6410,sonia.noor @ marketplace.net,India,SKU-010,1.0,29.18,29.18
+6412,ayesha.ali@@hotmail.com,UAE,SKU-009,5.0,9.0,45.0
+6414,amna.khan @ shop.com,Pakistan,SKU-008,5.0,21.93,109.65
+6420,sonia.ali @ eml.com,Pakistan,SKU-009,3.0,10.13,30.39
+6425,emily@example,UAE,SKU-009,5.0,9.47,47.35
+6426,priya@example,USA,SKU-007,3.0,0.0,0.0
+6430,omar@example,Pakistan,SKU-007,4.0,0.0,0.0
+6453,noor.gupta@@mail.com,USA,SKU-002,0.0,11.64,0.0
+6476,jane@example,USA,SKU-007,4.0,0.0,0.0
+6483,ahmed.ali@@example.com,Pakistan,SKU-006,4.0,,
+6488,olivia@example,UAE,SKU-008,3.0,21.91,65.73
+6502,noah.noor@@eml.com,USA,SKU-001,5.0,21.91,109.55
+6507,meera.raza @ hotmail.com,UAE,SKU-008,3.0,22.47,67.41
+6514,ahmed@example,Pakistan,SKU-003,3.0,4.61,13.83
+6521,ayesha@example,India,SKU-001,1.0,19.92,19.92
+6527,john@example,Pakistan,SKU-001,4.0,20.16,80.64
+6537,huda.sharma@@example.com,India,SKU-007,1.0,0.0,0.0
+6547,michael@example,UAE,SKU-002,1.0,13.22,13.22
+6578,nida@example,USA,SKU-003,3.0,5.09,15.27
+6588,michael@example,USA,SKU-007,2.0,0.0,0.0
+6593,ahmed@example,Pakistan,SKU-007,1.0,0.0,0.0
+6633,noor@example,India,SKU-010,2.0,28.24,56.48
+6667,amna@example,Pakistan,SKU-001,5.0,18.24,91.2
+6681,jane.kumar @ eml.com,India,SKU-003,2.0,5.05,10.1
+6690,bilal@example,USA,SKU-005,1.0,3.19,3.19
+6705,emily.patel @ eml.com,Pakistan,SKU-001,5.0,,
+6711,michael@example,Pakistan,SKU-003,1.0,5.4,5.4
+6717,emily.ali@@hotmail.com,Pakistan,SKU-003,2.0,5.38,10.76
+6752,meera.khan@@eml.com,UAE,SKU-008,4.0,23.09,92.36
+6764,faizan@example,Pakistan,SKU-002,4.0,,
+6765,emily@example,UAE,SKU-008,1.0,23.4,23.4
+6770,rahul.khan@@eml.com,USA,SKU-006,4.0,15.77,63.08
+6774,laiba@example,UAE,SKU-005,2.0,3.42,6.84
+6792,ayesha.gupta @ mail.com,USA,SKU-003,4.0,4.94,19.76
+6798,sara.qureshi @ marketplace.net,USA,SKU-010,1.0,30.53,30.53
+6806,sophia.gupta @ hotmail.com,Pakistan,SKU-002,1.0,13.24,13.24
+6809,michael.noor@@hotmail.com,Pakistan,SKU-009,4.0,10.58,42.32
+6822,ali.raza @ shop.com,India,SKU-007,4.0,0.0,0.0
+6849,laiba.raza @ hotmail.com,USA,SKU-009,4.0,9.07,36.28
+6855,liam.brown @ marketplace.net,Pakistan,SKU-010,1.0,28.16,28.16
+6876,faizan@example,Pakistan,SKU-004,1.0,7.46,7.46
+6891,faizan@example,Pakistan,SKU-009,3.0,9.1,27.3
+6892,laiba.williams @ example.com,USA,SKU-004,4.0,6.87,27.48
+6929,priya@example,UAE,SKU-008,4.0,21.24,84.96
+6931,nida.zafar@@shop.com,USA,SKU-003,5.0,4.5,22.5
+6962,arjun.ahmad@@shop.com,Pakistan,SKU-001,3.0,19.7,59.1
+6970,michael.ali@@shop.com,USA,SKU-009,5.0,9.11,45.55
+6985,ali@example,India,SKU-003,1.0,4.57,4.57
+6990,michael@example,Pakistan,SKU-002,5.0,13.18,65.9
+7021,laiba.chen @ marketplace.net,USA,SKU-001,4.0,19.71,78.84
+7022,rahul@example,Pakistan,SKU-001,4.0,18.53,74.12
+7036,bilal@example,Pakistan,SKU-004,4.0,7.17,28.68
+7065,emily.khan@@marketplace.net,Pakistan,SKU-010,5.0,30.31,151.55
+7069,faizan.yadav@@hotmail.com,India,SKU-010,,31.11,
+7077,liam@example,India,SKU-001,1.0,,
+7086,sonia.sharma @ hotmail.com,India,SKU-003,5.0,5.07,25.35
+7105,arjun.smith @ hotmail.com,USA,SKU-003,1.0,4.55,4.55
+7107,olivia@example,India,SKU-009,4.0,9.83,39.32
+7121,faizan.williams@@mail.com,USA,SKU-005,2.0,3.57,7.14
+7174,faizan.miller@@marketplace.net,India,SKU-007,3.0,0.0,0.0
+7176,priya@example,Pakistan,SKU-009,2.0,9.22,18.44
+7183,meera.ali @ hotmail.com,India,SKU-002,5.0,12.84,64.2
+7209,huda.williams@@mail.com,Pakistan,SKU-002,1.0,11.45,11.45
+7218,john.miller @ marketplace.net,India,SKU-008,3.0,20.79,62.37
+7229,rahul@example,USA,SKU-010,1.0,,
+7240,ahmed.raza @ hotmail.com,UAE,SKU-008,1.0,19.98,19.98
+7251,priya.yadav @ eml.com,USA,SKU-008,4.0,22.19,88.76
+7261,liam.ali @ eml.com,Pakistan,SKU-005,1.0,3.27,3.27
+7312,sophia.ahmad @ eml.com,UAE,SKU-007,4.0,0.0,0.0
+7323,bilal@example,Pakistan,SKU-004,3.0,7.66,22.98
+7332,faizan.raza@@marketplace.net,Pakistan,SKU-007,1.0,0.0,0.0
+7392,michael.ali@@hotmail.com,Pakistan,SKU-009,3.0,10.39,31.17
+7397,emily@example,USA,SKU-009,5.0,10.87,54.35
+7408,laiba.obrien@@hotmail.com,India,SKU-004,2.0,7.1,14.2
+7416,rahul@example,Pakistan,SKU-005,5.0,3.4,17.0
+7453,sonia@example,India,SKU-009,2.0,10.93,21.86
+7465,laiba.tariq @ example.com,USA,SKU-002,0.0,12.43,0.0
+7496,john@example,UAE,SKU-010,1.0,28.95,28.95
+7501,ali@example,India,SKU-010,3.0,30.53,91.59
+7525,john.gupta @ example.com,Pakistan,SKU-005,1.0,3.37,3.37
+7556,omar.khan@@shop.com,India,SKU-003,5.0,5.35,26.75
+7569,nida@example,USA,SKU-005,3.0,2.99,8.97
+7574,emily@example,USA,SKU-010,5.0,29.59,147.95
+7593,amna.doe@@eml.com,UAE,SKU-008,1.0,23.56,23.56
+7602,huda.siddiqui@@marketplace.net,UAE,SKU-006,4.0,14.72,58.88
+7608,ali.chen@@marketplace.net,Pakistan,SKU-001,3.0,18.34,55.02
+7633,arjun.hassan @ eml.com,India,SKU-009,2.0,9.44,18.88
+7637,hassan.smith@@eml.com,UAE,SKU-003,3.0,4.54,13.62
+7644,laiba.doe @ mail.com,UAE,SKU-007,2.0,0.0,0.0
+7649,rahul.zafar@@marketplace.net,Pakistan,SKU-006,4.0,14.61,58.44
+7655,usman@example,Pakistan,SKU-005,2.0,3.0,6.0
+7656,arjun@example,USA,SKU-007,1.0,0.0,0.0
+7689,sara.williams@@mail.com,India,SKU-010,4.0,31.74,126.96
+7694,noah.ahmad @ mail.com,Pakistan,SKU-009,1.0,10.42,10.42
+7700,hassan@example,Pakistan,SKU-009,3.0,9.67,29.01
+7701,olivia@example,Pakistan,SKU-008,3.0,20.07,60.21
+7705,john.khan @ mail.com,India,SKU-009,3.0,9.72,29.16
+7712,ali.brown@@eml.com,Pakistan,SKU-007,3.0,,
+7715,priya@example,USA,SKU-007,2.0,0.0,0.0
+7727,liam.iqbal @ shop.com,UAE,SKU-001,3.0,21.38,64.14
+7738,ava.patel @ mail.com,Pakistan,SKU-006,5.0,16.18,80.9
+7750,bilal.davis @ marketplace.net,India,SKU-002,5.0,11.62,58.1
+7817,omar.ahmad @ eml.com,Pakistan,SKU-008,1.0,23.59,23.59
+7833,nida@example,UAE,SKU-004,5.0,8.12,40.6
+7845,faizan.zafar@@mail.com,UAE,SKU-002,3.0,13.1,39.3
+7855,liam.ahmad @ eml.com,Pakistan,SKU-007,4.0,0.0,0.0
+7859,faizan.siddiqui @ marketplace.net,Pakistan,SKU-008,,21.9,
+7861,sophia.ali @ marketplace.net,India,SKU-004,5.0,7.21,36.05
+7862,omar.abbas @ hotmail.com,India,SKU-009,1.0,10.05,10.05
+7864,hassan.gupta @ example.com,India,SKU-010,0.0,31.69,0.0
+7871,olivia.chen@@hotmail.com,USA,SKU-007,5.0,0.0,0.0
+7875,sonia@example,Pakistan,SKU-006,3.0,15.41,46.23
+7893,huda.patel@@hotmail.com,USA,SKU-005,5.0,3.53,17.65
+7904,meera.akram @ eml.com,Pakistan,SKU-010,4.0,30.45,121.8
+7915,olivia.tariq @ shop.com,Pakistan,SKU-003,2.0,4.74,9.48
+7923,ava.yadav@@shop.com,India,SKU-009,1.0,9.11,9.11
+7945,faizan.johnson @ hotmail.com,Pakistan,SKU-005,5.0,3.19,15.95
+7963,noor@example,Pakistan,SKU-004,1.0,7.33,7.33
+7968,olivia.miller@@example.com,India,SKU-001,5.0,21.64,108.2
+8019,anil.abbas@@eml.com,Pakistan,SKU-008,3.0,20.09,60.27
+8022,ahmed.singh @ hotmail.com,USA,SKU-004,5.0,7.86,39.3
+8043,nida.noor@@eml.com,Pakistan,SKU-007,4.0,0.0,0.0
+8047,laiba.noor @ example.com,Pakistan,SKU-003,1.0,5.11,5.11
+8068,ali@example,Pakistan,SKU-008,1.0,21.06,21.06
+8069,amna.yadav @ hotmail.com,UAE,SKU-003,,5.48,
+8086,meera@example,Pakistan,SKU-002,3.0,13.18,39.54
+8106,faizan@example,USA,SKU-009,3.0,10.45,31.35
+8111,priya@example,USA,SKU-004,5.0,7.74,38.7
+8127,ava@example,Pakistan,SKU-004,4.0,7.34,29.36
+8159,rahul@example,UAE,SKU-007,1.0,0.0,0.0
+8165,olivia.smith@@example.com,USA,SKU-010,5.0,28.07,140.35
+8191,hassan.doe@@hotmail.com,Pakistan,SKU-010,3.0,27.67,83.01
+8193,jane.siddiqui@@mail.com,Pakistan,SKU-004,4.0,8.13,32.52
+8194,noah.khan@@example.com,Pakistan,SKU-009,5.0,9.96,49.8
+8214,ayesha.obrien@@hotmail.com,USA,SKU-004,3.0,8.0,24.0
+8237,emily@example,Pakistan,SKU-004,3.0,7.23,21.69
+8249,bilal.khan@@example.com,USA,SKU-008,3.0,19.84,59.52
+8252,ahmed@example,India,SKU-001,5.0,20.92,104.6
+8255,liam.sharma @ eml.com,Pakistan,SKU-007,2.0,0.0,0.0
+8264,huda@example,UAE,SKU-004,2.0,6.75,13.5
+8279,ava@example,USA,SKU-003,2.0,5.09,10.18
+8282,arjun@example,USA,SKU-002,2.0,13.67,27.34
+8284,olivia@example,USA,SKU-005,4.0,2.98,11.92
+8331,priya.raza@@example.com,Pakistan,SKU-004,2.0,7.51,15.02
+8334,omar@example,Pakistan,SKU-001,4.0,19.19,76.76
+8345,olivia@example,Pakistan,SKU-003,5.0,4.89,24.45
+8351,hassan@example,Pakistan,SKU-004,2.0,6.87,13.74
+8353,bilal.obrien@@shop.com,Pakistan,SKU-009,5.0,10.29,51.45
+8355,faizan@example,India,SKU-005,1.0,2.94,2.94
+8361,usman.davis@@eml.com,USA,SKU-009,1.0,10.83,10.83
+8364,hassan@example,Pakistan,SKU-006,3.0,16.48,49.44
+8374,sophia.chen @ hotmail.com,Pakistan,SKU-008,1.0,23.98,23.98
+8375,anil.ali@@mail.com,USA,SKU-003,1.0,5.38,5.38
+8380,noah@example,Pakistan,SKU-006,4.0,13.65,54.6
+8397,sara.ali @ mail.com,Pakistan,SKU-002,2.0,,
+8410,ava.miller @ mail.com,UAE,SKU-001,4.0,19.5,78.0
+8428,priya@example,USA,SKU-008,3.0,23.0,69.0
+8447,nida@example,India,SKU-003,3.0,5.25,15.75
+8450,ali@example,Pakistan,SKU-008,5.0,23.41,117.05
+8456,nida.zafar@@example.com,India,SKU-008,5.0,24.11,120.55
+8481,liam.ali@@mail.com,Pakistan,SKU-003,3.0,5.05,15.15
+8490,emily.hassan @ example.com,USA,SKU-009,3.0,10.24,30.72
+8514,ali@example,USA,SKU-003,5.0,5.0,25.0
+8522,olivia.kumar@@hotmail.com,USA,SKU-005,1.0,3.04,3.04
+8531,michael.kumar @ shop.com,Pakistan,SKU-005,4.0,3.5,14.0
+8563,amna.singh @ eml.com,USA,SKU-004,5.0,7.75,38.75
+8568,sara.akram @ hotmail.com,Pakistan,SKU-006,1.0,,
+8593,sophia.davis@@eml.com,India,SKU-003,4.0,5.31,21.24
+8603,rahul@example,Pakistan,SKU-009,3.0,9.26,27.78
+8605,liam.ali @ shop.com,UAE,SKU-006,4.0,15.86,63.44
+8618,noah.singh @ example.com,India,SKU-009,1.0,9.44,9.44
+8632,ahmed.patel @ hotmail.com,UAE,SKU-004,4.0,7.7,30.8
+8637,sophia@example,India,SKU-003,2.0,4.54,9.08
+8643,arjun.siddiqui@@example.com,Pakistan,SKU-005,2.0,3.07,6.14
+8666,nida@example,India,SKU-004,5.0,8.22,41.1
+8669,ali.ahmad @ mail.com,UAE,SKU-010,5.0,30.49,152.45
+8675,huda@example,Pakistan,SKU-001,1.0,21.58,21.58
+8687,meera.miller@@marketplace.net,Pakistan,SKU-005,4.0,3.49,13.96
+8693,emily@example,UAE,SKU-007,1.0,0.0,0.0
+8722,liam@example,Pakistan,SKU-010,1.0,27.69,27.69
+8731,hassan.doe @ mail.com,Pakistan,SKU-001,3.0,19.03,57.09
+8741,usman.zafar@@marketplace.net,India,SKU-002,5.0,12.26,61.3
+8751,ava@example,Pakistan,SKU-004,2.0,8.02,16.04
+8769,bilal@example,Pakistan,SKU-010,3.0,31.89,95.67
+8777,john@example,UAE,SKU-001,5.0,21.05,105.25
+8790,faizan.doe@@eml.com,UAE,SKU-006,5.0,13.94,69.7
+8812,hassan.johnson@@mail.com,USA,SKU-004,4.0,,
+8817,john@example,USA,SKU-004,2.0,8.24,16.48
+8826,anil.johnson@@shop.com,Pakistan,SKU-006,4.0,14.39,57.56
+8833,omar@example,India,SKU-007,2.0,0.0,0.0
+8841,noah.raza @ mail.com,USA,SKU-007,5.0,,
+8863,sara.zafar@@shop.com,Pakistan,SKU-004,3.0,7.76,23.28
+8877,meera@example,UAE,SKU-005,1.0,3.41,3.41
+8881,omar.yadav @ example.com,UAE,SKU-003,1.0,5.23,5.23
+8884,laiba.khan @ shop.com,India,SKU-008,4.0,20.85,83.4
+8895,emily.raza@@shop.com,Pakistan,SKU-010,2.0,31.98,63.96
+8899,huda.ali@@example.com,Pakistan,SKU-004,2.0,8.24,16.48
+8918,anil@example,India,SKU-008,,21.72,
+8920,liam@example,Pakistan,SKU-002,5.0,12.83,64.15
+8923,ahmed@example,UAE,SKU-006,2.0,,
+8933,laiba@example,USA,SKU-010,1.0,31.77,31.77
+8944,ava@example,Pakistan,SKU-001,3.0,18.89,56.67
+8953,huda.qureshi @ eml.com,USA,SKU-010,3.0,,
+8969,ayesha.tariq@@shop.com,USA,SKU-008,3.0,23.52,70.56
+8972,priya@example,India,SKU-009,2.0,10.34,20.68
+9000,olivia.singh @ marketplace.net,USA,SKU-006,3.0,16.04,48.12
+9025,huda@example,USA,SKU-010,2.0,27.58,55.16
+9032,omar.siddiqui @ shop.com,Pakistan,SKU-006,4.0,14.84,59.36
+9049,olivia.johnson @ hotmail.com,Pakistan,SKU-008,4.0,21.61,86.44
+9050,nida@example,Pakistan,SKU-010,5.0,29.15,145.75
+9058,michael@example,Pakistan,SKU-009,2.0,9.96,19.92
+9059,sara.singh@@example.com,Pakistan,SKU-007,5.0,0.0,0.0
+9062,meera.ali @ eml.com,USA,SKU-008,5.0,20.0,100.0
+9064,noor.raza @ marketplace.net,USA,SKU-008,1.0,20.92,20.92
+9081,usman@example,Pakistan,SKU-003,2.0,4.98,9.96
+9085,huda.williams@@hotmail.com,India,SKU-007,4.0,0.0,0.0
+9093,olivia.smith@@eml.com,India,SKU-008,2.0,20.71,41.42
+9094,ava.abbas @ mail.com,USA,SKU-002,2.0,12.08,24.16
+9103,ayesha@example,Pakistan,SKU-009,0.0,10.24,0.0
+9123,laiba.hassan@@hotmail.com,USA,SKU-010,2.0,28.47,56.94
+9126,omar@example,India,SKU-008,3.0,20.06,60.18
+9127,meera.hassan @ shop.com,USA,SKU-008,5.0,21.08,105.4
+9132,ali.zafar @ hotmail.com,Pakistan,SKU-010,2.0,29.69,59.38
+9148,laiba@example,Pakistan,SKU-008,5.0,23.44,117.2
+9158,bilal.tariq@@mail.com,USA,SKU-002,3.0,11.57,34.71
+9183,laiba.smith @ shop.com,India,SKU-007,1.0,0.0,0.0
+9195,ahmed@example,India,SKU-002,2.0,13.5,27.0
+9215,zain.abbas @ eml.com,UAE,SKU-006,5.0,13.88,69.4
+9242,anil.ali@@example.com,Pakistan,SKU-005,1.0,3.28,3.28
+9244,ahmed.khan @ shop.com,USA,SKU-008,4.0,21.96,87.84
+9246,jane.doe @ eml.com,Pakistan,SKU-007,1.0,0.0,0.0
+9247,laiba.gupta @ shop.com,Pakistan,SKU-005,1.0,3.19,3.19
+9270,michael@example,Pakistan,SKU-006,3.0,15.39,46.17
+9275,ava.iqbal @ marketplace.net,UAE,SKU-002,1.0,12.62,12.62
+9276,ayesha@example,Pakistan,SKU-009,4.0,10.37,41.48
+9289,ali@example,USA,SKU-001,5.0,21.92,109.6
+9298,olivia.siddiqui @ example.com,UAE,SKU-001,3.0,20.06,60.18
+9303,sophia.ali @ mail.com,USA,SKU-003,4.0,5.24,20.96
+9306,ahmed.khan@@example.com,Pakistan,SKU-002,3.0,12.77,38.31
+9317,meera@example,USA,SKU-008,3.0,20.83,62.49
+9337,hassan.brown @ hotmail.com,Pakistan,SKU-007,2.0,0.0,0.0
+9360,liam@example,Pakistan,SKU-001,5.0,18.68,93.4
+9380,huda.chen @ mail.com,Pakistan,SKU-007,4.0,0.0,0.0
+9406,john.williams@@mail.com,UAE,SKU-010,3.0,31.15,93.45
+9416,sonia.hassan@@shop.com,Pakistan,SKU-006,1.0,14.08,14.08
+9419,emily.johnson @ hotmail.com,UAE,SKU-006,3.0,14.4,43.2
+9428,michael@example,Pakistan,SKU-001,5.0,18.36,91.8
+9429,emily@example,UAE,SKU-002,0.0,12.73,0.0
+9454,sara.ali @ eml.com,Pakistan,SKU-001,2.0,,
+9473,meera@example,Pakistan,SKU-002,2.0,12.35,24.7
+9476,sonia.johnson @ mail.com,UAE,SKU-008,5.0,23.09,115.45
+9487,liam@example,USA,SKU-003,1.0,5.05,5.05
+9531,michael.iqbal @ shop.com,Pakistan,SKU-007,3.0,0.0,0.0
+9533,usman@example,India,SKU-008,2.0,23.64,47.28
+9539,zain.patel @ example.com,Pakistan,SKU-010,1.0,31.21,31.21
+9568,jane.khan@@hotmail.com,India,SKU-004,5.0,,
+9575,john.khan @ shop.com,USA,SKU-001,0.0,21.6,0.0
+9588,bilal.ahmad@@eml.com,India,SKU-009,4.0,9.41,37.64
+9592,michael.abbas@@eml.com,India,SKU-008,5.0,23.75,118.75
+9626,noor.doe @ marketplace.net,USA,SKU-008,4.0,21.32,85.28
+9664,zain.singh @ mail.com,USA,SKU-003,3.0,5.34,16.02
+9666,john.ali@@shop.com,USA,SKU-001,1.0,18.27,18.27
+9674,zain.ahmad @ eml.com,Pakistan,SKU-010,2.0,28.25,56.5
+9675,amna@example,India,SKU-005,1.0,3.13,3.13
+9692,emily@example,Pakistan,SKU-007,4.0,0.0,0.0
+9709,sara.raza@@shop.com,Pakistan,SKU-008,5.0,23.83,119.15
+9726,amna@example,USA,SKU-006,2.0,14.1,28.2
+9728,emily.smith @ example.com,India,SKU-004,4.0,8.02,32.08
+9752,priya@example,Pakistan,SKU-010,2.0,31.83,63.66
+9753,jane.siddiqui @ mail.com,USA,SKU-003,4.0,4.76,19.04
+9789,laiba@example,Pakistan,SKU-001,4.0,19.1,76.4
+9790,noah.patel@@example.com,USA,SKU-008,1.0,22.97,22.97
+9802,jane.miller@@marketplace.net,Pakistan,SKU-002,3.0,12.47,37.41
+9809,ali@example,UAE,SKU-008,1.0,,
+9817,zain.davis@@mail.com,Pakistan,SKU-008,2.0,22.71,45.42
+9824,john@example,India,SKU-004,4.0,7.6,30.4
+9827,bilal.akram @ hotmail.com,USA,SKU-008,3.0,20.14,60.42
+9871,nida@example,India,SKU-009,4.0,,
+9878,liam@example,UAE,SKU-007,3.0,0.0,0.0
+9891,meera.patel @ hotmail.com,USA,SKU-005,4.0,3.18,12.72
+9906,noor@example,India,SKU-005,5.0,3.02,15.1
+9911,priya.raza@@mail.com,Pakistan,SKU-008,0.0,23.34,0.0
+9930,rahul.doe @ example.com,USA,SKU-006,1.0,13.85,13.85
+9931,ayesha.hassan@@example.com,Pakistan,SKU-010,5.0,31.14,155.7
+9953,liam@example,Pakistan,SKU-008,1.0,22.34,22.34
+9958,omar.ahmad @ eml.com,Pakistan,SKU-009,1.0,9.39,9.39
+9975,olivia.akram@@hotmail.com,USA,SKU-003,1.0,4.55,4.55
+9977,michael.kumar@@mail.com,Pakistan,SKU-006,5.0,14.41,72.05
+9985,liam@example,Pakistan,SKU-005,3.0,3.07,9.21
+9993,ali.khan @ hotmail.com,Pakistan,SKU-001,4.0,20.99,83.96
+10012,laiba@example,USA,SKU-008,1.0,22.59,22.59
+10015,faizan@example,India,SKU-001,4.0,19.88,79.52
+10016,ahmed@example,India,SKU-008,5.0,22.77,113.85
+10019,sonia.patel@@marketplace.net,India,SKU-003,4.0,4.89,19.56
+10025,priya@example,India,SKU-006,5.0,15.99,79.95
+10028,nida@example,USA,SKU-006,3.0,14.26,42.78
+10030,emily.khan @ eml.com,USA,SKU-001,2.0,,
+10048,arjun@example,UAE,SKU-007,3.0,0.0,0.0
+10050,omar.obrien @ example.com,USA,SKU-003,5.0,5.19,25.95
+10054,liam.smith@@marketplace.net,USA,SKU-002,4.0,12.23,48.92
+10110,amna@example,USA,SKU-007,1.0,0.0,0.0
+10117,arjun@example,Pakistan,SKU-004,4.0,7.13,28.52
+10149,arjun.qureshi @ eml.com,Pakistan,SKU-010,4.0,32.55,130.2
+10175,sonia.miller@@mail.com,UAE,SKU-001,1.0,19.52,19.52
+10188,liam.raza@@example.com,Pakistan,SKU-003,1.0,5.23,5.23
+10202,ava.iqbal @ mail.com,UAE,SKU-004,3.0,7.59,22.77
+10229,rahul.tariq@@shop.com,Pakistan,SKU-002,3.0,13.66,40.98
+10242,laiba.sharma@@hotmail.com,Pakistan,SKU-004,1.0,7.91,7.91
+10260,faizan@example,Pakistan,SKU-009,3.0,,
+10264,ayesha.hassan @ mail.com,Pakistan,SKU-001,1.0,20.15,20.15
+10277,emily.ali @ shop.com,Pakistan,SKU-010,1.0,32.99,32.99
+10279,huda.qureshi@@eml.com,USA,SKU-005,3.0,3.22,9.66
+10284,meera.sharma @ marketplace.net,India,SKU-010,3.0,27.14,81.42
+10312,jane.abbas@@shop.com,UAE,SKU-008,2.0,23.88,47.76
+10318,omar@example,USA,SKU-006,1.0,15.61,15.61
+10323,laiba@example,USA,SKU-002,5.0,13.35,66.75
+10325,meera@example,UAE,SKU-008,1.0,22.04,22.04
+10334,emily@example,USA,SKU-006,1.0,13.77,13.77
+10354,meera.siddiqui@@shop.com,Pakistan,SKU-006,2.0,16.38,32.76
+10365,ahmed.singh @ hotmail.com,Pakistan,SKU-004,3.0,6.9,20.7
+10366,ava.patel @ example.com,USA,SKU-001,1.0,18.15,18.15
+10379,liam.siddiqui @ eml.com,India,SKU-006,4.0,14.13,56.52
+10391,michael.miller@@example.com,India,SKU-002,1.0,13.54,13.54
+10396,sophia.smith@@example.com,Pakistan,SKU-010,5.0,30.36,151.8
+10399,sara.ahmad @ example.com,Pakistan,SKU-001,5.0,18.8,94.0
+10403,usman.abbas @ eml.com,USA,SKU-001,2.0,20.59,41.18
+10404,amna.khan @ example.com,Pakistan,SKU-009,2.0,10.67,21.34
+10405,meera.iqbal @ shop.com,USA,SKU-002,1.0,11.38,11.38
+10415,omar.obrien @ example.com,Pakistan,SKU-007,3.0,0.0,0.0
+10426,omar.noor@@hotmail.com,Pakistan,SKU-002,1.0,11.8,11.8
+10431,ali.abbas @ mail.com,India,SKU-006,5.0,15.99,79.95
+10435,nida.ali@@marketplace.net,India,SKU-002,2.0,12.8,25.6
+10438,huda.williams@@example.com,India,SKU-009,5.0,9.7,48.5
+10444,nida.davis @ shop.com,Pakistan,SKU-001,0.0,19.01,0.0
+10450,sophia@example,UAE,SKU-005,2.0,3.12,6.24
+10463,nida@example,India,SKU-008,5.0,21.74,108.7
+10465,sonia@example,Pakistan,SKU-005,5.0,,
+10472,liam@example,Pakistan,SKU-007,1.0,0.0,0.0
+10500,jane@example,India,SKU-004,5.0,8.11,40.55
+10516,hassan.siddiqui@@example.com,Pakistan,SKU-005,4.0,,
+10522,noah.ali @ marketplace.net,USA,SKU-007,2.0,0.0,0.0
+10527,sonia.williams @ hotmail.com,USA,SKU-004,,6.86,
+10528,olivia.gupta@@shop.com,India,SKU-007,1.0,0.0,0.0
+10553,liam@example,India,SKU-005,3.0,3.32,9.96
+10559,ava.tariq @ example.com,Pakistan,SKU-005,3.0,2.99,8.97
+10567,emily.raza@@example.com,UAE,SKU-009,3.0,9.18,27.54
+10588,anil.davis@@mail.com,Pakistan,SKU-009,2.0,10.59,21.18
+10591,noah@example,USA,SKU-009,5.0,9.63,48.15
+10595,ayesha.chen@@hotmail.com,Pakistan,SKU-003,2.0,4.79,9.58
+10598,anil.khan @ hotmail.com,UAE,SKU-005,4.0,3.34,13.36
+10605,amna@example,USA,SKU-008,3.0,22.27,66.81
+10611,hassan@example,USA,SKU-010,1.0,29.56,29.56
+10618,huda.tariq@@shop.com,Pakistan,SKU-006,2.0,,
+10647,emily.miller@@marketplace.net,Pakistan,SKU-003,4.0,4.74,18.96
+10655,liam.tariq @ shop.com,USA,SKU-004,1.0,7.93,7.93
+10660,zain@example,USA,SKU-004,2.0,7.96,15.92
+10695,ahmed@example,Pakistan,SKU-006,1.0,15.75,15.75
+10702,faizan.singh@@shop.com,India,SKU-005,1.0,3.13,3.13
+10718,sara.tariq@@eml.com,UAE,SKU-006,4.0,13.95,55.8
+10721,john.raza@@marketplace.net,Pakistan,SKU-003,3.0,4.84,14.52
+10733,anil.williams@@shop.com,Pakistan,SKU-009,1.0,9.58,9.58
+10747,noor.noor@@eml.com,Pakistan,SKU-002,4.0,12.14,48.56
+10751,huda.ahmad @ example.com,UAE,SKU-007,5.0,0.0,0.0
+10758,ayesha@example,USA,SKU-010,1.0,,
+10760,ava@example,India,SKU-002,4.0,12.14,48.56
+10762,meera.noor @ hotmail.com,USA,SKU-005,1.0,,
+10770,sonia.ahmad @ shop.com,Pakistan,SKU-010,4.0,27.11,108.44
+10775,faizan@example,UAE,SKU-003,5.0,5.43,27.15
+10780,olivia.ali@@eml.com,Pakistan,SKU-005,3.0,3.2,9.6
+10783,olivia.chen@@mail.com,Pakistan,SKU-005,2.0,3.0,6.0
+10784,priya.patel@@hotmail.com,Pakistan,SKU-009,1.0,9.24,9.24
+10786,laiba@example,Pakistan,SKU-002,3.0,12.88,38.64
+10787,amna.kumar @ mail.com,Pakistan,SKU-009,1.0,9.48,9.48
+10793,rahul.khan @ mail.com,Pakistan,SKU-001,1.0,18.04,18.04
+10807,nida@example,USA,SKU-007,3.0,0.0,0.0
+10809,emily.hassan@@hotmail.com,India,SKU-002,2.0,11.98,23.96
+10818,meera@example,Pakistan,SKU-003,4.0,5.28,21.12
+10837,anil@example,Pakistan,SKU-004,4.0,7.78,31.12
+10850,anil@example,Pakistan,SKU-008,3.0,20.38,61.14
+10855,sophia.qureshi@@hotmail.com,Pakistan,SKU-005,3.0,,
+10859,sonia.davis@@marketplace.net,Pakistan,SKU-004,4.0,8.16,32.64
+10871,priya.doe @ eml.com,Pakistan,SKU-008,4.0,19.81,79.24
+10875,sara.tariq @ eml.com,India,SKU-006,5.0,14.88,74.4
+10879,anil@example,Pakistan,SKU-003,4.0,4.52,18.08
+10894,laiba@example,USA,SKU-001,4.0,18.92,75.68
+10896,zain.miller@@eml.com,Pakistan,SKU-001,4.0,20.23,80.92
+10899,usman.khan@@mail.com,UAE,SKU-005,0.0,3.54,0.0
+10956,michael@example,UAE,SKU-003,4.0,5.17,20.68
+10966,anil@example,USA,SKU-006,4.0,15.51,62.04
+10969,hassan@example,USA,SKU-002,1.0,13.48,13.48
+10975,laiba@example,USA,SKU-003,4.0,5.14,20.56
+10986,ayesha.raza@@shop.com,Pakistan,SKU-009,5.0,9.49,47.45
+10998,bilal.brown @ mail.com,USA,SKU-008,4.0,19.84,79.36
+11013,jane@example,USA,SKU-003,3.0,,
+11019,priya.kumar@@shop.com,UAE,SKU-007,5.0,,
+11030,arjun.noor@@shop.com,Pakistan,SKU-004,1.0,7.1,7.1
+11042,noah@example,India,SKU-007,2.0,0.0,0.0
+11044,nida.zafar @ mail.com,Pakistan,SKU-004,2.0,6.89,13.78
+11054,noah.abbas@@eml.com,UAE,SKU-001,5.0,19.55,97.75
+11074,bilal.smith@@example.com,Pakistan,SKU-008,2.0,22.6,45.2
+11076,arjun@example,UAE,SKU-007,2.0,0.0,0.0
+11101,jane@example,India,SKU-006,3.0,15.39,46.17
+11103,ali.ali @ mail.com,India,SKU-003,4.0,5.19,20.76
+11129,jane.hassan@@marketplace.net,USA,SKU-003,5.0,4.85,24.25
+11134,jane.miller@@mail.com,USA,SKU-005,2.0,3.4,6.8
+11135,hassan.ali@@hotmail.com,UAE,SKU-005,3.0,3.01,9.03
+11141,arjun@example,USA,SKU-006,1.0,16.26,16.26
+11148,laiba@example,Pakistan,SKU-004,1.0,7.69,7.69
+11158,arjun.johnson@@hotmail.com,Pakistan,SKU-004,1.0,8.2,8.2
+11164,john.yadav@@eml.com,USA,SKU-008,5.0,19.83,99.15
+11183,nida@example,USA,SKU-006,4.0,14.29,57.16
+11184,ayesha.ahmad @ mail.com,India,SKU-010,2.0,,
+11232,priya.davis @ mail.com,India,SKU-002,5.0,13.57,67.85
+11254,ali@example,India,SKU-002,4.0,,
+11261,noor.chen@@shop.com,UAE,SKU-004,5.0,7.05,35.25
+11264,anil.chen @ mail.com,India,SKU-008,3.0,20.85,62.55
+11265,olivia@example,Pakistan,SKU-001,1.0,21.07,21.07
+11282,omar.gupta @ eml.com,UAE,SKU-001,1.0,21.53,21.53
+11302,jane@example,USA,SKU-009,2.0,,
+11305,laiba.singh@@mail.com,USA,SKU-004,5.0,7.33,36.65
+11351,huda.khan @ shop.com,Pakistan,SKU-006,1.0,16.21,16.21
+11386,sonia@example,USA,SKU-008,4.0,20.75,83.0
+11388,olivia.ali@@eml.com,Pakistan,SKU-007,2.0,0.0,0.0
+11391,zain.yadav @ example.com,USA,SKU-006,1.0,13.57,13.57
+11409,laiba@example,Pakistan,SKU-005,0.0,3.11,0.0
+11427,amna.qureshi @ example.com,India,SKU-005,4.0,3.0,12.0
+11443,ali@example,Pakistan,SKU-008,2.0,20.13,40.26
+11454,omar@example,USA,SKU-006,5.0,16.35,81.75
+11470,anil.zafar @ mail.com,USA,SKU-010,4.0,30.94,123.76
+11475,faizan@example,USA,SKU-010,5.0,28.33,141.65
+11480,sonia.johnson@@example.com,India,SKU-004,2.0,6.86,13.72
+11482,usman.ahmad @ shop.com,UAE,SKU-006,1.0,13.5,13.5
+11499,arjun.davis@@shop.com,India,SKU-010,0.0,28.73,0.0
+11517,michael@example,USA,SKU-005,1.0,3.11,3.11
+11521,noor.sharma @ eml.com,India,SKU-007,2.0,0.0,0.0
+11557,sonia.noor @ mail.com,UAE,SKU-002,2.0,13.65,27.3
+11563,jane@example,UAE,SKU-007,2.0,,
+11572,ava.gupta @ mail.com,Pakistan,SKU-003,5.0,4.79,23.95
+11575,sophia@example,India,SKU-007,1.0,0.0,0.0
+11577,ahmed.chen@@shop.com,India,SKU-005,2.0,3.1,6.2
+11602,sophia.sharma @ shop.com,Pakistan,SKU-005,5.0,,
+11615,jane.zafar@@eml.com,India,SKU-010,3.0,27.92,83.76
+11621,hassan@example,Pakistan,SKU-003,3.0,4.66,13.98
+11622,faizan.miller@@shop.com,UAE,SKU-008,3.0,23.45,70.35
+11646,emily.zafar@@shop.com,Pakistan,SKU-008,3.0,20.18,60.54
+11651,ahmed.patel@@example.com,India,SKU-002,5.0,13.08,65.4
+11665,sophia.johnson@@example.com,USA,SKU-008,1.0,22.4,22.4
+11667,arjun.johnson@@eml.com,Pakistan,SKU-009,0.0,9.53,0.0
+11673,nida@example,UAE,SKU-004,2.0,8.2,16.4
+11703,sara@example,Pakistan,SKU-008,4.0,23.64,94.56
+11727,laiba.obrien @ mail.com,Pakistan,SKU-006,4.0,15.89,63.56
+11765,ava@example,Pakistan,SKU-007,1.0,0.0,0.0
+11770,ali.williams@@eml.com,USA,SKU-004,3.0,,
+11773,meera.noor @ eml.com,Pakistan,SKU-008,5.0,,
+11774,noah.khan@@mail.com,USA,SKU-008,2.0,23.14,46.28
+11780,ayesha.akram@@mail.com,USA,SKU-010,5.0,28.39,141.95
+11788,ali@example,UAE,SKU-005,4.0,3.27,13.08
+11789,ayesha.zafar @ mail.com,USA,SKU-001,5.0,20.51,102.55
+11823,nida.abbas@@hotmail.com,India,SKU-002,2.0,12.06,24.12
+11867,usman.hassan @ example.com,USA,SKU-003,,5.47,
+11884,ahmed.akram @ hotmail.com,Pakistan,SKU-001,4.0,18.7,74.8
+11886,jane@example,UAE,SKU-004,5.0,6.87,34.35
+11898,john@example,UAE,SKU-001,2.0,18.45,36.9
+11920,ali.raza@@eml.com,Pakistan,SKU-009,1.0,10.06,10.06
+11938,faizan.patel @ example.com,USA,SKU-002,2.0,11.78,23.56
+11942,laiba.zafar@@example.com,Pakistan,SKU-006,5.0,16.11,80.55
+11944,faizan@example,UAE,SKU-003,4.0,5.01,20.04
+11947,nida.abbas@@marketplace.net,India,SKU-010,1.0,30.17,30.17
+11953,anil@example,UAE,SKU-010,3.0,32.8,98.4
+11964,ahmed@example,India,SKU-010,1.0,,
+11973,ali.chen @ marketplace.net,Pakistan,SKU-006,2.0,14.69,29.38
+11981,usman.ali @ shop.com,Pakistan,SKU-004,4.0,6.85,27.4
+11998,meera.davis@@shop.com,Pakistan,SKU-008,1.0,,
+12000,jane@example,Pakistan,SKU-009,3.0,10.79,32.37
+12034,laiba@example,India,SKU-008,4.0,23.41,93.64
+12035,arjun.tariq @ eml.com,USA,SKU-009,4.0,10.83,43.32
+12042,michael@example,Pakistan,SKU-010,5.0,29.29,146.45
+12043,ali.patel @ mail.com,Pakistan,SKU-007,5.0,0.0,0.0
+12058,huda@example,India,SKU-010,2.0,32.51,65.02
+12061,olivia.raza@@eml.com,USA,SKU-007,2.0,0.0,0.0
+12072,usman.brown @ eml.com,Pakistan,SKU-010,4.0,27.8,111.2
+12075,usman.brown@@example.com,USA,SKU-002,1.0,12.75,12.75
+12078,sophia@example,India,SKU-008,5.0,20.74,103.7
+12097,jane.tariq@@mail.com,Pakistan,SKU-003,3.0,5.48,16.44
+12104,laiba.johnson @ marketplace.net,Pakistan,SKU-001,1.0,19.32,19.32
+12108,rahul.hassan @ marketplace.net,USA,SKU-005,3.0,3.23,9.69
+12119,nida.miller@@eml.com,Pakistan,SKU-001,3.0,,
+12129,jane.ali@@eml.com,USA,SKU-006,1.0,14.8,14.8
+12150,hassan@example,UAE,SKU-008,4.0,22.02,88.08
+12243,laiba@example,UAE,SKU-007,3.0,0.0,0.0
+12244,amna@example,UAE,SKU-009,3.0,10.17,30.51
+12249,ahmed.patel @ eml.com,Pakistan,SKU-006,4.0,13.75,55.0
+12254,nida.sharma @ eml.com,India,SKU-009,4.0,10.23,40.92
+12255,olivia.qureshi @ eml.com,India,SKU-001,3.0,19.13,57.39
+12260,bilal.abbas@@mail.com,Pakistan,SKU-007,3.0,0.0,0.0
+12282,hassan.chen@@marketplace.net,Pakistan,SKU-002,5.0,12.04,60.2
+12284,ava.raza @ hotmail.com,India,SKU-006,0.0,14.64,0.0
+12290,priya@example,Pakistan,SKU-005,3.0,3.39,10.17
+12294,ayesha@example,India,SKU-002,1.0,11.62,11.62
+12298,priya.khan @ mail.com,India,SKU-001,1.0,21.34,21.34
+12314,noah.ahmad@@marketplace.net,UAE,SKU-010,3.0,27.04,81.12
+12322,hassan.zafar @ hotmail.com,UAE,SKU-003,4.0,5.24,20.96
+12348,anil.akram @ shop.com,USA,SKU-008,,22.87,
+12354,sophia.williams@@marketplace.net,Pakistan,SKU-010,,,
+12368,ava.noor@@shop.com,Pakistan,SKU-005,2.0,3.28,6.56
+12369,sonia@example,India,SKU-010,5.0,32.36,161.8
+12372,sara.abbas @ mail.com,Pakistan,SKU-006,2.0,14.22,28.44
+12388,omar.zafar @ example.com,India,SKU-008,5.0,20.33,101.65
+12414,john.doe@@marketplace.net,UAE,SKU-007,2.0,0.0,0.0
+12417,emily.davis @ shop.com,Pakistan,SKU-007,2.0,0.0,0.0
+12424,arjun.hassan@@mail.com,Pakistan,SKU-010,3.0,32.55,97.65
+12432,jane@example,UAE,SKU-007,2.0,0.0,0.0
+12436,emily.zafar@@hotmail.com,Pakistan,SKU-008,1.0,23.1,23.1
+12461,huda@example,UAE,SKU-004,5.0,,
+12470,usman.noor@@mail.com,USA,SKU-009,1.0,9.57,9.57
+12480,anil.ahmad@@shop.com,India,SKU-001,3.0,18.22,54.66
+12481,sara.ahmad @ eml.com,Pakistan,SKU-002,3.0,12.2,36.6
+12497,laiba.johnson @ eml.com,UAE,SKU-004,5.0,7.1,35.5
+12542,anil.chen@@marketplace.net,India,SKU-010,2.0,28.76,57.52
+12544,faizan@example,USA,SKU-008,3.0,21.93,65.79
+12554,ali.kumar@@mail.com,Pakistan,SKU-006,4.0,15.98,63.92
+12557,emily@example,Pakistan,SKU-004,1.0,7.91,7.91
+12560,ali.sharma @ example.com,Pakistan,SKU-009,1.0,,
+12567,ayesha.akram@@marketplace.net,Pakistan,SKU-009,2.0,10.52,21.04
+12578,anil@example,India,SKU-001,4.0,19.95,79.8
+12588,usman.ahmad @ hotmail.com,USA,SKU-010,1.0,32.73,32.73
+12591,rahul.ali @ hotmail.com,Pakistan,SKU-003,4.0,4.91,19.64
+12593,sara.obrien @ shop.com,Pakistan,SKU-006,3.0,16.12,48.36
+12605,olivia.khan@@hotmail.com,Pakistan,SKU-004,4.0,7.51,30.04
+12606,ahmed.smith @ example.com,Pakistan,SKU-009,5.0,9.63,48.15
+12618,anil.chen@@hotmail.com,USA,SKU-003,4.0,5.01,20.04
+12619,laiba@example,Pakistan,SKU-009,4.0,10.96,43.84
+12624,noah@example,Pakistan,SKU-002,1.0,13.67,13.67
+12627,ali.singh@@mail.com,UAE,SKU-007,1.0,0.0,0.0
+12672,ali.khan @ marketplace.net,USA,SKU-005,5.0,3.38,16.9
+12676,liam.akram@@eml.com,USA,SKU-005,1.0,2.95,2.95
+12680,bilal.akram @ mail.com,UAE,SKU-006,5.0,14.38,71.9
+12682,ali.singh @ mail.com,Pakistan,SKU-002,1.0,12.49,12.49
+12685,huda@example,Pakistan,SKU-001,2.0,20.09,40.18
+12687,jane.ali@@mail.com,Pakistan,SKU-001,3.0,21.1,63.3
+12688,ava.smith@@eml.com,India,SKU-003,3.0,5.08,15.24
+12708,meera.khan @ example.com,Pakistan,SKU-007,0.0,0.0,0.0
+12737,usman.obrien@@eml.com,Pakistan,SKU-006,1.0,15.16,15.16
+12757,priya@example,UAE,SKU-004,1.0,8.09,8.09
+12784,zain@example,UAE,SKU-009,2.0,9.46,18.92
+12797,ava.siddiqui @ mail.com,Pakistan,SKU-010,5.0,,
+12798,sonia@example,USA,SKU-003,5.0,5.38,26.9
+12812,usman.doe @ eml.com,UAE,SKU-009,5.0,9.17,45.85
+12814,hassan.miller@@eml.com,Pakistan,SKU-008,4.0,23.72,94.88
+12824,michael.gupta@@eml.com,Pakistan,SKU-005,1.0,3.08,3.08
+12834,john.tariq @ marketplace.net,India,SKU-008,2.0,23.24,46.48
+12845,ayesha.obrien@@mail.com,India,SKU-006,5.0,14.01,70.05
+12856,anil.abbas @ marketplace.net,USA,SKU-001,3.0,19.69,59.07
+12859,jane.khan @ example.com,India,SKU-001,5.0,20.55,102.75
+12866,rahul.siddiqui@@marketplace.net,UAE,SKU-009,2.0,9.12,18.24
+12868,ayesha.hassan@@marketplace.net,Pakistan,SKU-009,,10.28,
+12880,ayesha.ali@@mail.com,Pakistan,SKU-008,2.0,,
+12901,sonia.davis@@eml.com,Pakistan,SKU-006,0.0,14.09,0.0
+12918,emily.iqbal @ marketplace.net,USA,SKU-002,4.0,13.34,53.36
+12920,laiba@example,India,SKU-001,4.0,19.2,76.8
+12931,arjun.qureshi @ eml.com,Pakistan,SKU-008,5.0,21.3,106.5
+12946,arjun@example,Pakistan,SKU-006,3.0,13.84,41.52
+12951,sophia.khan @ mail.com,USA,SKU-005,3.0,3.15,9.45
+12954,meera@example,UAE,SKU-010,0.0,29.47,0.0
+12957,priya@example,USA,SKU-001,2.0,18.09,36.18
+12995,ahmed@example,USA,SKU-005,4.0,3.19,12.76
+13006,michael@example,Pakistan,SKU-010,5.0,27.84,139.2
+13033,omar.ali @ mail.com,USA,SKU-006,2.0,15.62,31.24
+13035,olivia@example,Pakistan,SKU-002,3.0,,
+13043,jane@example,UAE,SKU-001,4.0,18.88,75.52
+13054,ali.raza@@example.com,USA,SKU-010,2.0,,
+13062,zain.yadav@@example.com,Pakistan,SKU-001,2.0,21.81,43.62
+13065,hassan@example,UAE,SKU-004,5.0,7.38,36.9
+13066,ali@example,Pakistan,SKU-003,5.0,5.09,25.45
+13067,ayesha.hassan @ mail.com,USA,SKU-007,3.0,0.0,0.0
+13070,ayesha.patel@@marketplace.net,Pakistan,SKU-001,2.0,18.53,37.06
+13093,noah.miller @ shop.com,India,SKU-009,1.0,10.73,10.73
+13102,john.qureshi @ mail.com,USA,SKU-009,3.0,10.41,31.23
+13121,sara.smith@@example.com,Pakistan,SKU-008,5.0,22.1,110.5
+13125,john.khan@@hotmail.com,UAE,SKU-002,4.0,13.38,53.52
+13165,sophia@example,USA,SKU-005,2.0,3.05,6.1
+13182,emily.davis @ eml.com,USA,SKU-002,5.0,13.11,65.55
+13186,sonia.qureshi @ mail.com,USA,SKU-009,4.0,10.77,43.08
+13190,ali.kumar@@hotmail.com,UAE,SKU-002,4.0,,
+13200,meera@example,Pakistan,SKU-002,5.0,12.78,63.9
+13211,anil.ahmad@@eml.com,UAE,SKU-007,1.0,0.0,0.0
+13212,rahul@example,UAE,SKU-010,2.0,31.07,62.14
+13213,sophia@example,Pakistan,SKU-008,3.0,21.61,64.83
+13222,arjun.williams @ marketplace.net,USA,SKU-003,1.0,5.0,5.0
+13236,noor@example,USA,SKU-010,1.0,28.5,28.5
+13268,jane@example,Pakistan,SKU-009,2.0,10.44,20.88
+13277,laiba.davis@@marketplace.net,Pakistan,SKU-009,5.0,9.29,46.45
+13300,arjun.noor @ mail.com,USA,SKU-007,1.0,0.0,0.0
+13304,omar.smith @ marketplace.net,USA,SKU-007,4.0,0.0,0.0
+13342,anil@example,Pakistan,SKU-001,3.0,18.09,54.27
+13343,olivia@example,Pakistan,SKU-002,4.0,11.57,46.28
+13373,john.khan@@shop.com,USA,SKU-005,4.0,3.21,12.84
+13384,laiba@example,Pakistan,SKU-010,5.0,,
+13408,olivia.obrien@@shop.com,India,SKU-003,5.0,4.55,22.75
+13422,meera@example,Pakistan,SKU-009,2.0,9.62,19.24
+13423,priya@example,USA,SKU-008,,24.2,
+13432,ali.doe@@eml.com,USA,SKU-002,2.0,12.51,25.02
+13437,sophia.patel @ mail.com,Pakistan,SKU-007,4.0,0.0,0.0
+13438,noah.raza @ mail.com,Pakistan,SKU-007,2.0,,
+13439,ayesha.hassan @ mail.com,UAE,SKU-002,5.0,,
+13477,noor.zafar @ mail.com,Pakistan,SKU-002,4.0,13.42,53.68
+13484,priya@example,USA,SKU-002,5.0,12.75,63.75
+13498,usman.gupta @ mail.com,Pakistan,SKU-006,3.0,13.56,40.68
+13507,priya.chen @ shop.com,India,SKU-007,5.0,0.0,0.0
+13509,zain.brown@@eml.com,UAE,SKU-009,1.0,10.91,10.91
+13523,ali.akram@@mail.com,UAE,SKU-010,4.0,32.77,131.08
+13526,hassan.kumar @ example.com,UAE,SKU-006,1.0,14.5,14.5
+13535,omar@example,USA,SKU-001,1.0,21.06,21.06
+13552,bilal.chen @ marketplace.net,India,SKU-008,1.0,20.13,20.13
+13559,john.tariq@@hotmail.com,Pakistan,SKU-007,3.0,0.0,0.0
+13563,sara.patel @ example.com,India,SKU-009,3.0,9.52,28.56
+13569,sophia.akram @ shop.com,UAE,SKU-009,2.0,,
+13593,faizan.kumar @ hotmail.com,India,SKU-001,3.0,21.6,64.8
+13604,john.johnson @ eml.com,UAE,SKU-007,4.0,0.0,0.0
+13610,laiba.brown@@eml.com,UAE,SKU-005,2.0,3.31,6.62
+13613,zain.hassan @ eml.com,India,SKU-002,4.0,,
+13643,huda.obrien@@hotmail.com,Pakistan,SKU-001,1.0,20.11,20.11
+13647,olivia.khan@@mail.com,Pakistan,SKU-007,1.0,0.0,0.0
+13689,bilal.ahmad @ mail.com,Pakistan,SKU-008,1.0,23.07,23.07
+13695,noah.akram @ example.com,Pakistan,SKU-007,5.0,0.0,0.0
+13704,priya.raza@@marketplace.net,USA,SKU-006,5.0,15.08,75.4
+13728,nida.hassan @ shop.com,USA,SKU-006,3.0,13.99,41.97
+13755,sara@example,USA,SKU-003,1.0,,
+13760,priya.yadav @ eml.com,India,SKU-002,4.0,11.58,46.32
+13764,jane.raza@@shop.com,Pakistan,SKU-008,1.0,22.71,22.71
+13766,ava.akram @ eml.com,Pakistan,SKU-003,2.0,5.43,10.86
+13803,john.johnson@@eml.com,Pakistan,SKU-005,4.0,3.2,12.8
+13809,noor.kumar @ eml.com,USA,SKU-004,3.0,7.99,23.97
+13813,olivia.yadav@@example.com,Pakistan,SKU-006,1.0,15.4,15.4
+13831,arjun.chen @ hotmail.com,USA,SKU-005,,2.97,
+13875,emily.iqbal@@shop.com,Pakistan,SKU-006,5.0,14.25,71.25
+13878,hassan@example,India,SKU-001,5.0,20.14,100.7
+13881,nida.ahmad @ hotmail.com,India,SKU-009,5.0,10.03,50.15
+13909,ayesha.sharma @ marketplace.net,Pakistan,SKU-002,5.0,13.61,68.05
+13911,bilal.abbas@@shop.com,UAE,SKU-007,1.0,0.0,0.0
+13928,sara.ali @ mail.com,India,SKU-006,5.0,15.69,78.45
+13929,nida@example,Pakistan,SKU-009,1.0,10.79,10.79
+13933,arjun.sharma@@example.com,Pakistan,SKU-008,2.0,23.03,46.06
+13939,huda@example,USA,SKU-005,3.0,3.44,10.32
+13960,sonia@example,UAE,SKU-004,3.0,,
+13973,noor.kumar@@marketplace.net,Pakistan,SKU-001,2.0,,
+13980,bilal@example,Pakistan,SKU-009,3.0,10.14,30.42
+13987,nida.hassan @ marketplace.net,Pakistan,SKU-004,4.0,,
+13995,michael.abbas @ shop.com,USA,SKU-006,4.0,14.41,57.64
+14043,jane@example,USA,SKU-005,5.0,3.18,15.9
+14046,rahul@example,Pakistan,SKU-005,1.0,3.19,3.19
+14070,huda.gupta@@hotmail.com,India,SKU-010,2.0,28.92,57.84
+14079,anil@example,Pakistan,SKU-007,1.0,0.0,0.0
+14095,noah.miller @ marketplace.net,Pakistan,SKU-003,3.0,4.75,14.25
+14096,olivia.gupta @ marketplace.net,USA,SKU-007,1.0,0.0,0.0
+14105,usman.siddiqui @ hotmail.com,USA,SKU-003,1.0,5.3,5.3
+14118,omar.singh@@example.com,Pakistan,SKU-003,1.0,5.06,5.06
+14138,john.doe@@mail.com,UAE,SKU-009,5.0,9.42,47.1
+14154,arjun@example,USA,SKU-003,5.0,4.7,23.5
+14159,ava.brown @ hotmail.com,India,SKU-010,4.0,31.91,127.64
+14163,emily.brown @ mail.com,Pakistan,SKU-001,4.0,20.86,83.44
+14188,omar@example,Pakistan,SKU-002,3.0,13.59,40.77
+14196,hassan.williams @ example.com,India,SKU-010,1.0,30.96,30.96
+14202,ahmed@example,India,SKU-007,2.0,0.0,0.0
+14217,sonia@example,USA,SKU-010,1.0,31.05,31.05
+14225,ali.kumar@@shop.com,India,SKU-001,5.0,18.18,90.9
+14230,ayesha.zafar @ shop.com,USA,SKU-006,4.0,16.11,64.44
+14234,anil.brown@@shop.com,Pakistan,SKU-004,4.0,7.34,29.36
+14265,arjun@example,India,SKU-007,3.0,0.0,0.0
+14282,ali.smith@@shop.com,Pakistan,SKU-007,4.0,0.0,0.0
+14285,bilal@example,USA,SKU-002,3.0,12.25,36.75
+14296,arjun.qureshi @ marketplace.net,USA,SKU-007,1.0,0.0,0.0
+14318,faizan.siddiqui @ hotmail.com,Pakistan,SKU-002,5.0,13.47,67.35
+14336,michael@example,Pakistan,SKU-001,5.0,19.39,96.95
+14344,zain@example,India,SKU-001,2.0,19.55,39.1
+14359,olivia.ali @ hotmail.com,UAE,SKU-006,1.0,,
+14375,laiba@example,India,SKU-001,3.0,21.17,63.51
+14385,sophia.yadav@@example.com,USA,SKU-008,5.0,,
+14386,jane@example,UAE,SKU-009,2.0,9.54,19.08
+14391,hassan.smith@@mail.com,India,SKU-010,1.0,27.68,27.68
+14420,john.doe @ hotmail.com,Pakistan,SKU-010,5.0,32.38,161.9
+14422,emily.doe @ mail.com,USA,SKU-004,5.0,8.21,41.05
+14445,olivia@example,India,SKU-006,2.0,15.54,31.08
+14455,ali.noor@@mail.com,USA,SKU-006,2.0,,
+14470,sonia.davis@@shop.com,India,SKU-007,1.0,,
+14486,sophia.williams@@mail.com,Pakistan,SKU-010,5.0,29.25,146.25
+14490,priya.kumar@@shop.com,UAE,SKU-010,3.0,29.78,89.34
+14497,jane.smith @ eml.com,India,SKU-008,3.0,20.98,62.94
+14510,emily.sharma@@mail.com,India,SKU-002,3.0,11.88,35.64
+14512,jane.khan @ mail.com,USA,SKU-010,5.0,28.41,142.05
+14514,omar@example,USA,SKU-008,3.0,21.56,64.68
+14521,olivia@example,Pakistan,SKU-002,5.0,,
+14524,ayesha.khan @ eml.com,Pakistan,SKU-007,4.0,0.0,0.0
+14537,huda.raza@@hotmail.com,Pakistan,SKU-005,1.0,3.07,3.07
+14538,bilal.gupta@@eml.com,UAE,SKU-002,2.0,13.48,26.96
+14539,ali.miller @ mail.com,UAE,SKU-006,4.0,16.5,66.0
+14546,michael.williams@@example.com,USA,SKU-008,4.0,23.36,93.44
+14572,usman@example,USA,SKU-003,3.0,,
+14633,usman.abbas @ mail.com,Pakistan,SKU-002,1.0,13.38,13.38
+14637,ayesha@example,India,SKU-002,4.0,11.52,46.08
+14645,noor@example,Pakistan,SKU-010,5.0,31.95,159.75
+14646,bilal.abbas@@example.com,UAE,SKU-006,5.0,16.14,80.7
+14649,john.iqbal @ shop.com,USA,SKU-001,1.0,18.0,18.0
+14657,arjun.ali @ mail.com,Pakistan,SKU-010,3.0,29.34,88.02
+14671,ava@example,Pakistan,SKU-008,1.0,20.29,20.29
+14678,omar@example,UAE,SKU-009,1.0,10.39,10.39
+14710,amna.zafar @ marketplace.net,UAE,SKU-003,4.0,5.35,21.4
+14722,jane.smith @ example.com,India,SKU-005,4.0,3.19,12.76
+14724,ali.smith@@marketplace.net,Pakistan,SKU-002,2.0,12.22,24.44
+14730,jane.yadav@@mail.com,Pakistan,SKU-005,4.0,3.13,12.52
+14742,usman@example,USA,SKU-006,3.0,,
+14758,nida.noor@@marketplace.net,USA,SKU-010,1.0,30.19,30.19
+14760,anil.ali@@hotmail.com,Pakistan,SKU-006,3.0,15.72,47.16
+14762,nida.brown@@marketplace.net,USA,SKU-009,1.0,10.22,10.22
+14786,liam.tariq@@shop.com,India,SKU-003,5.0,4.93,24.65
+14824,amna.gupta @ shop.com,Pakistan,SKU-009,1.0,,
+14831,jane.johnson@@example.com,Pakistan,SKU-004,1.0,7.44,7.44
+14833,liam@example,India,SKU-006,1.0,15.37,15.37
+14840,jane.smith @ hotmail.com,USA,SKU-002,5.0,12.31,61.55
+14849,usman.patel@@mail.com,Pakistan,SKU-002,1.0,12.76,12.76
+14851,ava.doe@@eml.com,USA,SKU-006,2.0,15.52,31.04
+14862,bilal@example,Pakistan,SKU-004,0.0,6.97,0.0
+14869,meera.iqbal@@eml.com,India,SKU-010,5.0,31.32,156.6
+14887,huda.smith @ example.com,USA,SKU-010,5.0,32.91,164.55
+14910,huda@example,USA,SKU-008,4.0,23.35,93.4
+14912,ali.brown @ shop.com,UAE,SKU-005,4.0,3.56,14.24
+14913,sonia.ali @ marketplace.net,Pakistan,SKU-007,3.0,0.0,0.0
+14929,noor.smith @ hotmail.com,UAE,SKU-006,2.0,15.24,30.48
+14938,arjun.williams@@shop.com,UAE,SKU-005,2.0,3.22,6.44
+14949,ahmed@example,Pakistan,SKU-007,3.0,,
+14954,omar@example,Pakistan,SKU-005,3.0,3.07,9.21
+14960,nida.iqbal @ example.com,India,SKU-001,1.0,,
+14967,anil@example,Pakistan,SKU-007,4.0,0.0,0.0
+14969,arjun.obrien@@example.com,Pakistan,SKU-004,4.0,7.38,29.52
+14992,bilal.williams@@hotmail.com,India,SKU-003,2.0,5.12,10.24
+15016,jane.brown @ hotmail.com,USA,SKU-005,5.0,3.54,17.7
+15036,zain@example,Pakistan,SKU-005,5.0,3.12,15.6
+15046,priya@example,UAE,SKU-003,3.0,,
+15064,anil.ahmad @ mail.com,USA,SKU-010,2.0,,
+15065,olivia.smith @ example.com,Pakistan,SKU-008,4.0,,
+15082,olivia.yadav@@example.com,USA,SKU-004,2.0,7.51,15.02
+15083,meera@example,USA,SKU-010,1.0,29.9,29.9
+15098,amna.abbas @ eml.com,UAE,SKU-004,4.0,7.09,28.36
+15121,huda.johnson @ hotmail.com,India,SKU-007,1.0,0.0,0.0
+15125,amna.tariq @ mail.com,Pakistan,SKU-002,3.0,13.17,39.51
+15131,ava.akram@@shop.com,India,SKU-010,2.0,30.45,60.9
+15140,zain.miller @ mail.com,India,SKU-005,2.0,3.33,6.66
+15157,ayesha.sharma @ marketplace.net,India,SKU-001,2.0,,
+15163,bilal@example,Pakistan,SKU-005,4.0,3.03,12.12
+15174,huda@example,India,SKU-005,2.0,,
+15208,jane.doe @ shop.com,UAE,SKU-010,1.0,30.97,30.97
+15214,sonia@example,USA,SKU-004,1.0,8.13,8.13
+15216,bilal.chen@@mail.com,Pakistan,SKU-005,3.0,3.15,9.45
+15218,noor.tariq@@shop.com,UAE,SKU-005,5.0,2.95,14.75
+15242,ali.abbas@@shop.com,UAE,SKU-010,4.0,30.08,120.32
+15260,amna.yadav @ hotmail.com,USA,SKU-004,,7.88,
+15269,ayesha.williams @ example.com,Pakistan,SKU-007,3.0,,
+15272,hassan.kumar@@eml.com,Pakistan,SKU-009,4.0,10.36,41.44
+15289,michael.gupta @ eml.com,Pakistan,SKU-010,5.0,28.02,140.1
+15296,sophia@example,India,SKU-008,3.0,23.89,71.67
+15306,noah.sharma @ marketplace.net,USA,SKU-007,4.0,0.0,0.0
+15312,nida.ali @ shop.com,Pakistan,SKU-004,4.0,7.39,29.56
+15323,ahmed.ahmad@@shop.com,Pakistan,SKU-004,1.0,6.94,6.94
+15326,sophia.siddiqui @ eml.com,Pakistan,SKU-008,4.0,,
+15344,ava@example,Pakistan,SKU-004,1.0,7.92,7.92
+15347,huda.smith @ marketplace.net,India,SKU-010,4.0,29.37,117.48
+15368,hassan.smith@@eml.com,Pakistan,SKU-008,4.0,23.35,93.4
+15393,olivia@example,Pakistan,SKU-003,5.0,4.8,24.0
+15394,noah@example,India,SKU-008,2.0,20.37,40.74
+15400,faizan.kumar@@eml.com,USA,SKU-007,3.0,0.0,0.0
+15410,noor@example,Pakistan,SKU-006,1.0,16.28,16.28
+15411,noor.smith@@hotmail.com,India,SKU-002,3.0,,
+15419,huda.sharma@@hotmail.com,Pakistan,SKU-003,4.0,4.72,18.88
+15444,nida.ali @ mail.com,India,SKU-008,2.0,23.87,47.74
+15453,sara@example,Pakistan,SKU-004,4.0,6.96,27.84
+15457,noah.tariq@@marketplace.net,UAE,SKU-010,3.0,29.79,89.37
+15484,hassan.brown@@eml.com,Pakistan,SKU-001,3.0,21.68,65.04
+15527,sara.ali@@eml.com,UAE,SKU-008,4.0,22.34,89.36
+15532,liam.noor @ example.com,Pakistan,SKU-003,4.0,5.07,20.28
+15535,hassan.noor @ marketplace.net,USA,SKU-004,5.0,6.81,34.05
+15555,olivia.ali@@marketplace.net,Pakistan,SKU-002,3.0,12.6,37.8
+15560,sonia.akram @ shop.com,UAE,SKU-005,4.0,3.16,12.64
+15565,noah@example,Pakistan,SKU-007,1.0,0.0,0.0
+15570,faizan@example,India,SKU-004,1.0,7.37,7.37
+15574,john@example,India,SKU-007,1.0,0.0,0.0
+15586,olivia.brown@@hotmail.com,UAE,SKU-004,2.0,7.82,15.64
+15593,emily@example,UAE,SKU-007,5.0,0.0,0.0
+15606,nida@example,USA,SKU-006,5.0,14.65,73.25
+15611,meera.johnson@@shop.com,Pakistan,SKU-005,5.0,2.95,14.75
+15631,arjun.patel@@eml.com,USA,SKU-003,2.0,5.15,10.3
+15641,ava.sharma@@hotmail.com,Pakistan,SKU-001,3.0,20.49,61.47
+15667,michael.hassan@@shop.com,India,SKU-004,3.0,7.66,22.98
+15675,noor.ali@@marketplace.net,USA,SKU-010,,27.73,
+15693,noor.patel @ eml.com,USA,SKU-006,3.0,15.71,47.13
+15705,hassan.raza @ eml.com,USA,SKU-004,1.0,8.09,8.09
+15714,omar@example,Pakistan,SKU-010,5.0,30.91,154.55
+15729,michael.yadav@@marketplace.net,India,SKU-007,5.0,0.0,0.0
+15730,huda.sharma @ shop.com,USA,SKU-002,2.0,13.41,26.82
+15737,sara.noor @ hotmail.com,Pakistan,SKU-003,3.0,5.32,15.96
+15748,michael.johnson @ mail.com,Pakistan,SKU-006,5.0,15.77,78.85
+15768,noah@example,UAE,SKU-007,3.0,,
+15784,priya.johnson @ example.com,UAE,SKU-005,1.0,2.95,2.95
+15811,anil.williams@@hotmail.com,Pakistan,SKU-008,5.0,20.35,101.75
+15817,rahul.qureshi @ marketplace.net,Pakistan,SKU-005,5.0,3.53,17.65
+15845,ali.brown@@shop.com,India,SKU-004,4.0,7.05,28.2
+15847,omar.yadav@@mail.com,Pakistan,SKU-010,2.0,28.35,56.7
+15855,sara.sharma @ eml.com,India,SKU-005,3.0,3.5,10.5
+15866,sara.ali @ example.com,UAE,SKU-004,1.0,8.07,8.07
+15871,ali.tariq @ hotmail.com,USA,SKU-001,0.0,18.97,0.0
+15879,emily.gupta@@example.com,USA,SKU-002,5.0,12.08,60.4
+15887,meera.ali@@mail.com,USA,SKU-004,2.0,7.31,14.62
+15899,noor.obrien @ hotmail.com,Pakistan,SKU-001,2.0,19.66,39.32
+15901,olivia.obrien@@example.com,Pakistan,SKU-006,4.0,14.13,56.52
+15911,usman.davis @ eml.com,USA,SKU-002,3.0,13.4,40.2
+15923,ali.yadav @ marketplace.net,UAE,SKU-003,5.0,4.96,24.8
+15963,noor.hassan @ eml.com,Pakistan,SKU-006,1.0,16.45,16.45
+15970,bilal@example,USA,SKU-008,2.0,23.39,46.78
+15987,olivia.doe @ marketplace.net,UAE,SKU-007,4.0,0.0,0.0
+15988,michael@example,India,SKU-009,2.0,9.37,18.74
+16000,liam.yadav @ hotmail.com,USA,SKU-010,4.0,27.37,109.48
+16008,emily.kumar@@example.com,USA,SKU-010,3.0,29.35,88.05
+16024,priya@example,Pakistan,SKU-004,3.0,6.97,20.91
+16026,sara.qureshi@@hotmail.com,Pakistan,SKU-010,5.0,,
+16029,noah.noor@@marketplace.net,Pakistan,SKU-002,3.0,13.26,39.78
+16081,sara@example,UAE,SKU-003,4.0,4.88,19.52
+16085,emily.raza@@shop.com,India,SKU-008,4.0,,
+16092,ayesha@example,Pakistan,SKU-004,1.0,7.14,7.14
+16097,ali@example,India,SKU-002,1.0,11.4,11.4
+16144,laiba.zafar@@mail.com,Pakistan,SKU-007,5.0,0.0,0.0
+16146,noah@example,Pakistan,SKU-002,4.0,11.35,45.4
+16155,arjun.chen@@mail.com,Pakistan,SKU-008,3.0,22.9,68.7
+16176,ayesha.johnson @ eml.com,India,SKU-006,2.0,14.68,29.36
+16177,rahul@example,UAE,SKU-002,3.0,12.35,37.05
+16187,rahul@example,Pakistan,SKU-008,4.0,21.51,86.04
+16194,liam@example,India,SKU-005,3.0,3.01,9.03
+16200,noah@example,India,SKU-002,5.0,12.62,63.1
+16207,omar@example,Pakistan,SKU-004,4.0,7.49,29.96
+16228,priya.tariq @ example.com,UAE,SKU-008,4.0,21.85,87.4
+16232,laiba.johnson @ eml.com,India,SKU-005,4.0,3.16,12.64
+16238,nida@example,UAE,SKU-005,2.0,3.15,6.3
+16239,ali@example,Pakistan,SKU-002,2.0,12.28,24.56
+16240,priya.zafar @ example.com,UAE,SKU-002,2.0,11.5,23.0
+16265,usman@example,Pakistan,SKU-003,,4.58,
+16274,olivia.abbas @ shop.com,India,SKU-003,1.0,5.04,5.04
+16278,faizan@example,India,SKU-002,2.0,13.32,26.64
+16293,omar.raza@@mail.com,India,SKU-001,5.0,19.68,98.4
+16296,ava.davis@@example.com,USA,SKU-010,1.0,27.04,27.04
+16299,faizan.khan @ marketplace.net,UAE,SKU-007,2.0,0.0,0.0
+16312,olivia.siddiqui@@shop.com,UAE,SKU-007,4.0,0.0,0.0
+16324,olivia.qureshi@@hotmail.com,UAE,SKU-010,2.0,29.32,58.64
+16334,omar@example,USA,SKU-010,4.0,28.82,115.28
+16349,nida@example,Pakistan,SKU-001,2.0,,
+16351,noah.smith@@eml.com,Pakistan,SKU-007,5.0,0.0,0.0
+16359,laiba.hassan@@hotmail.com,Pakistan,SKU-007,3.0,0.0,0.0
+16370,nida@example,Pakistan,SKU-010,4.0,,
+16381,ayesha.noor @ marketplace.net,Pakistan,SKU-010,1.0,31.01,31.01
+16406,noah.doe @ marketplace.net,Pakistan,SKU-004,3.0,7.04,21.12
+16415,ava.kumar @ example.com,Pakistan,SKU-004,2.0,7.43,14.86
+16424,priya@example,Pakistan,SKU-010,3.0,,
+16430,sara@example,India,SKU-001,5.0,19.95,99.75
+16448,jane.johnson@@mail.com,UAE,SKU-003,1.0,5.36,5.36
+16472,noor.patel@@eml.com,Pakistan,SKU-004,3.0,,
+16485,john.siddiqui@@eml.com,Pakistan,SKU-010,5.0,27.98,139.9
+16521,ali.obrien@@hotmail.com,Pakistan,SKU-002,1.0,13.58,13.58
+16551,noah.siddiqui @ shop.com,UAE,SKU-001,2.0,21.86,43.72
+16587,sara.sharma @ eml.com,Pakistan,SKU-001,1.0,,
+16590,john.sharma@@shop.com,USA,SKU-007,3.0,0.0,0.0
+16593,bilal@example,USA,SKU-003,2.0,4.78,9.56
+16629,sara.sharma@@example.com,USA,SKU-010,,30.35,
+16643,arjun.gupta@@shop.com,UAE,SKU-002,3.0,12.21,36.63
+16647,ali@example,Pakistan,SKU-008,5.0,24.06,120.3
+16659,sophia.smith@@shop.com,UAE,SKU-001,3.0,20.44,61.32
+16660,anil@example,Pakistan,SKU-006,1.0,14.14,14.14
+16661,anil.smith@@example.com,Pakistan,SKU-006,4.0,15.01,60.04
+16669,ahmed.patel@@mail.com,India,SKU-004,4.0,7.64,30.56
+16677,anil.smith @ marketplace.net,Pakistan,SKU-005,5.0,3.24,16.2
+16684,priya@example,USA,SKU-009,4.0,10.53,42.12
+16709,nida.obrien @ eml.com,USA,SKU-003,2.0,,
+16737,jane@example,UAE,SKU-006,2.0,14.2,28.4
+16765,ali.khan @ example.com,Pakistan,SKU-008,3.0,22.0,66.0
+16805,amna.abbas@@hotmail.com,Pakistan,SKU-010,2.0,29.54,59.08
+16809,noor.gupta @ shop.com,Pakistan,SKU-009,2.0,9.1,18.2
+16822,nida@example,UAE,SKU-005,5.0,3.16,15.8
+16839,nida.raza@@example.com,UAE,SKU-005,1.0,3.42,3.42
+16842,amna.akram@@hotmail.com,Pakistan,SKU-005,1.0,2.94,2.94
+16846,anil.iqbal @ mail.com,USA,SKU-002,5.0,12.11,60.55
+16847,ava.smith @ marketplace.net,India,SKU-004,5.0,7.13,35.65
+16857,emily.ali@@marketplace.net,USA,SKU-005,5.0,,
+16889,hassan@example,USA,SKU-007,3.0,0.0,0.0
+16897,noor@example,Pakistan,SKU-008,5.0,21.98,109.9
+16910,zain.johnson @ shop.com,USA,SKU-008,3.0,21.4,64.2
+16911,meera.smith@@example.com,Pakistan,SKU-005,4.0,3.1,12.4
+16930,sara.kumar @ shop.com,UAE,SKU-006,2.0,15.88,31.76
+16935,emily@example,Pakistan,SKU-010,1.0,32.02,32.02
+16937,anil@example,India,SKU-005,5.0,3.0,15.0
+16953,ayesha@example,UAE,SKU-001,5.0,20.01,100.05
+16986,ayesha@example,India,SKU-002,1.0,13.01,13.01
+16991,sophia.iqbal @ example.com,USA,SKU-002,4.0,11.53,46.12
+17007,huda@example,India,SKU-006,5.0,,
+17012,emily@example,India,SKU-004,4.0,6.89,27.56
+17020,ahmed@example,India,SKU-008,5.0,20.59,102.95
+17033,sophia.noor@@mail.com,UAE,SKU-007,2.0,0.0,0.0
+17052,zain.miller @ marketplace.net,Pakistan,SKU-004,0.0,7.46,0.0
+17053,usman.qureshi @ example.com,India,SKU-005,1.0,,
+17057,sophia.yadav @ example.com,India,SKU-007,5.0,0.0,0.0
+17098,meera.kumar@@example.com,Pakistan,SKU-005,1.0,2.96,2.96
+17108,nida@example,Pakistan,SKU-004,3.0,8.03,24.09
+17109,omar.davis @ hotmail.com,USA,SKU-008,3.0,22.89,68.67
+17126,emily.hassan@@hotmail.com,UAE,SKU-002,1.0,12.96,12.96
+17139,ali.johnson@@marketplace.net,Pakistan,SKU-008,5.0,22.09,110.45
+17143,rahul.brown@@shop.com,India,SKU-002,5.0,13.42,67.1
+17171,faizan.zafar@@marketplace.net,Pakistan,SKU-010,4.0,28.0,112.0
+17173,rahul.miller@@shop.com,USA,SKU-008,4.0,24.05,96.2
+17182,omar.chen@@mail.com,Pakistan,SKU-010,3.0,30.66,91.98
+17223,ayesha.doe @ eml.com,USA,SKU-008,4.0,19.83,79.32
+17239,michael.khan@@eml.com,USA,SKU-006,5.0,,
+17257,ayesha@example,UAE,SKU-008,4.0,21.42,85.68
+17261,john.ahmad @ shop.com,Pakistan,SKU-006,4.0,14.19,56.76
+17285,olivia.akram@@marketplace.net,Pakistan,SKU-009,4.0,9.28,37.12
+17296,laiba.raza @ marketplace.net,Pakistan,SKU-003,5.0,4.88,24.4
+17299,noor.brown @ marketplace.net,USA,SKU-006,3.0,15.41,46.23
+17301,priya.singh @ example.com,UAE,SKU-010,,29.87,
+17302,sara@example,UAE,SKU-005,3.0,,
+17313,olivia.khan @ hotmail.com,India,SKU-002,5.0,12.1,60.5
+17320,bilal.brown @ eml.com,USA,SKU-006,5.0,16.39,81.95
+17330,noah.smith @ mail.com,Pakistan,SKU-006,5.0,14.56,72.8
+17335,rahul.abbas @ example.com,Pakistan,SKU-007,3.0,0.0,0.0
+17356,omar.chen@@eml.com,Pakistan,SKU-006,3.0,14.25,42.75
+17366,ava.kumar@@hotmail.com,USA,SKU-005,1.0,3.03,3.03
+17375,ayesha.iqbal @ eml.com,India,SKU-002,1.0,11.45,11.45
+17382,ayesha@example,Pakistan,SKU-006,5.0,,
+17397,sara.johnson@@mail.com,USA,SKU-002,1.0,12.8,12.8
+17403,michael.khan@@eml.com,Pakistan,SKU-002,5.0,12.84,64.2
+17406,michael@example,India,SKU-004,4.0,8.21,32.84
+17412,faizan.noor @ marketplace.net,Pakistan,SKU-008,4.0,20.73,82.92
+17425,usman.ali@@hotmail.com,USA,SKU-004,1.0,7.29,7.29
+17428,anil.iqbal@@eml.com,India,SKU-001,1.0,21.61,21.61
+17435,faizan.gupta @ marketplace.net,Pakistan,SKU-005,2.0,3.54,7.08
+17450,omar.brown@@mail.com,Pakistan,SKU-001,4.0,,
+17455,ali@example,UAE,SKU-003,4.0,4.88,19.52
+17464,arjun@example,UAE,SKU-003,5.0,4.69,23.45
+17473,sophia@example,India,SKU-005,2.0,3.18,6.36
+17475,olivia@example,UAE,SKU-007,2.0,0.0,0.0
+17477,arjun@example,UAE,SKU-008,3.0,20.49,61.47
+17494,emily.noor@@marketplace.net,Pakistan,SKU-005,1.0,3.09,3.09
+17496,sara@example,UAE,SKU-001,5.0,19.87,99.35
+17518,ayesha.williams @ hotmail.com,India,SKU-007,1.0,0.0,0.0
+17519,arjun.hassan @ mail.com,USA,SKU-006,5.0,14.5,72.5
+17522,nida.abbas @ hotmail.com,UAE,SKU-006,4.0,15.4,61.6
+17545,bilal@example,Pakistan,SKU-003,1.0,5.24,5.24
+17552,amna.smith @ shop.com,Pakistan,SKU-008,4.0,23.76,95.04
+17558,ahmed@example,Pakistan,SKU-007,2.0,0.0,0.0
+17582,sara@example,Pakistan,SKU-003,3.0,4.88,14.64
+17583,noah.khan@@shop.com,Pakistan,SKU-007,5.0,0.0,0.0
+17590,faizan@example,USA,SKU-002,5.0,11.33,56.65
+17593,rahul@example,Pakistan,SKU-006,2.0,16.3,32.6
+17604,huda.johnson @ example.com,UAE,SKU-003,5.0,4.72,23.6
+17607,michael@example,USA,SKU-006,2.0,14.32,28.64
+17616,ava.tariq @ hotmail.com,Pakistan,SKU-003,1.0,4.61,4.61
+17628,noor.chen @ example.com,USA,SKU-004,1.0,7.2,7.2
+17647,amna.ali@@shop.com,Pakistan,SKU-005,4.0,,
+17653,huda@example,USA,SKU-004,2.0,7.7,15.4
+17673,liam.khan @ example.com,Pakistan,SKU-002,2.0,12.17,24.34
+17686,usman.johnson @ marketplace.net,Pakistan,SKU-001,4.0,19.42,77.68
+17693,ayesha@example,USA,SKU-007,2.0,0.0,0.0
+17700,ava.singh @ example.com,Pakistan,SKU-007,3.0,0.0,0.0
+17716,sonia.tariq @ mail.com,Pakistan,SKU-004,1.0,7.82,7.82
+17719,meera.smith @ eml.com,UAE,SKU-010,4.0,29.88,119.52
+17721,hassan@example,India,SKU-009,5.0,10.67,53.35
+17726,usman.ali @ hotmail.com,India,SKU-001,4.0,20.73,82.92
+17727,ahmed@example,USA,SKU-007,4.0,0.0,0.0
+17732,zain.siddiqui @ mail.com,Pakistan,SKU-001,5.0,,
+17748,ali@example,USA,SKU-006,2.0,13.5,27.0
+17760,nida@example,UAE,SKU-009,4.0,9.28,37.12
+17763,priya.brown @ shop.com,India,SKU-008,1.0,22.65,22.65
+17814,hassan.abbas @ eml.com,Pakistan,SKU-009,5.0,10.08,50.4
+17815,hassan@example,India,SKU-010,4.0,30.78,123.12
+17816,arjun.khan @ example.com,UAE,SKU-010,1.0,29.37,29.37
+17819,michael.singh @ shop.com,USA,SKU-003,1.0,5.26,5.26
+17844,laiba.khan@@example.com,UAE,SKU-006,2.0,14.63,29.26
+17847,omar@example,UAE,SKU-002,5.0,13.31,66.55
+17856,huda.abbas@@eml.com,Pakistan,SKU-004,3.0,,
+17875,faizan.williams@@marketplace.net,UAE,SKU-009,2.0,10.3,20.6
+17883,jane@example,Pakistan,SKU-005,0.0,2.99,0.0
+17886,olivia.brown @ mail.com,UAE,SKU-007,2.0,0.0,0.0
+17891,rahul@example,Pakistan,SKU-009,5.0,10.66,53.3
+17892,liam.davis @ example.com,USA,SKU-005,1.0,3.07,3.07
+17905,laiba.miller@@shop.com,USA,SKU-010,4.0,32.27,129.08
+17947,meera.gupta @ example.com,UAE,SKU-006,2.0,15.33,30.66
+17952,zain@example,Pakistan,SKU-006,4.0,15.4,61.6
+17975,omar.williams@@shop.com,India,SKU-002,4.0,13.46,53.84
+17981,amna.davis @ marketplace.net,USA,SKU-007,4.0,0.0,0.0
+17990,zain.kumar @ hotmail.com,USA,SKU-003,3.0,5.39,16.17
+18020,liam@example,USA,SKU-009,2.0,,
+18024,laiba@example,Pakistan,SKU-002,3.0,12.36,37.08
+18029,omar@example,Pakistan,SKU-001,4.0,21.35,85.4
+18050,laiba.iqbal @ marketplace.net,Pakistan,SKU-004,3.0,7.19,21.57
+18062,ayesha@example,Pakistan,SKU-001,5.0,,
+18069,huda.kumar @ eml.com,India,SKU-006,4.0,14.78,59.12
+18082,emily@example,UAE,SKU-010,1.0,31.34,31.34
+18100,amna.khan @ hotmail.com,USA,SKU-005,1.0,3.5,3.5
+18128,jane@example,India,SKU-008,4.0,20.41,81.64
+18135,ava.siddiqui@@eml.com,Pakistan,SKU-006,5.0,16.41,82.05
+18166,laiba.akram@@mail.com,Pakistan,SKU-003,4.0,5.43,21.72
+18183,liam.khan @ example.com,Pakistan,SKU-008,4.0,21.95,87.8
+18194,olivia@example,India,SKU-002,4.0,12.34,49.36
+18201,liam.khan @ mail.com,India,SKU-010,2.0,29.44,58.88
+18212,liam.obrien@@marketplace.net,USA,SKU-002,5.0,,
+18218,sophia.gupta @ eml.com,India,SKU-003,5.0,,
+18220,sonia.ali @ example.com,Pakistan,SKU-005,2.0,3.15,6.3
+18227,omar.qureshi @ marketplace.net,Pakistan,SKU-006,3.0,15.2,45.6
+18232,zain@example,Pakistan,SKU-005,5.0,2.99,14.95
+18236,liam@example,India,SKU-008,3.0,23.62,70.86
+18249,sonia@example,USA,SKU-002,2.0,12.57,25.14
+18252,usman.gupta@@hotmail.com,USA,SKU-009,1.0,10.46,10.46
+18261,olivia.williams @ mail.com,Pakistan,SKU-001,4.0,18.67,74.68
+18263,amna.gupta@@marketplace.net,USA,SKU-006,2.0,14.31,28.62
+18265,rahul.tariq@@example.com,Pakistan,SKU-003,1.0,,
+18274,liam.davis@@hotmail.com,India,SKU-006,5.0,15.34,76.7
+18281,michael.khan@@mail.com,USA,SKU-010,4.0,28.98,115.92
+18317,meera.khan@@mail.com,Pakistan,SKU-005,3.0,3.3,9.9
+18318,ahmed.ali @ mail.com,Pakistan,SKU-008,1.0,24.08,24.08
+18328,huda@example,Pakistan,SKU-002,3.0,13.44,40.32
+18353,priya.smith@@hotmail.com,Pakistan,SKU-005,5.0,3.25,16.25
+18354,anil@example,USA,SKU-006,3.0,16.48,49.44
+18357,emily@example,USA,SKU-001,3.0,18.24,54.72
+18358,olivia.zafar@@hotmail.com,USA,SKU-007,3.0,,
+18377,faizan.patel @ shop.com,USA,SKU-009,4.0,9.39,37.56
+18393,sara.siddiqui@@marketplace.net,Pakistan,SKU-008,2.0,22.53,45.06
+18410,priya@example,India,SKU-002,4.0,12.18,48.72
+18418,huda@example,India,SKU-004,4.0,6.91,27.64
+18440,michael@example,India,SKU-009,2.0,,
+18447,sophia.doe @ hotmail.com,USA,SKU-009,1.0,9.97,9.97
+18457,jane@example,Pakistan,SKU-009,3.0,,
+18475,usman@example,Pakistan,SKU-001,3.0,21.24,63.72
+18485,bilal.miller@@mail.com,Pakistan,SKU-002,2.0,12.57,25.14
+18508,hassan.davis @ eml.com,Pakistan,SKU-002,,13.21,
+18512,sonia.qureshi@@hotmail.com,Pakistan,SKU-009,5.0,10.25,51.25
+18522,ava.raza @ eml.com,Pakistan,SKU-003,1.0,,
+18524,john.patel @ mail.com,Pakistan,SKU-007,5.0,0.0,0.0
+18553,meera.akram @ eml.com,USA,SKU-005,4.0,3.11,12.44
+18555,liam.ahmad@@mail.com,India,SKU-007,3.0,,
+18562,sonia@example,Pakistan,SKU-009,1.0,10.81,10.81
+18566,meera@example,India,SKU-010,2.0,31.05,62.1
+18598,ava.qureshi@@shop.com,USA,SKU-007,3.0,0.0,0.0
+18604,sara@example,Pakistan,SKU-003,2.0,5.35,10.7
+18605,ayesha.brown@@example.com,USA,SKU-004,4.0,7.18,28.72
+18606,sonia@example,UAE,SKU-009,1.0,10.23,10.23
+18623,rahul.chen @ marketplace.net,USA,SKU-006,1.0,15.84,15.84
+18661,emily@example,USA,SKU-001,4.0,21.31,85.24
+18664,faizan@example,Pakistan,SKU-004,3.0,8.25,24.75
+18668,ayesha.doe@@shop.com,USA,SKU-002,3.0,,
+18673,meera.khan @ eml.com,USA,SKU-006,5.0,13.95,69.75
+18679,ayesha.miller@@hotmail.com,Pakistan,SKU-009,2.0,9.59,19.18
+18701,bilal.tariq@@example.com,India,SKU-001,2.0,18.32,36.64
+18710,jane.hassan @ eml.com,USA,SKU-007,1.0,0.0,0.0
+18711,hassan@example,UAE,SKU-005,1.0,3.23,3.23
+18713,anil.williams @ mail.com,India,SKU-002,5.0,13.21,66.05
+18722,ahmed.williams @ marketplace.net,Pakistan,SKU-007,1.0,0.0,0.0
+18729,bilal.doe@@mail.com,Pakistan,SKU-002,1.0,12.84,12.84
+18735,anil.johnson@@marketplace.net,India,SKU-006,4.0,15.27,61.08
+18759,priya.chen@@mail.com,USA,SKU-006,1.0,13.89,13.89
+18764,priya.ali @ marketplace.net,Pakistan,SKU-005,2.0,3.38,6.76
+18767,ali.siddiqui@@example.com,USA,SKU-001,5.0,21.33,106.65
+18773,ava@example,USA,SKU-009,3.0,10.42,31.26
+18780,emily@example,UAE,SKU-010,2.0,30.91,61.82
+18799,hassan.tariq@@shop.com,Pakistan,SKU-001,4.0,19.44,77.76
+18817,zain.yadav@@marketplace.net,Pakistan,SKU-006,3.0,13.84,41.52
+18819,omar.obrien @ eml.com,USA,SKU-007,4.0,0.0,0.0
+18840,emily@example,UAE,SKU-006,3.0,,
+18849,noor.khan@@example.com,Pakistan,SKU-009,3.0,9.52,28.56
+18898,olivia@example,Pakistan,SKU-002,2.0,13.37,26.74
+18901,noah.davis@@hotmail.com,Pakistan,SKU-004,2.0,7.26,14.52
+18905,hassan@example,India,SKU-004,5.0,6.76,33.8
+18928,sonia.abbas@@example.com,India,SKU-005,1.0,3.12,3.12
+18935,omar@example,USA,SKU-005,4.0,3.05,12.2
+18949,bilal.brown@@example.com,Pakistan,SKU-009,1.0,10.88,10.88
+18951,nida.zafar @ shop.com,Pakistan,SKU-010,3.0,27.33,81.99
+18952,amna.ahmad @ marketplace.net,USA,SKU-004,4.0,7.38,29.52
+18963,noah@example,Pakistan,SKU-008,1.0,21.43,21.43
+18972,emily@example,USA,SKU-003,1.0,4.79,4.79
+18979,zain@example,USA,SKU-003,4.0,4.94,19.76
+18989,john.siddiqui@@marketplace.net,UAE,SKU-009,2.0,9.26,18.52
+19005,emily.brown @ marketplace.net,UAE,SKU-008,4.0,22.5,90.0
+19019,sara.akram@@marketplace.net,UAE,SKU-001,1.0,19.5,19.5
+19022,anil.miller @ example.com,India,SKU-005,2.0,,
+19026,bilal.ahmad @ example.com,USA,SKU-008,4.0,22.43,89.72
+19036,zain.tariq @ eml.com,India,SKU-003,1.0,5.02,5.02
+19040,omar@example,USA,SKU-001,2.0,21.38,42.76
+19050,zain.yadav @ shop.com,India,SKU-004,4.0,7.37,29.48
+19080,ahmed.khan @ hotmail.com,Pakistan,SKU-003,3.0,5.44,16.32
+19087,priya.smith@@marketplace.net,UAE,SKU-002,5.0,13.13,65.65
+19095,jane@example,Pakistan,SKU-004,2.0,7.28,14.56
+19103,meera.miller @ mail.com,Pakistan,SKU-001,5.0,19.74,98.7
+19104,laiba@example,Pakistan,SKU-010,2.0,29.92,59.84
+19132,nida@example,Pakistan,SKU-008,1.0,22.22,22.22
+19137,ali@example,Pakistan,SKU-006,1.0,15.03,15.03
+19140,omar@example,India,SKU-001,1.0,19.37,19.37
+19148,hassan.noor@@mail.com,UAE,SKU-003,5.0,,
+19175,sophia@example,Pakistan,SKU-001,5.0,20.93,104.65
+19219,amna@example,India,SKU-010,5.0,28.55,142.75
+19266,arjun.obrien@@eml.com,India,SKU-004,3.0,7.33,21.99
+19271,huda.abbas @ hotmail.com,India,SKU-006,5.0,,
+19280,noah.noor @ eml.com,UAE,SKU-003,1.0,4.78,4.78
+19285,sara.chen@@eml.com,Pakistan,SKU-005,5.0,,
+19288,jane@example,USA,SKU-010,2.0,27.96,55.92
+19290,laiba.tariq@@example.com,Pakistan,SKU-001,2.0,21.23,42.46
+19304,amna@example,Pakistan,SKU-010,3.0,,
+19324,usman@example,UAE,SKU-003,5.0,5.2,26.0
+19329,hassan.siddiqui@@mail.com,USA,SKU-005,5.0,3.17,15.85
+19332,zain@example,Pakistan,SKU-001,3.0,18.42,55.26
+19342,bilal.akram @ mail.com,USA,SKU-002,4.0,13.24,52.96
+19343,meera@example,Pakistan,SKU-006,4.0,14.87,59.48
+19359,omar.abbas @ example.com,USA,SKU-009,4.0,10.8,43.2
+19365,nida@example,Pakistan,SKU-010,5.0,,
+19369,amna.smith@@example.com,India,SKU-009,4.0,9.04,36.16
+19378,sophia@example,Pakistan,SKU-004,2.0,6.84,13.68
+19381,sonia.ali@@eml.com,USA,SKU-008,1.0,22.75,22.75
+19392,amna.chen @ example.com,Pakistan,SKU-002,2.0,13.53,27.06
+19444,zain@example,UAE,SKU-006,5.0,15.87,79.35
+19472,ali.raza @ shop.com,USA,SKU-009,1.0,9.0,9.0
+19503,arjun.williams @ eml.com,India,SKU-005,4.0,,
+19516,liam.siddiqui @ eml.com,USA,SKU-006,2.0,14.85,29.7
+19528,ali.abbas@@marketplace.net,Pakistan,SKU-007,5.0,0.0,0.0
+19533,john.doe@@eml.com,Pakistan,SKU-007,3.0,0.0,0.0
+19534,bilal@example,USA,SKU-004,5.0,7.6,38.0
+19536,ali.patel @ hotmail.com,USA,SKU-003,2.0,5.0,10.0
+19538,hassan.obrien@@example.com,India,SKU-008,5.0,21.27,106.35
+19540,ahmed.davis@@eml.com,India,SKU-005,4.0,3.34,13.36
+19543,priya.iqbal@@hotmail.com,UAE,SKU-003,1.0,4.65,4.65
+19551,laiba.ahmad @ marketplace.net,India,SKU-009,5.0,,
+19553,ahmed.sharma@@hotmail.com,Pakistan,SKU-007,2.0,0.0,0.0
+19557,sonia.chen @ marketplace.net,UAE,SKU-009,2.0,,
+19581,hassan.zafar @ eml.com,UAE,SKU-001,3.0,20.08,60.24
+19594,ali.singh@@marketplace.net,UAE,SKU-007,2.0,0.0,0.0
+19603,huda@example,Pakistan,SKU-004,1.0,,
+19608,ava@example,India,SKU-007,5.0,0.0,0.0
+19612,nida.williams@@example.com,Pakistan,SKU-002,2.0,12.19,24.38
+19614,laiba.khan@@mail.com,India,SKU-006,4.0,14.86,59.44
+19633,olivia@example,Pakistan,SKU-004,2.0,7.24,14.48
+19636,laiba.singh@@eml.com,UAE,SKU-002,4.0,11.84,47.36
+19640,jane@example,UAE,SKU-009,2.0,9.45,18.9
+19653,olivia.patel @ example.com,USA,SKU-004,1.0,6.87,6.87
+19654,anil.abbas@@mail.com,Pakistan,SKU-006,5.0,14.03,70.15
+19659,olivia@example,Pakistan,SKU-009,4.0,9.77,39.08
+19668,hassan@example,India,SKU-001,1.0,19.05,19.05
+19690,amna@example,USA,SKU-004,3.0,7.49,22.47
+19703,laiba.siddiqui@@hotmail.com,Pakistan,SKU-001,2.0,19.98,39.96
+19710,amna@example,Pakistan,SKU-008,5.0,21.84,109.2
+19733,ayesha.qureshi@@hotmail.com,Pakistan,SKU-003,3.0,4.81,14.43
+19752,emily.singh @ eml.com,USA,SKU-004,1.0,7.29,7.29
+19767,faizan.davis @ marketplace.net,India,SKU-005,2.0,3.08,6.16
+19777,sonia.chen @ marketplace.net,Pakistan,SKU-008,3.0,23.2,69.6
+19816,huda@example,Pakistan,SKU-004,5.0,8.0,40.0
+19818,ali@example,Pakistan,SKU-010,3.0,28.57,85.71
+19828,usman@example,USA,SKU-001,2.0,18.28,36.56
+19843,anil.singh @ shop.com,Pakistan,SKU-009,2.0,9.25,18.5
+19846,noor.sharma @ eml.com,USA,SKU-007,1.0,0.0,0.0
+19850,hassan@example,Pakistan,SKU-009,1.0,10.05,10.05
+19854,priya.yadav@@eml.com,Pakistan,SKU-009,5.0,10.23,51.15
+19856,ahmed.johnson@@eml.com,Pakistan,SKU-010,3.0,30.27,90.81
+19873,hassan.obrien@@eml.com,Pakistan,SKU-006,4.0,14.5,58.0
+19946,usman.obrien @ marketplace.net,USA,SKU-009,1.0,10.05,10.05
+19973,huda.sharma @ shop.com,USA,SKU-003,2.0,5.08,10.16
+19990,michael.chen@@marketplace.net,UAE,SKU-005,2.0,3.48,6.96
+20038,omar.sharma@@example.com,Pakistan,SKU-009,3.0,9.61,28.83
+20050,huda.brown@@hotmail.com,Pakistan,SKU-010,4.0,28.95,115.8
+20058,michael.patel@@mail.com,UAE,SKU-002,3.0,13.49,40.47
+20067,olivia@example,UAE,SKU-002,2.0,12.86,25.72
+20082,olivia.abbas @ mail.com,UAE,SKU-004,4.0,7.21,28.84
+20099,noor@example,Pakistan,SKU-002,5.0,11.95,59.75
+20107,rahul.khan@@marketplace.net,India,SKU-006,5.0,,
+20109,laiba@example,Pakistan,SKU-005,3.0,3.18,9.54
+20110,olivia.williams @ shop.com,Pakistan,SKU-008,5.0,20.75,103.75
+20115,faizan.johnson@@example.com,India,SKU-003,5.0,5.07,25.35
+20176,arjun@example,UAE,SKU-006,2.0,13.51,27.02
+20180,priya@example,USA,SKU-010,1.0,30.91,30.91
+20216,usman.hassan@@marketplace.net,USA,SKU-009,5.0,9.5,47.5
+20239,arjun.singh@@hotmail.com,Pakistan,SKU-010,4.0,,
+20277,huda.qureshi@@marketplace.net,Pakistan,SKU-005,1.0,3.35,3.35
+20281,noor@example,UAE,SKU-007,4.0,0.0,0.0
+20282,olivia.khan @ mail.com,UAE,SKU-007,5.0,0.0,0.0
+20285,zain.johnson@@marketplace.net,India,SKU-001,3.0,21.13,63.39
+20291,michael.singh @ marketplace.net,USA,SKU-005,4.0,3.12,12.48
+20309,liam@example,UAE,SKU-005,2.0,3.18,6.36
+20312,rahul.abbas@@shop.com,Pakistan,SKU-002,1.0,12.53,12.53
+20315,sonia.johnson @ marketplace.net,India,SKU-006,4.0,15.33,61.32
+20318,sara.tariq @ eml.com,Pakistan,SKU-003,3.0,5.32,15.96
+20323,hassan.zafar @ mail.com,UAE,SKU-001,1.0,19.91,19.91
+20325,meera.brown @ marketplace.net,Pakistan,SKU-003,5.0,4.99,24.95
+20327,meera.brown @ shop.com,USA,SKU-001,1.0,21.63,21.63
+20353,emily.chen@@example.com,UAE,SKU-008,4.0,20.52,82.08
+20358,olivia@example,Pakistan,SKU-005,3.0,3.51,10.53
+20363,faizan.johnson @ example.com,Pakistan,SKU-001,1.0,19.52,19.52
+20364,noah@example,UAE,SKU-002,1.0,12.72,12.72
+20366,jane.johnson@@eml.com,USA,SKU-010,1.0,30.65,30.65
+20374,priya.williams @ marketplace.net,India,SKU-008,4.0,21.69,86.76
+20383,nida@example,Pakistan,SKU-001,1.0,19.57,19.57
+20398,zain.yadav@@hotmail.com,Pakistan,SKU-006,2.0,14.35,28.7
+20399,noor.singh@@eml.com,India,SKU-010,2.0,32.25,64.5
+20400,sophia.raza@@example.com,Pakistan,SKU-003,3.0,5.11,15.33
+20403,usman.smith@@marketplace.net,USA,SKU-004,5.0,,
+20458,usman.obrien @ mail.com,USA,SKU-007,2.0,0.0,0.0
+20459,emily.smith @ marketplace.net,USA,SKU-007,5.0,0.0,0.0
+20461,ayesha.tariq@@shop.com,UAE,SKU-005,5.0,3.29,16.45
+20465,rahul.khan @ mail.com,USA,SKU-005,5.0,3.36,16.8
+20478,bilal.akram@@hotmail.com,Pakistan,SKU-007,2.0,0.0,0.0
+20506,faizan@example,UAE,SKU-005,4.0,3.44,13.76
+20519,omar.smith@@eml.com,UAE,SKU-005,0.0,,
+20527,olivia.qureshi@@marketplace.net,UAE,SKU-005,1.0,3.19,3.19
+20539,omar.raza @ eml.com,USA,SKU-009,1.0,10.97,10.97
+20542,huda.abbas @ hotmail.com,Pakistan,SKU-001,1.0,18.69,18.69
+20548,ahmed.miller @ mail.com,India,SKU-009,2.0,10.5,21.0
+20549,sara@example,UAE,SKU-005,1.0,3.49,3.49
+20550,sara@example,Pakistan,SKU-002,5.0,11.87,59.35
+20570,arjun.gupta@@shop.com,Pakistan,SKU-007,4.0,0.0,0.0
+20582,priya.zafar@@example.com,USA,SKU-010,2.0,,
+20606,sophia.kumar@@example.com,India,SKU-005,3.0,3.29,9.87
+20607,zain.noor@@mail.com,India,SKU-003,2.0,4.84,9.68
+20619,ayesha.miller@@shop.com,India,SKU-005,1.0,3.19,3.19
+20634,sophia.qureshi@@shop.com,Pakistan,SKU-009,1.0,10.17,10.17
+20641,usman.ahmad @ mail.com,Pakistan,SKU-008,4.0,23.01,92.04
+20649,zain@example,Pakistan,SKU-005,3.0,2.94,8.82
+20666,usman.miller @ marketplace.net,USA,SKU-009,5.0,10.81,54.05
+20672,michael.khan @ example.com,Pakistan,SKU-001,,,
+20675,jane@example,Pakistan,SKU-003,1.0,4.66,4.66
+20688,huda@example,India,SKU-003,4.0,4.67,18.68
+20712,bilal.hassan@@shop.com,India,SKU-001,2.0,18.44,36.88
+20718,liam.raza @ eml.com,USA,SKU-008,3.0,23.83,71.49
+20728,john.brown @ shop.com,India,SKU-005,4.0,3.09,12.36
+20737,ali@example,Pakistan,SKU-002,1.0,13.37,13.37
+20743,bilal@example,UAE,SKU-007,2.0,0.0,0.0
+20755,nida.brown @ eml.com,USA,SKU-006,1.0,14.2,14.2
+20761,jane.sharma@@marketplace.net,Pakistan,SKU-009,2.0,9.29,18.58
+20764,sara.khan @ eml.com,Pakistan,SKU-005,4.0,2.95,11.8
+20768,sonia@example,Pakistan,SKU-005,5.0,,
+20789,meera.brown @ hotmail.com,USA,SKU-005,5.0,3.09,15.45
+20817,anil@example,India,SKU-004,4.0,7.03,28.12
+20826,meera@example,Pakistan,SKU-003,4.0,5.46,21.84
+20831,noah@example,USA,SKU-003,2.0,4.83,9.66
+20833,hassan@example,Pakistan,SKU-002,4.0,13.02,52.08
+20835,zain.khan@@marketplace.net,India,SKU-004,4.0,,
+20846,laiba@example,USA,SKU-008,3.0,20.91,62.73
+20855,ava.tariq @ hotmail.com,Pakistan,SKU-009,4.0,10.03,40.12
+20879,huda.akram @ marketplace.net,Pakistan,SKU-008,3.0,23.41,70.23
+20896,ayesha.khan@@eml.com,USA,SKU-008,4.0,20.96,83.84
+20901,olivia.davis@@mail.com,USA,SKU-010,5.0,,
+20909,jane.siddiqui@@shop.com,UAE,SKU-001,3.0,19.68,59.04
+20915,laiba.miller @ mail.com,Pakistan,SKU-002,4.0,12.9,51.6
+20917,usman@example,Pakistan,SKU-004,2.0,,
+20935,john@example,Pakistan,SKU-003,2.0,5.11,10.22
+20937,meera@example,Pakistan,SKU-007,5.0,0.0,0.0
+20951,usman.tariq @ example.com,Pakistan,SKU-003,5.0,4.9,24.5
+20961,sophia.akram @ shop.com,UAE,SKU-001,1.0,21.42,21.42
+20987,meera.khan@@shop.com,Pakistan,SKU-001,4.0,20.28,81.12
+20990,ahmed.chen@@example.com,India,SKU-007,2.0,0.0,0.0
+21001,olivia.ali @ shop.com,Pakistan,SKU-007,1.0,0.0,0.0
+21008,rahul@example,USA,SKU-001,4.0,19.79,79.16
+21024,priya.singh@@mail.com,Pakistan,SKU-010,5.0,30.57,152.85
+21065,olivia.zafar@@marketplace.net,USA,SKU-006,2.0,15.71,31.42
+21073,noor.zafar @ eml.com,Pakistan,SKU-010,1.0,31.04,31.04
+21075,meera.gupta @ mail.com,India,SKU-003,5.0,5.06,25.3
+21076,noor@example,Pakistan,SKU-008,1.0,23.38,23.38
+21097,noor@example,Pakistan,SKU-005,1.0,2.96,2.96
+21116,priya.akram@@example.com,Pakistan,SKU-001,3.0,,
+21117,anil@example,Pakistan,SKU-007,4.0,0.0,0.0
+21160,noor.ali @ marketplace.net,USA,SKU-003,3.0,5.18,15.54
+21166,usman@example,Pakistan,SKU-005,1.0,3.1,3.1
+21171,sara.iqbal @ marketplace.net,India,SKU-010,1.0,31.11,31.11
+21175,faizan.brown @ shop.com,UAE,SKU-002,1.0,13.37,13.37
+21183,ayesha.ahmad @ shop.com,Pakistan,SKU-010,2.0,,
+21186,emily@example,Pakistan,SKU-009,3.0,9.25,27.75
+21205,jane.noor @ eml.com,Pakistan,SKU-009,4.0,10.21,40.84
+21208,rahul.miller@@hotmail.com,India,SKU-001,5.0,20.76,103.8
+21217,ayesha.doe @ mail.com,USA,SKU-009,2.0,10.18,20.36
+21225,bilal@example,USA,SKU-008,3.0,20.83,62.49
+21240,ahmed.brown@@example.com,India,SKU-009,1.0,9.33,9.33
+21253,ahmed.khan@@mail.com,UAE,SKU-001,3.0,19.81,59.43
+21271,arjun.miller @ example.com,Pakistan,SKU-006,2.0,15.21,30.42
+21281,sara@example,Pakistan,SKU-007,4.0,0.0,0.0
+21283,bilal.abbas @ mail.com,USA,SKU-002,1.0,11.41,11.41
+21312,michael.chen@@mail.com,Pakistan,SKU-001,1.0,19.77,19.77
+21322,huda.siddiqui @ example.com,Pakistan,SKU-002,5.0,12.26,61.3
+21333,michael.qureshi @ mail.com,Pakistan,SKU-004,2.0,8.11,16.22
+21334,hassan.doe @ mail.com,Pakistan,SKU-002,5.0,11.8,59.0
+21344,sonia@example,India,SKU-006,4.0,14.37,57.48
+21361,noah.qureshi@@example.com,UAE,SKU-009,5.0,9.98,49.9
+21379,usman.gupta@@hotmail.com,Pakistan,SKU-005,4.0,3.07,12.28
+21380,ava.siddiqui@@eml.com,USA,SKU-009,3.0,,
+21402,faizan.obrien @ hotmail.com,UAE,SKU-005,3.0,3.15,9.45
+21418,sonia@example,Pakistan,SKU-004,3.0,6.89,20.67
+21419,noah.chen @ shop.com,UAE,SKU-001,4.0,20.56,82.24
+21428,faizan.kumar@@eml.com,Pakistan,SKU-008,3.0,22.96,68.88
+21432,nida.ali@@hotmail.com,Pakistan,SKU-002,2.0,13.42,26.84
+21440,bilal@example,UAE,SKU-006,5.0,13.88,69.4
+21451,sonia.ali@@hotmail.com,Pakistan,SKU-001,2.0,18.58,37.16
+21464,faizan.hassan @ shop.com,USA,SKU-003,5.0,5.3,26.5
+21466,hassan@example,USA,SKU-007,5.0,0.0,0.0
+21471,priya.iqbal@@shop.com,USA,SKU-006,2.0,13.57,27.14
+21473,michael@example,USA,SKU-006,3.0,15.08,45.24
+21474,priya.zafar@@example.com,USA,SKU-010,1.0,27.4,27.4
+21479,ava.ali @ hotmail.com,Pakistan,SKU-004,3.0,7.29,21.87
+21501,sara.patel@@mail.com,Pakistan,SKU-003,3.0,4.81,14.43
+21517,nida.singh@@shop.com,USA,SKU-007,4.0,0.0,0.0
+21531,meera@example,Pakistan,SKU-010,2.0,28.42,56.84
+21550,anil@example,India,SKU-007,4.0,0.0,0.0
+21553,olivia.akram @ eml.com,USA,SKU-006,1.0,14.04,14.04
+21566,john@example,India,SKU-009,2.0,10.87,21.74
+21600,priya@example,Pakistan,SKU-005,4.0,3.07,12.28
+21605,sonia.zafar @ hotmail.com,Pakistan,SKU-008,1.0,21.38,21.38
+21620,faizan@example,USA,SKU-010,5.0,32.84,164.2
+21625,emily@example,Pakistan,SKU-004,4.0,8.03,32.12
+21642,olivia.williams @ shop.com,Pakistan,SKU-008,3.0,19.87,59.61
+21644,sophia.khan@@shop.com,Pakistan,SKU-007,2.0,0.0,0.0
+21651,amna.ali@@shop.com,India,SKU-009,3.0,10.01,30.03
+21653,emily@example,India,SKU-007,1.0,0.0,0.0
+21669,priya.raza@@marketplace.net,UAE,SKU-004,5.0,7.25,36.25
+21670,ali@example,UAE,SKU-007,4.0,0.0,0.0
+21711,priya.qureshi @ marketplace.net,Pakistan,SKU-008,2.0,20.92,41.84
+21716,olivia@example,USA,SKU-001,4.0,20.72,82.88
+21722,michael.obrien @ example.com,Pakistan,SKU-006,4.0,14.06,56.24
+21743,ali.johnson@@hotmail.com,Pakistan,SKU-002,4.0,12.69,50.76
+21747,emily.gupta @ shop.com,Pakistan,SKU-004,4.0,8.11,32.44
+21759,arjun@example,Pakistan,SKU-001,5.0,20.77,103.85
+21762,rahul.doe @ mail.com,USA,SKU-005,0.0,3.42,0.0
+21772,john.hassan @ example.com,Pakistan,SKU-001,4.0,18.18,72.72
+21780,nida.johnson@@hotmail.com,UAE,SKU-005,5.0,3.52,17.6
+21781,faizan.khan@@marketplace.net,UAE,SKU-006,3.0,15.48,46.44
+21793,nida@example,Pakistan,SKU-003,,4.53,
+21798,huda@example,India,SKU-009,2.0,9.96,19.92
+21836,olivia@example,Pakistan,SKU-004,4.0,7.59,30.36
+21839,laiba.doe@@mail.com,India,SKU-005,5.0,2.98,14.9
+21855,michael.ali @ eml.com,UAE,SKU-010,3.0,28.31,84.93
+21856,amna@example,USA,SKU-006,3.0,15.42,46.26
+21866,usman.iqbal@@mail.com,USA,SKU-009,4.0,,
+21872,huda.chen@@marketplace.net,UAE,SKU-008,1.0,21.31,21.31
+21875,usman@example,Pakistan,SKU-003,5.0,5.35,26.75
+21895,laiba.yadav @ eml.com,UAE,SKU-004,2.0,7.85,15.7
+21896,ava@example,Pakistan,SKU-007,2.0,0.0,0.0
+21917,noah@example,India,SKU-005,4.0,3.1,12.4
+21919,noor.davis@@eml.com,Pakistan,SKU-001,5.0,21.02,105.1
+21921,priya.miller@@eml.com,Pakistan,SKU-003,1.0,5.12,5.12
+21922,hassan@example,Pakistan,SKU-003,3.0,5.47,16.41
+21931,emily.kumar@@marketplace.net,Pakistan,SKU-004,1.0,7.79,7.79
+21941,ava.johnson@@eml.com,UAE,SKU-001,3.0,18.59,55.77
+21948,amna.ali@@eml.com,UAE,SKU-001,1.0,21.63,21.63
+21961,sara.davis@@hotmail.com,USA,SKU-001,3.0,21.82,65.46
+21970,faizan.hassan@@hotmail.com,Pakistan,SKU-008,3.0,22.2,66.6
+21985,jane.smith @ example.com,USA,SKU-008,5.0,22.71,113.55
+21988,laiba.zafar @ hotmail.com,Pakistan,SKU-004,1.0,6.96,6.96
+21991,noah@example,India,SKU-002,4.0,13.67,54.68
+22022,ahmed@example,Pakistan,SKU-010,3.0,27.28,81.84
+22036,faizan@example,Pakistan,SKU-003,2.0,,
+22062,noah.gupta@@example.com,India,SKU-004,1.0,7.49,7.49
+22070,liam.obrien @ eml.com,Pakistan,SKU-004,1.0,7.62,7.62
+22084,bilal@example,Pakistan,SKU-005,,3.34,
+22089,liam.iqbal @ hotmail.com,USA,SKU-008,3.0,23.08,69.24
+22096,meera.singh@@mail.com,Pakistan,SKU-008,1.0,20.75,20.75
+22098,noor.khan @ hotmail.com,UAE,SKU-002,4.0,,
+22100,sara.chen @ hotmail.com,India,SKU-007,4.0,0.0,0.0
+22113,sophia@example,USA,SKU-003,1.0,,
+22122,emily.hassan @ hotmail.com,UAE,SKU-002,3.0,,
+22123,omar@example,USA,SKU-003,2.0,5.18,10.36
+22149,noah.kumar @ marketplace.net,Pakistan,SKU-003,3.0,5.13,15.39
+22173,sonia.smith@@hotmail.com,UAE,SKU-004,4.0,,
+22198,ayesha@example,Pakistan,SKU-001,5.0,19.82,99.1
+22208,usman@example,Pakistan,SKU-004,1.0,6.99,6.99
+22225,anil.raza@@mail.com,Pakistan,SKU-010,2.0,31.73,63.46
+22230,arjun.tariq@@mail.com,Pakistan,SKU-009,5.0,9.52,47.6
+22231,ali.raza@@example.com,Pakistan,SKU-007,4.0,0.0,0.0
+22237,anil@example,Pakistan,SKU-007,1.0,0.0,0.0
+22246,usman.iqbal@@example.com,Pakistan,SKU-003,5.0,5.42,27.1
+22255,arjun.siddiqui@@example.com,Pakistan,SKU-008,1.0,23.6,23.6
+22265,sonia.smith @ eml.com,Pakistan,SKU-010,4.0,28.26,113.04
+22272,laiba.siddiqui@@mail.com,Pakistan,SKU-002,4.0,11.69,46.76
+22274,olivia.khan @ eml.com,India,SKU-010,3.0,31.36,94.08
+22278,sara.miller@@example.com,Pakistan,SKU-009,3.0,10.54,31.62
+22279,ahmed.johnson @ mail.com,Pakistan,SKU-006,5.0,15.89,79.45
+22284,arjun@example,UAE,SKU-008,1.0,20.71,20.71
+22287,amna.khan@@eml.com,UAE,SKU-003,4.0,4.83,19.32
+22301,amna.williams@@shop.com,Pakistan,SKU-008,1.0,21.53,21.53
+22326,omar.williams@@example.com,Pakistan,SKU-001,3.0,21.73,65.19
+22338,ahmed.obrien@@marketplace.net,Pakistan,SKU-010,3.0,27.04,81.12
+22354,huda.tariq@@mail.com,USA,SKU-009,4.0,10.61,42.44
+22365,jane@example,Pakistan,SKU-008,1.0,20.96,20.96
+22366,faizan.davis @ hotmail.com,USA,SKU-004,3.0,7.26,21.78
+22368,usman.khan@@eml.com,USA,SKU-008,5.0,23.58,117.9
+22370,ayesha@example,USA,SKU-009,2.0,10.57,21.14
+22371,arjun.sharma@@eml.com,UAE,SKU-008,,19.86,
+22374,amna@example,Pakistan,SKU-009,5.0,9.31,46.55
+22401,anil.khan@@marketplace.net,UAE,SKU-005,2.0,3.41,6.82
+22410,nida.akram @ eml.com,USA,SKU-009,2.0,10.8,21.6
+22419,amna@example,UAE,SKU-007,5.0,0.0,0.0
+22453,priya.kumar@@example.com,USA,SKU-003,2.0,5.2,10.4
+22461,meera.obrien@@eml.com,Pakistan,SKU-005,5.0,2.99,14.95
+22499,laiba@example,USA,SKU-003,4.0,4.92,19.68
+22524,john.abbas@@marketplace.net,UAE,SKU-007,4.0,0.0,0.0
+22526,usman.smith@@marketplace.net,USA,SKU-007,5.0,,
+22546,sophia.miller@@mail.com,UAE,SKU-009,1.0,9.42,9.42
+22549,ayesha.siddiqui @ example.com,Pakistan,SKU-004,4.0,7.76,31.04
+22556,rahul.kumar@@hotmail.com,India,SKU-005,3.0,3.04,9.12
+22563,bilal.khan @ mail.com,Pakistan,SKU-010,3.0,27.61,82.83
+22567,priya@example,India,SKU-001,4.0,18.56,74.24
+22591,ali.ali @ hotmail.com,USA,SKU-010,1.0,29.34,29.34
+22603,sonia.noor @ mail.com,USA,SKU-003,5.0,4.82,24.1
+22616,faizan.abbas @ eml.com,Pakistan,SKU-006,3.0,,
+22630,sophia.sharma@@eml.com,USA,SKU-007,4.0,0.0,0.0
+22643,huda@example,Pakistan,SKU-002,1.0,13.69,13.69
+22657,ava.iqbal @ marketplace.net,Pakistan,SKU-008,0.0,23.75,0.0
+22658,michael.qureshi @ marketplace.net,India,SKU-010,4.0,,
+22674,faizan.yadav @ shop.com,India,SKU-004,3.0,7.65,22.95
+22681,jane.smith @ mail.com,UAE,SKU-001,1.0,20.63,20.63
+22688,priya.patel @ example.com,Pakistan,SKU-008,5.0,23.51,117.55
+22719,meera.iqbal @ marketplace.net,Pakistan,SKU-003,5.0,4.85,24.25
+22726,ahmed@example,USA,SKU-005,1.0,3.01,3.01
+22730,sophia@example,Pakistan,SKU-009,5.0,9.6,48.0
+22733,nida.kumar @ shop.com,USA,SKU-001,0.0,21.13,0.0
+22758,zain.brown@@example.com,India,SKU-008,4.0,23.95,95.8
+22760,michael@example,India,SKU-009,2.0,10.99,21.98
+22791,ali.smith@@example.com,UAE,SKU-007,1.0,0.0,0.0
+22825,ahmed@example,Pakistan,SKU-005,4.0,,
+22872,ava.iqbal@@mail.com,USA,SKU-009,4.0,9.02,36.08
+22891,zain.patel@@eml.com,Pakistan,SKU-005,2.0,3.4,6.8
+22892,olivia.ali @ eml.com,Pakistan,SKU-003,3.0,4.84,14.52
+22895,omar.miller@@shop.com,USA,SKU-010,5.0,30.1,150.5
+22922,michael.obrien@@example.com,Pakistan,SKU-008,1.0,,
+22958,anil@example,USA,SKU-010,5.0,28.97,144.85
+22976,sara.patel @ eml.com,Pakistan,SKU-007,4.0,0.0,0.0
+22978,jane@example,Pakistan,SKU-004,5.0,7.94,39.7
+22979,ayesha.brown @ eml.com,India,SKU-004,2.0,7.24,14.48
+22982,arjun@example,Pakistan,SKU-005,1.0,,
+22986,michael.noor@@marketplace.net,USA,SKU-002,2.0,12.2,24.4
+22988,faizan.siddiqui@@shop.com,USA,SKU-007,5.0,0.0,0.0
+22990,arjun.noor @ shop.com,Pakistan,SKU-005,1.0,3.55,3.55
+22991,amna.raza@@mail.com,Pakistan,SKU-004,3.0,7.12,21.36
+22993,noah.smith @ marketplace.net,Pakistan,SKU-003,3.0,5.5,16.5
+23015,rahul.gupta@@mail.com,Pakistan,SKU-008,1.0,22.8,22.8
+23031,ali.johnson@@eml.com,Pakistan,SKU-003,3.0,5.19,15.57
+23045,huda.abbas@@hotmail.com,UAE,SKU-005,3.0,3.34,10.02
+23081,sonia.tariq @ marketplace.net,USA,SKU-009,2.0,10.41,20.82
+23087,sara.noor @ marketplace.net,Pakistan,SKU-005,2.0,3.13,6.26
+23095,olivia.kumar @ example.com,Pakistan,SKU-003,2.0,5.46,10.92
+23108,bilal@example,India,SKU-007,5.0,0.0,0.0
+23118,noor@example,USA,SKU-009,5.0,10.26,51.3
+23124,sara.gupta@@hotmail.com,USA,SKU-008,1.0,21.45,21.45
+23126,jane.ali@@shop.com,Pakistan,SKU-006,1.0,15.06,15.06
+23158,sonia.raza @ example.com,India,SKU-001,1.0,20.54,20.54
+23162,jane.qureshi@@eml.com,Pakistan,SKU-007,3.0,0.0,0.0
+23163,emily.siddiqui @ mail.com,Pakistan,SKU-004,3.0,7.41,22.23
+23173,huda.tariq @ mail.com,Pakistan,SKU-002,5.0,,
+23198,faizan.noor @ example.com,Pakistan,SKU-009,5.0,10.29,51.45
+23202,jane@example,India,SKU-006,2.0,15.7,31.4
+23206,zain.obrien@@mail.com,USA,SKU-004,5.0,8.09,40.45
+23221,noah.brown@@hotmail.com,Pakistan,SKU-005,2.0,3.57,7.14
+23223,michael@example,Pakistan,SKU-009,2.0,9.98,19.96
+23238,john@example,USA,SKU-006,3.0,15.42,46.26
+23268,liam@example,India,SKU-003,1.0,5.04,5.04
+23274,meera.patel @ marketplace.net,USA,SKU-001,2.0,21.87,43.74
+23283,faizan.ahmad @ hotmail.com,Pakistan,SKU-007,1.0,0.0,0.0
+23291,sophia.qureshi@@eml.com,USA,SKU-008,1.0,20.9,20.9
+23297,huda.brown @ shop.com,India,SKU-006,3.0,15.12,45.36
+23301,john@example,Pakistan,SKU-006,3.0,14.78,44.34
+23305,john@example,Pakistan,SKU-008,2.0,21.47,42.94
+23308,noor@example,UAE,SKU-006,1.0,14.93,14.93
+23313,arjun.tariq @ shop.com,UAE,SKU-008,1.0,19.86,19.86
+23325,ahmed.kumar@@hotmail.com,USA,SKU-007,5.0,,
+23334,usman.singh @ eml.com,India,SKU-006,4.0,15.38,61.52
+23348,arjun@example,Pakistan,SKU-007,1.0,0.0,0.0
+23350,ava@example,Pakistan,SKU-009,5.0,9.19,45.95
+23354,noah@example,Pakistan,SKU-009,3.0,9.06,27.18
+23357,sonia.qureshi@@example.com,UAE,SKU-010,5.0,28.3,141.5
+23368,huda.noor@@shop.com,Pakistan,SKU-006,2.0,16.23,32.46
+23372,ayesha.patel@@hotmail.com,UAE,SKU-005,3.0,3.56,10.68
+23381,amna.brown @ eml.com,India,SKU-004,3.0,,
+23382,emily@example,UAE,SKU-009,2.0,9.37,18.74
+23387,laiba.ali@@marketplace.net,Pakistan,SKU-006,4.0,14.2,56.8
+23399,sonia@example,UAE,SKU-010,5.0,27.5,137.5
+23408,usman.tariq@@mail.com,Pakistan,SKU-010,4.0,29.92,119.68
+23409,ayesha.sharma@@shop.com,Pakistan,SKU-001,3.0,18.04,54.12
+23411,arjun.kumar@@mail.com,UAE,SKU-007,5.0,0.0,0.0
+23414,john.qureshi@@marketplace.net,India,SKU-002,2.0,13.46,26.92
+23420,usman.tariq @ mail.com,Pakistan,SKU-010,3.0,30.77,92.31
+23425,liam@example,USA,SKU-004,2.0,7.98,15.96
+23427,arjun.ali @ hotmail.com,UAE,SKU-008,2.0,21.96,43.92
+23434,ayesha.raza @ marketplace.net,UAE,SKU-003,0.0,4.71,0.0
+23455,nida.siddiqui @ eml.com,UAE,SKU-003,1.0,5.34,5.34
+23460,bilal.hassan @ hotmail.com,Pakistan,SKU-001,4.0,21.54,86.16
+23461,huda.qureshi @ eml.com,Pakistan,SKU-003,2.0,,
+23469,meera.miller@@hotmail.com,Pakistan,SKU-009,5.0,9.11,45.55
+23474,bilal.williams@@eml.com,UAE,SKU-006,3.0,15.3,45.9
+23477,jane@example,Pakistan,SKU-001,5.0,20.77,103.85
+23481,noor.williams@@shop.com,India,SKU-004,2.0,7.82,15.64
+23484,hassan.noor@@eml.com,USA,SKU-007,4.0,0.0,0.0
+23485,omar.khan@@marketplace.net,Pakistan,SKU-001,1.0,19.46,19.46
+23490,omar.ali@@example.com,USA,SKU-007,1.0,0.0,0.0
+23532,arjun.smith@@mail.com,Pakistan,SKU-007,1.0,0.0,0.0
+23549,bilal@example,USA,SKU-009,5.0,10.2,51.0
+23567,hassan.yadav @ mail.com,USA,SKU-010,1.0,29.06,29.06
+23585,sophia@example,Pakistan,SKU-005,2.0,,
+23589,bilal@example,India,SKU-006,1.0,15.12,15.12
+23590,zain@example,UAE,SKU-004,3.0,,
+23602,faizan.davis @ marketplace.net,Pakistan,SKU-010,4.0,32.73,130.92
+23608,jane.zafar @ shop.com,India,SKU-010,3.0,28.64,85.92
+23616,faizan.chen @ eml.com,UAE,SKU-007,4.0,0.0,0.0
+23644,noor.khan @ shop.com,Pakistan,SKU-008,4.0,23.16,92.64
+23654,zain.raza @ example.com,USA,SKU-003,5.0,4.97,24.85
+23677,sara.sharma@@shop.com,UAE,SKU-010,5.0,31.47,157.35
+23678,sara@example,UAE,SKU-005,5.0,3.26,16.3
+23691,emily@example,India,SKU-010,2.0,30.87,61.74
+23699,nida@example,Pakistan,SKU-007,1.0,0.0,0.0
+23707,zain.doe @ marketplace.net,India,SKU-010,2.0,30.36,60.72
+23727,olivia@example,Pakistan,SKU-008,1.0,22.04,22.04
+23731,ali.iqbal @ mail.com,USA,SKU-009,5.0,,
+23754,olivia.singh@@shop.com,Pakistan,SKU-006,5.0,13.93,69.65
+23777,rahul.brown@@eml.com,UAE,SKU-003,1.0,5.02,5.02
+23783,usman.sharma@@hotmail.com,Pakistan,SKU-008,1.0,21.29,21.29
+23790,rahul@example,Pakistan,SKU-008,0.0,22.17,0.0
+23801,sara.doe @ example.com,UAE,SKU-008,5.0,23.12,115.6
+23810,michael.davis@@shop.com,UAE,SKU-008,1.0,21.72,21.72
+23811,omar@example,India,SKU-003,5.0,4.69,23.45
+23858,ava.abbas@@shop.com,Pakistan,SKU-006,1.0,16.04,16.04
+23862,ayesha@example,Pakistan,SKU-008,1.0,20.44,20.44
+23863,sonia.johnson @ shop.com,Pakistan,SKU-007,4.0,0.0,0.0
+23879,ava@example,USA,SKU-007,2.0,,
+23887,laiba@example,Pakistan,SKU-009,5.0,,
+23892,huda.doe@@shop.com,Pakistan,SKU-007,1.0,0.0,0.0
+23913,laiba.yadav@@eml.com,USA,SKU-006,2.0,13.65,27.3
+23925,jane@example,Pakistan,SKU-002,5.0,11.31,56.55
+23932,sophia.tariq @ mail.com,Pakistan,SKU-002,2.0,11.95,23.9
+23935,liam.williams @ shop.com,Pakistan,SKU-002,2.0,12.32,24.64
+23936,john.abbas @ marketplace.net,UAE,SKU-010,4.0,,
+23953,olivia@example,Pakistan,SKU-004,4.0,7.17,28.68
+23961,faizan.sharma @ mail.com,India,SKU-009,5.0,10.88,54.4
+23970,hassan@example,UAE,SKU-003,1.0,4.96,4.96
+23980,bilal.singh @ shop.com,USA,SKU-002,4.0,12.74,50.96
+23985,priya@example,UAE,SKU-010,2.0,32.02,64.04
+24012,huda.abbas@@mail.com,Pakistan,SKU-009,2.0,10.0,20.0
+24013,nida.brown@@marketplace.net,Pakistan,SKU-008,1.0,,
+24017,john@example,Pakistan,SKU-003,4.0,4.79,19.16
+24022,faizan.akram@@marketplace.net,UAE,SKU-001,1.0,20.47,20.47
+24023,sonia.johnson @ shop.com,Pakistan,SKU-001,1.0,18.49,18.49
+24025,sara@example,UAE,SKU-008,4.0,19.93,79.72
+24076,anil.williams@@example.com,USA,SKU-008,0.0,20.47,0.0
+24096,amna.hassan@@eml.com,UAE,SKU-002,4.0,13.68,54.72
+24098,john.obrien @ example.com,Pakistan,SKU-005,1.0,3.04,3.04
+24113,noah.chen@@hotmail.com,USA,SKU-002,3.0,12.53,37.59
+24115,ali.davis @ eml.com,UAE,SKU-005,3.0,2.96,8.88
+24116,ayesha.singh@@example.com,UAE,SKU-009,5.0,9.11,45.55
+24118,ali.qureshi @ example.com,UAE,SKU-003,1.0,4.59,4.59
+24135,huda.hassan @ example.com,Pakistan,SKU-003,5.0,4.52,22.6
+24143,omar@example,Pakistan,SKU-006,4.0,,
+24144,nida.doe @ eml.com,Pakistan,SKU-009,5.0,10.78,53.9
+24149,faizan.khan@@eml.com,USA,SKU-002,5.0,,
+24157,emily.singh@@hotmail.com,Pakistan,SKU-005,4.0,3.41,13.64
+24169,priya.tariq @ marketplace.net,UAE,SKU-001,2.0,20.05,40.1
+24171,michael.brown @ marketplace.net,USA,SKU-003,1.0,4.76,4.76
+24220,arjun.khan@@hotmail.com,India,SKU-002,2.0,11.73,23.46
+24234,sophia@example,Pakistan,SKU-006,1.0,13.82,13.82
+24279,zain.singh @ hotmail.com,Pakistan,SKU-008,4.0,20.38,81.52
+24283,omar@example,UAE,SKU-005,3.0,3.33,9.99
+24291,noor@example,Pakistan,SKU-010,3.0,32.66,97.98
+24294,liam@example,USA,SKU-010,5.0,32.5,162.5
+24302,michael.obrien@@hotmail.com,USA,SKU-008,3.0,20.4,61.2
+24305,arjun@example,India,SKU-004,1.0,7.72,7.72
+24307,ali.tariq@@example.com,Pakistan,SKU-010,3.0,30.79,92.37
+24321,ali.khan@@hotmail.com,USA,SKU-009,5.0,10.89,54.45
+24346,michael.ahmad@@shop.com,USA,SKU-002,3.0,12.31,36.93
+24354,hassan@example,USA,SKU-007,,0.0,
+24358,ayesha.kumar@@hotmail.com,India,SKU-010,1.0,32.26,32.26
+24370,michael.ali @ eml.com,India,SKU-009,2.0,10.46,20.92
+24374,jane.hassan@@eml.com,USA,SKU-009,2.0,,
+24393,ayesha.obrien @ example.com,Pakistan,SKU-009,1.0,10.75,10.75
+24396,priya.miller @ shop.com,India,SKU-003,4.0,4.9,19.6
+24399,emily@example,India,SKU-003,3.0,5.09,15.27
+24400,omar@example,Pakistan,SKU-008,2.0,23.58,47.16
+24407,jane@example,Pakistan,SKU-008,1.0,,
+24415,emily.ali @ marketplace.net,USA,SKU-006,1.0,16.38,16.38
+24419,rahul.kumar @ shop.com,UAE,SKU-008,4.0,21.33,85.32
+24421,noor@example,Pakistan,SKU-010,1.0,28.64,28.64
+24445,sophia@example,UAE,SKU-004,2.0,8.24,16.48
+24461,john.khan@@hotmail.com,Pakistan,SKU-007,2.0,,
+24482,sonia@example,USA,SKU-009,2.0,9.82,19.64
+24490,ahmed@example,Pakistan,SKU-001,4.0,,
+24496,sonia.singh@@hotmail.com,India,SKU-004,2.0,,
+24518,meera.patel @ marketplace.net,USA,SKU-002,3.0,12.56,37.68
+24532,ayesha@example,India,SKU-006,1.0,13.61,13.61
+24535,meera.sharma @ hotmail.com,USA,SKU-002,3.0,12.59,37.77
+24550,ayesha@example,India,SKU-002,2.0,12.64,25.28
+24565,rahul@example,Pakistan,SKU-004,1.0,8.04,8.04
+24570,john.khan @ mail.com,UAE,SKU-004,5.0,8.0,40.0
+24571,sonia.singh @ hotmail.com,India,SKU-006,4.0,13.63,54.52
+24582,hassan.ali @ marketplace.net,Pakistan,SKU-005,3.0,3.11,9.33
+24594,arjun@example,USA,SKU-001,2.0,21.88,43.76
+24597,noor@example,Pakistan,SKU-005,3.0,3.4,10.2
+24643,john.zafar @ mail.com,Pakistan,SKU-009,3.0,9.13,27.39
+24652,ayesha@example,India,SKU-008,4.0,,
+24666,john@example,Pakistan,SKU-004,5.0,,
+24680,omar.singh @ mail.com,USA,SKU-006,5.0,,
+24696,faizan@example,USA,SKU-003,3.0,,
+24709,john.siddiqui @ mail.com,Pakistan,SKU-006,5.0,,
+24712,jane@example,Pakistan,SKU-007,1.0,0.0,0.0
+24718,zain.hassan @ marketplace.net,Pakistan,SKU-009,3.0,9.56,28.68
+24720,sophia.hassan@@hotmail.com,UAE,SKU-002,5.0,12.93,64.65
+24744,sara@example,UAE,SKU-002,1.0,13.02,13.02
+24752,ava.miller @ shop.com,USA,SKU-008,4.0,19.88,79.52
+24786,ahmed@example,USA,SKU-010,4.0,28.25,113.0
+24799,arjun.khan @ eml.com,Pakistan,SKU-003,5.0,5.26,26.3
+24821,sophia.kumar @ marketplace.net,USA,SKU-001,5.0,,
+24826,michael.khan @ mail.com,India,SKU-004,4.0,,
+24835,arjun.williams@@shop.com,UAE,SKU-006,1.0,15.02,15.02
+24839,sophia.iqbal@@example.com,Pakistan,SKU-010,4.0,32.42,129.68
+24861,priya@example,Pakistan,SKU-008,4.0,23.7,94.8
+24895,jane.ahmad@@hotmail.com,Pakistan,SKU-001,5.0,21.03,105.15
+24909,emily@example,USA,SKU-001,,18.67,
+24922,sara.khan@@mail.com,India,SKU-002,4.0,12.44,49.76
+24933,sara.noor @ marketplace.net,India,SKU-007,2.0,0.0,0.0
+24936,omar@example,UAE,SKU-005,4.0,3.11,12.44
+24942,rahul@example,Pakistan,SKU-001,4.0,21.97,87.88
+24948,noor.yadav @ hotmail.com,UAE,SKU-004,5.0,7.16,35.8
+24963,omar@example,USA,SKU-009,5.0,,
+24972,jane@example,USA,SKU-001,3.0,21.36,64.08
+24980,zain.smith@@hotmail.com,UAE,SKU-001,5.0,18.06,90.3
+25019,noor.singh@@shop.com,Pakistan,SKU-010,3.0,,
+25022,ayesha.abbas @ mail.com,USA,SKU-003,1.0,5.29,5.29
+25038,emily.chen @ shop.com,Pakistan,SKU-005,3.0,3.44,10.32
+25048,usman.brown @ eml.com,UAE,SKU-005,1.0,3.13,3.13
+25063,ahmed.khan @ eml.com,Pakistan,SKU-007,1.0,0.0,0.0
+25112,zain@example,India,SKU-010,4.0,27.44,109.76
+25135,meera.kumar@@marketplace.net,USA,SKU-009,4.0,9.85,39.4
+25152,ayesha.hassan @ eml.com,Pakistan,SKU-006,3.0,,
+25156,john@example,USA,SKU-010,1.0,29.44,29.44
+25169,amna.sharma @ example.com,USA,SKU-010,3.0,30.93,92.79
+25173,nida.ali @ marketplace.net,Pakistan,SKU-009,4.0,10.44,41.76
+25192,huda@example,Pakistan,SKU-004,2.0,7.99,15.98
+25215,amna.abbas @ eml.com,USA,SKU-007,5.0,0.0,0.0
+25216,bilal.zafar @ shop.com,India,SKU-005,3.0,3.06,9.18
+25221,ayesha.noor@@shop.com,Pakistan,SKU-006,5.0,14.46,72.3
+25222,hassan.singh@@marketplace.net,UAE,SKU-005,4.0,3.37,13.48
+25232,bilal@example,Pakistan,SKU-001,3.0,18.98,56.94
+25250,sonia.akram@@hotmail.com,Pakistan,SKU-006,5.0,,
+25253,ali.gupta@@eml.com,Pakistan,SKU-010,1.0,28.1,28.1
+25266,rahul.smith @ hotmail.com,Pakistan,SKU-007,0.0,0.0,0.0
+25281,anil@example,India,SKU-008,4.0,21.04,84.16
+25305,huda.obrien@@hotmail.com,Pakistan,SKU-002,4.0,11.89,47.56
+25311,noor.doe @ marketplace.net,Pakistan,SKU-009,1.0,9.55,9.55
+25332,ali@example,UAE,SKU-007,4.0,0.0,0.0
+25333,amna@example,India,SKU-002,2.0,13.36,26.72
+25345,omar.raza@@hotmail.com,UAE,SKU-001,2.0,19.18,38.36
+25346,amna@example,USA,SKU-005,2.0,3.15,6.3
+25355,zain.akram @ marketplace.net,Pakistan,SKU-008,2.0,21.5,43.0
+25376,omar@example,Pakistan,SKU-008,3.0,22.74,68.22
+25379,anil@example,USA,SKU-003,4.0,5.32,21.28
+25383,bilal.iqbal@@example.com,Pakistan,SKU-008,4.0,22.72,90.88
+25390,laiba@example,India,SKU-004,3.0,7.38,22.14
+25414,amna@example,UAE,SKU-007,,0.0,
+25428,hassan.obrien @ marketplace.net,India,SKU-002,3.0,12.31,36.93
+25435,nida.noor@@marketplace.net,Pakistan,SKU-004,4.0,8.15,32.6
+25469,arjun.hassan @ marketplace.net,Pakistan,SKU-001,4.0,,
+25480,noah.akram @ hotmail.com,India,SKU-007,1.0,0.0,0.0
+25501,laiba.chen @ marketplace.net,Pakistan,SKU-004,4.0,8.0,32.0
+25502,usman@example,India,SKU-010,3.0,29.34,88.02
+25506,meera@example,UAE,SKU-001,2.0,18.18,36.36
+25517,amna.raza @ example.com,USA,SKU-001,5.0,18.88,94.4
+25524,sara.obrien@@shop.com,UAE,SKU-007,3.0,0.0,0.0
+25535,noor.tariq @ example.com,USA,SKU-005,1.0,3.21,3.21
+25551,olivia.khan@@marketplace.net,USA,SKU-009,5.0,9.64,48.2
+25558,ayesha.ahmad @ marketplace.net,USA,SKU-001,3.0,18.22,54.66
+25565,sara@example,Pakistan,SKU-009,2.0,10.34,20.68
+25592,omar.miller@@shop.com,Pakistan,SKU-005,4.0,2.99,11.96
+25606,bilal@example,Pakistan,SKU-002,5.0,12.17,60.85
+25608,arjun.yadav@@mail.com,UAE,SKU-009,5.0,9.44,47.2
+25636,hassan.davis @ hotmail.com,India,SKU-005,3.0,3.03,9.09
+25654,jane.johnson@@mail.com,Pakistan,SKU-010,2.0,27.48,54.96
+25686,zain.ahmad @ mail.com,USA,SKU-003,2.0,5.48,10.96
+25702,bilal.ali @ hotmail.com,USA,SKU-006,3.0,14.77,44.31
+25725,noah.abbas@@shop.com,India,SKU-007,2.0,0.0,0.0
+25733,noah.smith@@mail.com,USA,SKU-009,2.0,10.51,21.02
+25739,noah.johnson @ mail.com,UAE,SKU-001,3.0,19.25,57.75
+25751,jane.akram @ eml.com,USA,SKU-007,1.0,0.0,0.0
+25752,arjun@example,India,SKU-006,4.0,14.85,59.4
+25757,omar.singh@@shop.com,Pakistan,SKU-009,4.0,10.08,40.32
+25764,jane.singh @ shop.com,USA,SKU-008,5.0,22.49,112.45
+25766,huda.akram @ hotmail.com,Pakistan,SKU-002,2.0,13.71,27.42
+25772,arjun.brown @ shop.com,Pakistan,SKU-010,5.0,,
+25804,sara.miller@@example.com,Pakistan,SKU-004,5.0,7.1,35.5
+25812,laiba.abbas @ mail.com,Pakistan,SKU-003,3.0,,
+25821,rahul@example,USA,SKU-001,5.0,20.9,104.5
+25833,anil@example,UAE,SKU-010,5.0,31.53,157.65
+25868,noah.abbas@@marketplace.net,Pakistan,SKU-009,1.0,10.25,10.25
+25877,jane.iqbal @ shop.com,India,SKU-004,5.0,,
+25892,sophia.chen @ hotmail.com,USA,SKU-001,4.0,21.52,86.08
+25899,laiba.khan@@eml.com,USA,SKU-006,2.0,,
+25904,omar@example,India,SKU-004,3.0,6.99,20.97
+25911,ahmed.khan @ marketplace.net,USA,SKU-004,1.0,7.64,7.64
+25914,noah@example,Pakistan,SKU-003,5.0,4.98,24.9
+25915,ayesha.singh @ mail.com,USA,SKU-003,1.0,5.22,5.22
+25917,sonia.abbas@@shop.com,UAE,SKU-007,2.0,0.0,0.0
+25925,jane@example,Pakistan,SKU-010,5.0,,
+25926,huda.williams @ mail.com,UAE,SKU-006,3.0,14.73,44.19
+25930,zain.ali@@eml.com,Pakistan,SKU-007,5.0,0.0,0.0
+25944,laiba@example,Pakistan,SKU-010,1.0,32.87,32.87
+25952,zain.noor@@example.com,USA,SKU-006,1.0,14.29,14.29
+25954,usman@example,Pakistan,SKU-009,4.0,10.69,42.76
+25982,meera@example,Pakistan,SKU-009,4.0,10.43,41.72
+26000,laiba@example,India,SKU-006,5.0,16.39,81.95
+26002,faizan.iqbal@@eml.com,Pakistan,SKU-005,2.0,3.28,6.56
+26013,omar.sharma@@shop.com,UAE,SKU-004,4.0,8.08,32.32
+26029,michael.sharma @ eml.com,Pakistan,SKU-010,1.0,27.37,27.37
+26031,michael@example,USA,SKU-010,1.0,31.78,31.78
+26035,hassan.sharma@@hotmail.com,Pakistan,SKU-008,3.0,22.29,66.87
+26072,faizan@example,UAE,SKU-006,5.0,13.7,68.5
+26074,huda.yadav@@mail.com,India,SKU-009,3.0,10.91,32.73
+26083,usman.patel @ eml.com,USA,SKU-007,2.0,0.0,0.0
+26086,sara.tariq @ hotmail.com,India,SKU-003,0.0,4.5,0.0
+26090,meera.kumar@@mail.com,India,SKU-007,1.0,0.0,0.0
+26091,faizan@example,Pakistan,SKU-001,2.0,20.91,41.82
+26105,zain.gupta @ example.com,Pakistan,SKU-007,4.0,0.0,0.0
+26116,huda@example,Pakistan,SKU-006,5.0,16.48,82.4
+26125,liam.iqbal@@hotmail.com,Pakistan,SKU-007,1.0,0.0,0.0
+26142,priya@example,Pakistan,SKU-005,2.0,3.53,7.06
+26148,zain.gupta@@hotmail.com,USA,SKU-006,3.0,13.86,41.58
+26156,hassan.khan @ example.com,USA,SKU-004,5.0,8.09,40.45
+26211,michael@example,USA,SKU-005,3.0,3.48,10.44
+26213,ali@example,Pakistan,SKU-008,4.0,24.0,96.0
+26227,hassan.siddiqui@@mail.com,Pakistan,SKU-008,1.0,19.95,19.95
+26237,sophia@example,USA,SKU-002,1.0,13.36,13.36
+26266,liam@example,Pakistan,SKU-003,2.0,5.27,10.54
+26276,rahul@example,India,SKU-010,5.0,30.3,151.5
+26279,sara.tariq@@shop.com,UAE,SKU-007,3.0,0.0,0.0
+26282,sophia.davis @ shop.com,Pakistan,SKU-006,4.0,,
+26297,faizan.singh@@mail.com,UAE,SKU-006,4.0,14.05,56.2
+26301,john@example,Pakistan,SKU-003,3.0,4.7,14.1
+26339,priya@example,Pakistan,SKU-001,1.0,21.84,21.84
+26352,laiba.abbas@@mail.com,UAE,SKU-008,1.0,22.32,22.32
+26353,noor.tariq@@hotmail.com,USA,SKU-007,5.0,0.0,0.0
+26366,emily.qureshi @ example.com,Pakistan,SKU-009,1.0,9.13,9.13
+26423,ahmed.khan@@eml.com,Pakistan,SKU-010,5.0,28.45,142.25
+26452,amna@example,USA,SKU-004,1.0,7.24,7.24
+26454,olivia.miller@@shop.com,Pakistan,SKU-002,,,
+26500,michael@example,India,SKU-005,,3.19,
+26506,ayesha@example,India,SKU-010,3.0,30.57,91.71
+26551,jane@example,Pakistan,SKU-001,1.0,20.97,20.97
+26553,zain.noor@@mail.com,UAE,SKU-005,1.0,3.5,3.5
+26554,ahmed.iqbal@@eml.com,Pakistan,SKU-004,3.0,8.19,24.57
+26566,usman@example,Pakistan,SKU-003,4.0,5.15,20.6
+26577,nida.akram @ hotmail.com,Pakistan,SKU-001,4.0,,
+26581,ayesha.yadav@@marketplace.net,USA,SKU-003,2.0,5.39,10.78
+26583,zain.doe@@shop.com,Pakistan,SKU-004,4.0,8.0,32.0
+26588,emily.ahmad@@mail.com,Pakistan,SKU-009,2.0,9.73,19.46
+26634,hassan.miller@@marketplace.net,Pakistan,SKU-002,4.0,12.85,51.4
+26657,anil@example,Pakistan,SKU-010,4.0,27.24,108.96
+26665,laiba.smith@@hotmail.com,Pakistan,SKU-010,5.0,27.61,138.05
+26667,usman@example,Pakistan,SKU-002,3.0,13.02,39.06
+26691,michael.noor @ eml.com,Pakistan,SKU-007,4.0,0.0,0.0
+26694,priya.zafar @ hotmail.com,Pakistan,SKU-008,5.0,21.35,106.75
+26700,bilal.sharma@@example.com,USA,SKU-003,4.0,5.13,20.52
+26721,ahmed.miller@@eml.com,Pakistan,SKU-007,4.0,0.0,0.0
+26730,ali.abbas @ marketplace.net,India,SKU-001,4.0,20.92,83.68
+26739,usman@example,USA,SKU-009,1.0,9.39,9.39
+26743,rahul@example,India,SKU-003,5.0,4.93,24.65
+26748,priya@example,USA,SKU-001,5.0,,
+26750,john.sharma @ mail.com,Pakistan,SKU-004,4.0,6.92,27.68
+26754,priya@example,UAE,SKU-008,2.0,24.16,48.32
+26779,amna.raza @ hotmail.com,India,SKU-003,2.0,5.43,10.86
+26786,arjun@example,UAE,SKU-010,2.0,30.28,60.56
+26829,meera.siddiqui@@mail.com,USA,SKU-001,1.0,,
+26830,noah@example,UAE,SKU-009,1.0,9.6,9.6
+26840,huda.ali @ hotmail.com,Pakistan,SKU-007,3.0,0.0,0.0
+26843,john@example,UAE,SKU-001,2.0,18.87,37.74
+26849,noor@example,USA,SKU-009,4.0,10.74,42.96
+26874,ayesha.abbas@@hotmail.com,Pakistan,SKU-003,1.0,4.74,4.74
+26915,rahul@example,Pakistan,SKU-004,1.0,7.56,7.56
+26919,bilal.singh@@hotmail.com,Pakistan,SKU-006,4.0,15.61,62.44
+26920,arjun@example,Pakistan,SKU-006,5.0,16.4,82.0
+26922,michael.ahmad @ hotmail.com,Pakistan,SKU-009,5.0,9.13,45.65
+26923,sonia.singh@@shop.com,Pakistan,SKU-002,3.0,11.71,35.13
+26924,john.akram @ example.com,Pakistan,SKU-007,4.0,0.0,0.0
+26929,usman.johnson@@hotmail.com,USA,SKU-009,2.0,9.44,18.88
+26940,sophia.williams @ marketplace.net,India,SKU-006,5.0,,
+26943,ava.khan@@mail.com,India,SKU-009,5.0,9.96,49.8
+26951,faizan@example,UAE,SKU-007,5.0,0.0,0.0
+26952,priya.williams @ example.com,USA,SKU-009,1.0,9.85,9.85
+26954,laiba@example,India,SKU-009,5.0,9.52,47.6
+26964,arjun@example,Pakistan,SKU-004,4.0,8.13,32.52
+26988,huda.davis @ shop.com,USA,SKU-007,4.0,0.0,0.0
+26990,noor@example,USA,SKU-009,2.0,9.66,19.32
+26992,sophia@example,USA,SKU-006,1.0,14.21,14.21
+27009,noah.iqbal@@hotmail.com,USA,SKU-004,1.0,6.77,6.77
+27012,zain.raza @ shop.com,UAE,SKU-002,4.0,12.73,50.92
+27021,noor.akram@@marketplace.net,Pakistan,SKU-004,4.0,,
+27076,huda@example,UAE,SKU-001,3.0,19.72,59.16
+27077,laiba.brown@@eml.com,Pakistan,SKU-008,2.0,20.35,40.7
+27081,arjun@example,Pakistan,SKU-006,5.0,16.39,81.95
+27091,ava@example,India,SKU-001,5.0,19.44,97.2
+27134,faizan@example,USA,SKU-007,0.0,,
+27167,rahul.hassan @ eml.com,Pakistan,SKU-008,3.0,20.01,60.03
+27203,meera.brown @ eml.com,Pakistan,SKU-005,5.0,3.51,17.55
+27219,ava.khan @ eml.com,Pakistan,SKU-010,3.0,27.83,83.49
+27226,jane.gupta @ example.com,India,SKU-001,1.0,19.44,19.44
+27228,arjun.chen @ shop.com,Pakistan,SKU-008,3.0,22.65,67.95
+27232,hassan.patel@@example.com,India,SKU-004,1.0,7.3,7.3
+27248,usman@example,UAE,SKU-006,1.0,15.45,15.45
+27263,usman.kumar @ hotmail.com,Pakistan,SKU-003,5.0,4.57,22.85
+27264,ali@example,Pakistan,SKU-001,5.0,20.64,103.2
+27278,liam.kumar @ mail.com,Pakistan,SKU-009,5.0,9.52,47.6
+27281,ava@example,USA,SKU-006,5.0,15.05,75.25
+27302,hassan@example,USA,SKU-004,4.0,7.51,30.04
+27311,ali.ahmad @ example.com,India,SKU-003,3.0,4.51,13.53
+27319,ava@example,UAE,SKU-003,5.0,4.62,23.1
+27320,anil@example,Pakistan,SKU-007,4.0,,
+27330,faizan@example,Pakistan,SKU-002,3.0,12.87,38.61
+27360,liam.ahmad@@example.com,UAE,SKU-004,3.0,6.85,20.55
+27370,hassan.noor@@hotmail.com,Pakistan,SKU-001,3.0,18.08,54.24
+27371,arjun@example,India,SKU-002,5.0,12.15,60.75
+27372,anil.noor @ mail.com,USA,SKU-010,1.0,28.4,28.4
+27395,rahul@example,India,SKU-004,5.0,7.74,38.7
+27396,sophia.khan @ eml.com,India,SKU-008,5.0,20.82,104.1
+27397,usman.qureshi @ eml.com,Pakistan,SKU-009,2.0,,
+27399,usman.doe@@hotmail.com,UAE,SKU-007,1.0,0.0,0.0
+27401,emily@example,India,SKU-006,3.0,16.45,49.35
+27418,john.patel@@example.com,USA,SKU-006,1.0,14.22,14.22
+27427,priya.ali @ hotmail.com,Pakistan,SKU-007,1.0,,
+27430,olivia@example,Pakistan,SKU-005,2.0,3.12,6.24
+27431,john@example,USA,SKU-006,1.0,15.36,15.36
+27451,michael@example,Pakistan,SKU-010,1.0,29.16,29.16
+27454,ali@example,Pakistan,SKU-006,1.0,14.05,14.05
+27458,sara.chen@@mail.com,UAE,SKU-008,3.0,21.01,63.03
+27469,olivia@example,USA,SKU-008,1.0,24.1,24.1
+27480,michael@example,India,SKU-008,1.0,23.34,23.34
+27489,anil.raza@@eml.com,India,SKU-002,2.0,12.31,24.62
+27493,bilal@example,Pakistan,SKU-010,4.0,29.29,117.16
+27503,omar.johnson @ example.com,Pakistan,SKU-003,2.0,4.99,9.98
+27514,john@example,UAE,SKU-001,2.0,21.88,43.76
+27521,arjun.williams@@eml.com,India,SKU-004,5.0,8.03,40.15
+27540,anil.ali@@hotmail.com,Pakistan,SKU-002,3.0,12.09,36.27
+27542,john.sharma @ hotmail.com,India,SKU-007,5.0,0.0,0.0
+27557,noor.sharma @ hotmail.com,UAE,SKU-009,0.0,10.21,0.0
+27563,bilal.ali @ hotmail.com,UAE,SKU-004,5.0,7.4,37.0
+27574,nida.akram@@shop.com,Pakistan,SKU-010,1.0,27.59,27.59
+27579,bilal@example,Pakistan,SKU-002,4.0,12.13,48.52
+27581,ayesha.davis @ eml.com,UAE,SKU-010,,29.97,
+27582,meera.ahmad @ example.com,USA,SKU-002,5.0,11.33,56.65
+27594,zain.siddiqui@@mail.com,USA,SKU-008,1.0,21.02,21.02
+27623,omar.gupta@@marketplace.net,USA,SKU-002,5.0,13.24,66.2
+27631,meera.qureshi @ example.com,Pakistan,SKU-009,5.0,10.5,52.5
+27634,ahmed.williams@@shop.com,Pakistan,SKU-007,4.0,0.0,0.0
+27649,sonia.raza @ eml.com,UAE,SKU-010,4.0,30.2,120.8
+27655,sara.abbas @ hotmail.com,Pakistan,SKU-005,1.0,3.16,3.16
+27656,ali.raza@@shop.com,Pakistan,SKU-007,3.0,0.0,0.0
+27659,emily.ali@@eml.com,USA,SKU-009,1.0,9.05,9.05
+27662,laiba@example,India,SKU-001,3.0,,
+27688,bilal@example,USA,SKU-006,5.0,16.3,81.5
+27689,sonia.khan @ shop.com,India,SKU-004,4.0,7.6,30.4
+27693,nida@example,USA,SKU-007,1.0,0.0,0.0
+27699,ava.hassan @ hotmail.com,India,SKU-008,1.0,20.59,20.59
+27710,ahmed.sharma@@eml.com,USA,SKU-005,2.0,3.01,6.02
+27727,laiba@example,Pakistan,SKU-005,5.0,3.05,15.25
+27735,emily.yadav@@example.com,UAE,SKU-008,2.0,,
+27741,priya@example,Pakistan,SKU-006,3.0,14.38,43.14
+27746,jane@example,USA,SKU-010,5.0,31.02,155.1
+27747,ava.abbas@@shop.com,Pakistan,SKU-002,1.0,12.24,12.24
+27763,nida@example,USA,SKU-007,3.0,0.0,0.0
+27766,noor.patel @ eml.com,India,SKU-007,5.0,0.0,0.0
+27775,huda.smith@@shop.com,Pakistan,SKU-003,4.0,5.26,21.04
+27780,noah.qureshi @ example.com,USA,SKU-003,2.0,5.27,10.54
+27782,ava.raza @ example.com,UAE,SKU-003,1.0,5.13,5.13
+27799,ahmed.tariq@@marketplace.net,Pakistan,SKU-008,5.0,21.11,105.55
+27814,ava.davis@@example.com,Pakistan,SKU-004,1.0,,
+27816,ahmed.gupta@@marketplace.net,Pakistan,SKU-004,4.0,7.81,31.24
+27821,sonia.qureshi@@mail.com,USA,SKU-004,4.0,7.2,28.8
+27836,john.ahmad@@hotmail.com,India,SKU-007,3.0,0.0,0.0
+27842,olivia.hassan@@mail.com,USA,SKU-007,1.0,,
+27847,john@example,USA,SKU-007,2.0,,
+27852,ali.ali@@marketplace.net,USA,SKU-004,3.0,7.47,22.41
+27861,omar@example,Pakistan,SKU-006,2.0,14.06,28.12
+27873,jane.iqbal@@mail.com,Pakistan,SKU-007,2.0,,
+27889,sophia.raza @ mail.com,India,SKU-007,1.0,0.0,0.0
+27937,rahul.hassan@@marketplace.net,India,SKU-007,3.0,0.0,0.0
+27953,liam@example,USA,SKU-001,5.0,20.75,103.75
+27967,laiba@example,India,SKU-004,4.0,7.97,31.88
+27984,sophia.kumar@@eml.com,Pakistan,SKU-008,3.0,23.55,70.65
+28052,sara.iqbal @ example.com,Pakistan,SKU-001,3.0,20.08,60.24
+28058,huda.hassan @ example.com,India,SKU-010,0.0,29.58,0.0
+28075,hassan.doe @ example.com,USA,SKU-003,2.0,5.42,10.84
+28085,bilal.tariq@@shop.com,USA,SKU-008,1.0,21.38,21.38
+28098,omar.singh @ example.com,Pakistan,SKU-004,0.0,7.91,0.0
+28117,arjun.ali @ marketplace.net,Pakistan,SKU-004,3.0,7.66,22.98
+28120,jane@example,UAE,SKU-006,3.0,14.41,43.23
+28123,arjun.tariq @ example.com,USA,SKU-001,5.0,20.02,100.1
+28162,arjun.ahmad@@marketplace.net,UAE,SKU-005,5.0,3.31,16.55
+28167,sonia.hassan @ mail.com,Pakistan,SKU-006,3.0,15.78,47.34
+28184,amna.khan@@shop.com,Pakistan,SKU-005,4.0,3.43,13.72
+28193,liam.miller @ hotmail.com,UAE,SKU-001,4.0,19.0,76.0
+28198,bilal@example,India,SKU-008,1.0,22.65,22.65
+28220,liam.raza@@shop.com,India,SKU-002,1.0,11.86,11.86
+28234,hassan.iqbal @ mail.com,UAE,SKU-007,1.0,0.0,0.0
+28261,olivia.davis @ hotmail.com,Pakistan,SKU-003,4.0,4.84,19.36
+28288,rahul@example,India,SKU-005,5.0,3.41,17.05
+28298,jane.singh @ marketplace.net,UAE,SKU-005,3.0,,
+28305,usman.khan@@example.com,Pakistan,SKU-001,3.0,20.83,62.49
+28306,omar@example,USA,SKU-006,2.0,14.69,29.38
+28313,liam@example,UAE,SKU-004,1.0,7.23,7.23
+28314,omar@example,USA,SKU-002,4.0,12.81,51.24
+28320,emily.kumar@@shop.com,Pakistan,SKU-002,1.0,12.52,12.52
+28335,zain.khan@@example.com,Pakistan,SKU-004,5.0,8.07,40.35
+28353,noah@example,UAE,SKU-009,4.0,10.63,42.52
+28388,noor.gupta @ shop.com,Pakistan,SKU-008,3.0,23.1,69.3
+28413,hassan@example,India,SKU-001,,20.59,
+28441,anil.qureshi@@eml.com,UAE,SKU-001,4.0,21.12,84.48
+28446,hassan.raza@@hotmail.com,Pakistan,SKU-007,0.0,0.0,0.0
+28447,omar.sharma@@shop.com,Pakistan,SKU-010,1.0,32.26,32.26
+28495,meera.yadav@@mail.com,India,SKU-007,5.0,0.0,0.0
+28512,noor.smith@@eml.com,USA,SKU-008,4.0,23.95,95.8
+28520,faizan.smith@@mail.com,India,SKU-002,5.0,13.63,68.15
+28523,faizan.davis@@marketplace.net,Pakistan,SKU-008,3.0,22.03,66.09
+28531,omar@example,Pakistan,SKU-002,1.0,13.33,13.33
+28533,noor.tariq@@eml.com,Pakistan,SKU-001,3.0,19.76,59.28
+28539,priya@example,USA,SKU-007,1.0,0.0,0.0
+28540,bilal@example,USA,SKU-002,4.0,13.11,52.44
+28553,nida@example,UAE,SKU-007,5.0,0.0,0.0
+28556,ava@example,UAE,SKU-006,,15.4,
+28599,jane.tariq @ shop.com,Pakistan,SKU-004,5.0,6.98,34.9
+28611,liam@example,UAE,SKU-010,3.0,29.75,89.25
+28614,ayesha.tariq@@shop.com,USA,SKU-001,2.0,,
+28618,ali.chen @ example.com,USA,SKU-010,4.0,28.45,113.8
+28658,priya.miller@@example.com,UAE,SKU-007,1.0,0.0,0.0
+28681,sonia.abbas@@shop.com,UAE,SKU-005,4.0,3.2,12.8
+28698,nida.smith @ example.com,UAE,SKU-003,4.0,4.51,18.04
+28701,priya@example,USA,SKU-007,1.0,0.0,0.0
+28702,huda.akram@@example.com,USA,SKU-008,4.0,21.3,85.2
+28707,zain.brown @ mail.com,Pakistan,SKU-002,1.0,13.25,13.25
+28713,ahmed.obrien @ hotmail.com,USA,SKU-006,5.0,15.82,79.1
+28718,noah.khan @ hotmail.com,USA,SKU-010,4.0,27.06,108.24
+28731,zain.raza@@shop.com,USA,SKU-007,0.0,0.0,0.0
+28744,priya.iqbal@@shop.com,UAE,SKU-007,1.0,0.0,0.0
+28753,anil.brown@@hotmail.com,UAE,SKU-005,4.0,3.23,12.92
+28757,arjun@example,UAE,SKU-004,1.0,8.12,8.12
+28782,rahul@example,USA,SKU-010,3.0,27.81,83.43
+28783,olivia.zafar @ example.com,Pakistan,SKU-005,2.0,3.37,6.74
+28802,faizan@example,Pakistan,SKU-008,2.0,,
+28810,hassan.obrien @ hotmail.com,USA,SKU-006,5.0,,
+28812,hassan.hassan @ hotmail.com,Pakistan,SKU-007,5.0,0.0,0.0
+28815,zain@example,India,SKU-008,1.0,21.82,21.82
+28828,rahul.chen@@eml.com,Pakistan,SKU-005,5.0,,
+28829,ali.williams @ hotmail.com,USA,SKU-010,5.0,27.29,136.45
+28831,anil.siddiqui@@example.com,USA,SKU-005,5.0,,
+28836,arjun.noor @ example.com,USA,SKU-008,2.0,23.56,47.12
+28890,meera.singh@@mail.com,Pakistan,SKU-009,5.0,9.19,45.95
+28898,faizan.patel@@mail.com,India,SKU-003,5.0,4.68,23.4
+28922,john@example,Pakistan,SKU-002,2.0,11.9,23.8
+28946,john.williams@@example.com,India,SKU-010,4.0,31.54,126.16
+28949,john@example,Pakistan,SKU-005,1.0,2.96,2.96
+28982,priya@example,Pakistan,SKU-003,2.0,5.05,10.1
+28985,rahul.qureshi @ shop.com,USA,SKU-007,1.0,0.0,0.0
+28989,amna.siddiqui @ example.com,USA,SKU-002,4.0,13.4,53.6
+28991,priya@example,USA,SKU-002,5.0,13.02,65.1
+29012,hassan.ali @ shop.com,Pakistan,SKU-004,,,
+29019,noah.akram@@example.com,Pakistan,SKU-005,2.0,3.09,6.18
+29022,hassan.akram @ marketplace.net,UAE,SKU-004,2.0,7.1,14.2
+29033,michael.siddiqui@@mail.com,Pakistan,SKU-002,4.0,12.92,51.68
+29058,zain.qureshi@@marketplace.net,Pakistan,SKU-006,5.0,15.69,78.45
+29062,olivia@example,USA,SKU-006,1.0,13.8,13.8
+29065,sara.yadav @ marketplace.net,Pakistan,SKU-004,1.0,7.29,7.29
+29073,meera@example,UAE,SKU-010,5.0,31.85,159.25
+29082,rahul@example,USA,SKU-009,5.0,9.2,46.0
+29125,noah.brown @ hotmail.com,Pakistan,SKU-009,5.0,10.13,50.65
+29126,huda.miller@@hotmail.com,UAE,SKU-006,2.0,14.58,29.16
+29141,omar@example,USA,SKU-001,4.0,20.26,81.04
+29171,jane.abbas@@example.com,Pakistan,SKU-010,5.0,28.01,140.05
+29194,amna.akram@@hotmail.com,UAE,SKU-001,0.0,20.44,0.0
+29195,michael@example,UAE,SKU-006,2.0,15.84,31.68
+29198,priya@example,India,SKU-003,3.0,4.65,13.95
+29199,ahmed.sharma @ hotmail.com,USA,SKU-007,5.0,0.0,0.0
+29220,sophia.raza @ example.com,Pakistan,SKU-002,4.0,11.97,47.88
+29235,meera.noor @ eml.com,India,SKU-005,3.0,,
+29281,noah.sharma@@eml.com,India,SKU-006,4.0,14.28,57.12
+29333,hassan.patel@@shop.com,UAE,SKU-004,3.0,7.18,21.54
+29343,priya.qureshi @ mail.com,Pakistan,SKU-010,4.0,27.11,108.44
+29354,emily.ali @ eml.com,Pakistan,SKU-009,3.0,9.8,29.4
+29355,meera@example,Pakistan,SKU-001,1.0,21.11,21.11
+29366,amna.iqbal @ mail.com,Pakistan,SKU-001,3.0,21.43,64.29
+29383,laiba.siddiqui @ mail.com,Pakistan,SKU-004,1.0,7.15,7.15
+29401,faizan@example,UAE,SKU-004,3.0,8.17,24.51
+29413,bilal@example,USA,SKU-001,3.0,19.9,59.7
+29420,michael.williams @ eml.com,USA,SKU-005,2.0,3.0,6.0
+29463,laiba.yadav @ hotmail.com,UAE,SKU-003,1.0,5.24,5.24
+29489,nida.obrien @ hotmail.com,UAE,SKU-002,5.0,,
+29499,faizan.ali@@mail.com,USA,SKU-007,2.0,0.0,0.0
+29501,emily.williams@@example.com,Pakistan,SKU-005,5.0,3.46,17.3
+29539,nida.brown@@eml.com,UAE,SKU-003,2.0,5.34,10.68
+29550,priya@example,USA,SKU-010,3.0,31.67,95.01
+29562,sophia.ali@@shop.com,India,SKU-005,4.0,3.11,12.44
+29574,priya.akram@@eml.com,UAE,SKU-006,5.0,15.17,75.85
+29575,john.chen@@marketplace.net,Pakistan,SKU-008,2.0,21.61,43.22
+29589,rahul.tariq@@mail.com,India,SKU-010,5.0,29.3,146.5
+29599,laiba@example,UAE,SKU-007,4.0,0.0,0.0
+29601,ahmed@example,Pakistan,SKU-010,1.0,28.11,28.11
+29604,hassan.sharma@@shop.com,UAE,SKU-009,5.0,9.57,47.85
+29613,ahmed@example,Pakistan,SKU-009,1.0,9.39,9.39
+29617,faizan.tariq@@hotmail.com,UAE,SKU-007,2.0,,
+29621,jane.khan @ example.com,USA,SKU-001,4.0,19.18,76.72
+29622,ava.ali @ eml.com,Pakistan,SKU-010,1.0,31.83,31.83
+29644,bilal@example,Pakistan,SKU-002,4.0,13.28,53.12
+29645,ayesha.ahmad @ example.com,USA,SKU-001,1.0,18.73,18.73
+29663,noor@example,Pakistan,SKU-009,2.0,,
+29683,nida@example,USA,SKU-010,4.0,30.0,120.0
+29724,laiba@example,Pakistan,SKU-001,2.0,20.61,41.22
+29733,priya@example,Pakistan,SKU-010,2.0,28.16,56.32
+29747,huda.akram@@hotmail.com,India,SKU-007,3.0,0.0,0.0
+29761,priya.sharma @ marketplace.net,Pakistan,SKU-006,1.0,15.14,15.14
+29765,ayesha@example,USA,SKU-010,5.0,30.19,150.95
+29772,sonia.obrien @ marketplace.net,USA,SKU-006,1.0,14.66,14.66
+29782,arjun.khan@@hotmail.com,Pakistan,SKU-004,1.0,7.53,7.53
+29800,faizan@example,Pakistan,SKU-002,1.0,12.31,12.31
+29801,hassan@example,USA,SKU-006,5.0,16.41,82.05
+29810,emily@example,USA,SKU-010,4.0,31.14,124.56
+29823,arjun.khan@@example.com,USA,SKU-010,5.0,27.54,137.7
+29826,huda.kumar @ eml.com,Pakistan,SKU-001,,21.62,
+29831,jane.iqbal @ eml.com,USA,SKU-003,3.0,,
+29853,bilal@example,USA,SKU-005,1.0,3.0,3.0
+29893,amna.raza @ shop.com,USA,SKU-009,1.0,,
+29910,priya@example,UAE,SKU-006,2.0,15.74,31.48
+29914,hassan.smith@@marketplace.net,USA,SKU-003,4.0,5.16,20.64
+29952,zain@example,India,SKU-002,4.0,12.46,49.84
+29964,olivia.hassan@@example.com,USA,SKU-009,5.0,9.9,49.5
+29977,zain.zafar@@hotmail.com,India,SKU-010,2.0,32.59,65.18
+30006,usman.singh@@hotmail.com,Pakistan,SKU-004,1.0,7.62,7.62
+30008,liam.siddiqui@@example.com,Pakistan,SKU-001,2.0,18.2,36.4
+30012,liam.iqbal@@eml.com,India,SKU-010,1.0,28.34,28.34
+30021,ayesha.sharma @ shop.com,Pakistan,SKU-002,1.0,13.03,13.03
+30026,ava.noor@@hotmail.com,USA,SKU-001,1.0,20.26,20.26
+30029,huda@example,India,SKU-005,1.0,3.19,3.19
+30037,usman.khan@@shop.com,USA,SKU-010,3.0,29.44,88.32
+30047,bilal.gupta @ shop.com,Pakistan,SKU-005,5.0,2.98,14.9
+30067,laiba.gupta@@mail.com,Pakistan,SKU-005,1.0,3.22,3.22
+30070,rahul@example,USA,SKU-007,1.0,0.0,0.0
+30095,sophia@example,USA,SKU-004,3.0,7.67,23.01
+30098,sara.singh@@mail.com,UAE,SKU-009,3.0,9.25,27.75
+30105,emily@example,Pakistan,SKU-007,4.0,0.0,0.0
+30108,michael.yadav @ mail.com,UAE,SKU-004,2.0,8.06,16.12
+30111,sonia.davis@@eml.com,UAE,SKU-003,1.0,,
+30123,laiba.siddiqui @ mail.com,Pakistan,SKU-004,1.0,7.38,7.38
+30142,noor.raza @ example.com,USA,SKU-002,4.0,11.74,46.96
+30145,sonia@example,UAE,SKU-009,2.0,,
+30148,john@example,India,SKU-005,5.0,3.44,17.2
+30183,noor.obrien @ hotmail.com,India,SKU-006,1.0,13.91,13.91
+30195,sara.iqbal@@hotmail.com,USA,SKU-009,3.0,9.86,29.58
+30204,laiba.qureshi @ mail.com,Pakistan,SKU-010,1.0,29.79,29.79
+30212,noor@example,Pakistan,SKU-003,5.0,5.49,27.45
+30215,john.yadav@@marketplace.net,UAE,SKU-001,4.0,20.09,80.36
+30224,sophia.obrien@@hotmail.com,Pakistan,SKU-005,3.0,3.41,10.23
+30227,anil@example,UAE,SKU-003,2.0,4.56,9.12
+30245,sara@example,UAE,SKU-003,3.0,5.47,16.41
+30247,usman.abbas@@example.com,Pakistan,SKU-007,4.0,,
+30248,ava@example,Pakistan,SKU-009,3.0,9.61,28.83
+30274,amna.yadav@@marketplace.net,USA,SKU-001,5.0,20.29,101.45
+30278,arjun.brown@@eml.com,Pakistan,SKU-007,1.0,0.0,0.0
+30281,rahul.kumar @ example.com,USA,SKU-001,4.0,18.58,74.32
+30288,noor.yadav@@hotmail.com,Pakistan,SKU-002,3.0,13.17,39.51
+30297,priya@example,Pakistan,SKU-005,3.0,3.09,9.27
+30323,huda.zafar@@shop.com,USA,SKU-006,3.0,13.62,40.86
+30325,hassan.brown@@hotmail.com,USA,SKU-007,4.0,0.0,0.0
+30409,meera.davis @ example.com,Pakistan,SKU-006,2.0,15.15,30.3
+30423,sonia.chen @ marketplace.net,USA,SKU-002,4.0,12.47,49.88
+30432,ahmed.qureshi@@example.com,USA,SKU-007,5.0,0.0,0.0
+30447,ali.brown@@eml.com,USA,SKU-007,1.0,0.0,0.0
+30449,michael.akram@@shop.com,Pakistan,SKU-004,1.0,8.14,8.14
+30452,sonia@example,USA,SKU-005,4.0,3.21,12.84
+30459,meera.ali@@marketplace.net,Pakistan,SKU-009,2.0,10.77,21.54
+30461,priya.brown@@hotmail.com,Pakistan,SKU-010,2.0,31.78,63.56
+30483,hassan.raza@@mail.com,UAE,SKU-004,3.0,6.84,20.52
+30489,meera@example,India,SKU-003,1.0,5.23,5.23
+30496,sara.brown @ example.com,Pakistan,SKU-006,4.0,15.08,60.32
+30500,olivia.khan@@shop.com,USA,SKU-010,4.0,27.38,109.52
+30516,hassan.brown@@example.com,Pakistan,SKU-005,5.0,3.48,17.4
+30519,huda.miller @ example.com,USA,SKU-010,1.0,28.98,28.98
+30529,sonia.smith @ example.com,India,SKU-003,3.0,5.26,15.78
+30539,sonia@example,USA,SKU-003,4.0,4.55,18.2
+30550,ava@example,India,SKU-010,4.0,28.7,114.8
+30555,noah.raza@@mail.com,Pakistan,SKU-001,0.0,18.13,0.0
+30556,arjun.noor @ shop.com,India,SKU-005,3.0,3.43,10.29
+30558,huda.zafar @ mail.com,Pakistan,SKU-009,1.0,9.32,9.32
+30560,amna@example,India,SKU-007,3.0,0.0,0.0
+30566,jane.sharma @ eml.com,USA,SKU-007,3.0,0.0,0.0
+30568,sophia@example,USA,SKU-005,,3.36,
+30583,emily.noor @ mail.com,Pakistan,SKU-002,4.0,12.74,50.96
+30589,ava@example,India,SKU-005,3.0,3.05,9.15
+30600,amna@example,Pakistan,SKU-001,5.0,18.84,94.2
+30610,ali@example,Pakistan,SKU-005,5.0,,
+30614,bilal.obrien @ hotmail.com,Pakistan,SKU-010,2.0,27.13,54.26
+30618,sophia@example,UAE,SKU-007,2.0,0.0,0.0
+30619,amna@example,UAE,SKU-004,4.0,7.88,31.52
+30620,nida@example,Pakistan,SKU-006,1.0,15.67,15.67
+30629,john.ali @ eml.com,USA,SKU-005,2.0,3.38,6.76
+30651,john.khan @ eml.com,USA,SKU-010,2.0,27.1,54.2
+30667,zain@example,India,SKU-009,1.0,10.48,10.48
+30669,laiba@example,UAE,SKU-002,2.0,,
+30719,bilal@example,USA,SKU-001,1.0,19.93,19.93
+30722,jane@example,Pakistan,SKU-004,3.0,7.47,22.41
+30735,huda@example,UAE,SKU-010,2.0,29.24,58.48
+30745,amna@example,USA,SKU-001,3.0,21.33,63.99
+30768,jane.abbas@@hotmail.com,USA,SKU-003,3.0,4.82,14.46
+30776,bilal@example,UAE,SKU-001,1.0,21.74,21.74
+30785,faizan@example,USA,SKU-002,1.0,12.49,12.49
+30786,jane@example,India,SKU-004,2.0,7.8,15.6
+30789,arjun.ahmad @ eml.com,UAE,SKU-003,3.0,4.69,14.07
+30803,bilal@example,USA,SKU-009,1.0,,
+30834,arjun.yadav @ example.com,UAE,SKU-010,4.0,28.49,113.96
+30902,sara.chen@@eml.com,Pakistan,SKU-001,2.0,20.57,41.14
+30909,liam@example,Pakistan,SKU-006,,,
+30927,zain.johnson@@marketplace.net,USA,SKU-007,1.0,0.0,0.0
+30934,john@example,USA,SKU-009,,10.94,
+30935,priya.tariq@@example.com,USA,SKU-008,2.0,20.13,40.26
+30938,noor.akram @ example.com,Pakistan,SKU-005,4.0,3.36,13.44
+30939,noor.doe @ example.com,Pakistan,SKU-001,4.0,19.68,78.72
+30948,usman.ali @ mail.com,Pakistan,SKU-007,4.0,0.0,0.0
+30962,laiba@example,India,SKU-007,1.0,0.0,0.0
+30963,ahmed@example,USA,SKU-008,1.0,23.86,23.86
+30986,ali.smith@@marketplace.net,India,SKU-006,5.0,16.35,81.75
+31005,meera@example,India,SKU-010,4.0,27.4,109.6
+31008,ava.qureshi@@mail.com,Pakistan,SKU-001,1.0,21.81,21.81
+31033,noor.brown @ marketplace.net,Pakistan,SKU-003,5.0,5.05,25.25
+31037,ali.ali@@hotmail.com,USA,SKU-003,3.0,5.03,15.09
+31044,emily.williams @ eml.com,Pakistan,SKU-006,2.0,15.78,31.56
+31048,bilal.smith @ marketplace.net,India,SKU-008,2.0,20.09,40.18
+31085,olivia@example,Pakistan,SKU-005,4.0,3.5,14.0
+31088,zain.patel@@shop.com,UAE,SKU-001,,19.22,
+31090,nida.khan@@example.com,Pakistan,SKU-002,2.0,12.68,25.36
+31099,noor.ali@@example.com,India,SKU-002,0.0,12.01,0.0
