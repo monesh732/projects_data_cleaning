@@ -1,0 +1,9 @@
+order_id,order_date,customer_name,email,country,sku,qty,unit_price,channel,total,email_valid
+1003,2025-07-30,Ahmed Hassan,ahmed@@example.com,Pakistan,SKU-001,3.0,19.0,Website,57.0,False
+1004,2025-07-29,Emily Chen,emily.chen@example.com,Pakistan,SKU-003,,5.0,Website,,True
+1005,2025-07-28,Michael O'Brien,michael.obrien@ho-exampde.com,Pakistan,SKU-002,2.0,1250.0,Marketplace,2500.0,True
+1009,2025-07-25,Faizan Ali,faizan.ali@example.com,Pakistan,SKU-005,1.0,3.25,Website,3.25,True
+1010,2025-07-24,Nida Abbas,nida.abbas@example.com,Pakistan,SKU-001,1.0,19.99,Website,19.99,True
+1013,2025-07-21,Usman Tariq,usman.tariq@example.com,Pakistan,SKU-003,2.0,5.0,Website,10.0,True
+1016,2025-07-18,Ayesha Noor,ayesha.noor@example.com,Pakistan,SKU-002,1.0,12.5,Website,12.5,True
+1019,2025-01-13,Hassan Ali,hassan.ali@example.com,Pakistan,SKU-003,2.0,5.0,Website,10.0,True

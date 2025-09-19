@@ -1,0 +1,67 @@
+<h3>DATA DICTIONARY</h3>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Column</th>
+      <th>Type</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>order_id</td>
+      <td>string</td>
+      <td>Unique order identifier</td>
+    </tr>
+    <tr>
+      <td>order_date</td>
+      <td>date</td>
+      <td>Order date (YYYY-MM-DD)</td>
+    </tr>
+    <tr>
+      <td>customer_name</td>
+      <td>string</td>
+      <td>Customer full name</td>
+    </tr>
+    <tr>
+      <td>email</td>
+      <td>string</td>
+      <td>Email address</td>
+    </tr>
+    <tr>
+      <td>country</td>
+      <td>string</td>
+      <td>Standardized country (e.g., USA, Pakistan, India, UAE)</td>
+    </tr>
+    <tr>
+      <td>sku</td>
+      <td>string</td>
+      <td>Product code</td>
+    </tr>
+    <tr>
+      <td>qty</td>
+      <td>number</td>
+      <td>Units purchased</td>
+    </tr>
+    <tr>
+      <td>unit_price</td>
+      <td>number</td>
+      <td>Price per unit (USD)</td>
+    </tr>
+    <tr>
+      <td>total</td>
+      <td>number</td>
+      <td>qty * unit_price</td>
+    </tr>
+    <tr>
+      <td>channel</td>
+      <td>string</td>
+      <td>Sales channel (Website/Marketplace)</td>
+    </tr>
+    <tr>
+      <td>email_valid</td>
+      <td>boolean</td>
+      <td>Email passes basic regex validation</td>
+    </tr>
+  </tbody>
+</table>
