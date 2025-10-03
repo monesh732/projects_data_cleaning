@@ -1,0 +1,2551 @@
+ order_id ,date,Product,qty,unit_price,TOTAL ,customer_name
+ORD19278,15/09/2024,Widget B,7,21.99,153,Fatima Garcia
+ORD14655,2024-07-14,Gadget Y,2, 5.49 ,10.98,Ayesha Garcia
+ORD62653,08-Nov-24,Widget A,4, 13.75 ,55,Fatima Garcia
+ORD86686,15-Dec-24,Gadget X,10,7,77,Maria Patel
+ORD89222,06-Nov-24,Gadget Y,4,$4.94,$23.72,Zain Chen
+ORD97875,17-Jul-24,Gadget X,9,7.70,65,Noor Smith
+ORD24936,06-04-2024,Service Plan,8,$49.99,"399,92",John Lee
+ORD65835,08-16-2024,SERVICE PLAN,1,54.99,54,Noor Lee
+ORD88232,"Dec 24, 2024",Gadget Y,5,$5.49,27,Hassan Smith
+ORD45551,2024-07-03,Service Plan,8,$49.99,"379,92",Ali Khan
+ORD31344,06-Dec-24,Service Plan,5,$44.99,224.95,John Patel
+ORD47445,13/06/2024,Widget B, 6 ,$19.99,119,Sara Lee
+ORD39093,26/10/2024,Service Plan,4,"44,99",$179.96,Ali Khan
+ORD21538,28-Jul-24,Gadget X,3, 7.70 ,21.95,Ali Chen
+ORD14571,"Jun 09, 2024",Service Plan,2,"44,99","89,98",Sara Khan  
+ORD23250,2024-10-29,Gadget Y,2, 5.49 , 13.18 ,Hassan Smith
+ORD53730,"Aug 15, 2024",Gadget Y,7,4,34.59,Omar Lee
+ORD86568,2024-08-09,Gadget X,5,7,"35,00",John Garcia
+ORD25963,10-25-2024,Widget B,1,17.99,$17.99,Hassan Khan
+ORD80860,10-05-2024,Gadget Y,8,$5.49,43.92,Zain Garcia
+ORD28668,06/07/2024,Widget B,10,"19,99",199.90,John Khan
+ORD58296,31/07/2024,Gadget X,1,7,7,Ayesha Ahmed
+ORD93529,08-28-2024,Widget A,5,"12,50", 62.50 ,Fatima Hussain
+ORD69465,10-Jul-24,Service Plan, 1 ,49,"49,99",Hassan Chen
+ORD22151,06-30-2024,Gadget X,9, 7.70 ,$55.44,Noor Chen
+ORD19782,2024-11-08,Widget A,9,"13,75", 129.94 ,Ayesha Chen
+ORD80473,19-Jun-24,Service Plan,2,49,"99,98",Ayesha Lee
+ORD51629,10-29-2024,Gadget Y,5,$5.49,27.45,Sara Chen
+ORD57568,12-30-2024,Widget A,5,11.25,$56.25,Noor Garcia
+ORD29651,12/11/2024,Widget B,1, 19.99 ,$19.99,Noor Garcia
+ORD61139,07-05-2024,Widget A,4,12.50, 50.00 ,Ali Reyes
+ORD83643,06-13-2024,Service Plan,9, 44.99 ,"404,92",Sara Reyes
+ORD35406,15/08/2024,Widget B,6, 19.99 ,119,Sara Reyes
+ORD52813,17/06/2024,Gadget Y,4,4,19.76,Omar Ahmed
+ORD38821,07-Aug-24,Service Plan,6,"49,99",314.94,Zain Hussain
+ORD99935,07-04-2024,Gadget X,5,$7.70,"38,50",Ali Reyes
+ORD35183,08-23-2024,Widget B,3, 19.99 ,"59,97",Fatima Patel
+ORD24908,05/07/2024,Service Plan,7,$49.99,$367.43,Maria Iqbal
+ORD62697,"Nov 30, 2024",Gadget Y, 8 ,$5.49,52.70,Fatima Smith
+ORD31469,2024-11-24,GADGET X,5,7,42.00,Ali Garcia
+ORD34607,"Dec 15, 2024",Service Plan,4,54,$219.96,Omar Khan
+ORD54234,25/11/2024,Gadget X,9,6,56.70,Ayesha Hussain
+ORD56901,24/07/2024,Gadget Y,8,"4,94","39,53",Ali Garcia
+ORD87961,06/07/2024,Service Plan,2,"49,99", 99.98 ,Zain Reyes  
+ORD43168,"Jul 23, 2024",WIDGET B,1, 17.99 , 18.89 ,Noor Khan
+ORD75757,15/10/2024,Gadget Y,6,$6.04,"36,23",Noor Chen  
+ORD73253,"Jun 28, 2024",GADGET Y,6, 5.49 , 32.94 ,Noor Hussain  
+ORD52372,07-18-2024,Service Plan,6,$54.99,$329.93,John Hussain
+ORD46536,2024-09-26,GADGET Y,2,5.49, 10.98 ,Zain Khan
+ORD25937,"Oct 15, 2024",Widget B,5,19,$79.96,Hassan Garcia
+ORD61897,2024-10-23,Gadget X,5,7.00,"28,00",Sara Smith
+ORD12285,28/11/2024,Gadget Y,10,$5.49,$43.92,Fatima Patel
+ORD61673,2024-07-31,Widget B,5, 19.99 ,"99,95",Fatima Chen
+ORD18385,31/08/2024,Widget B, 4 , 19.99 ,$79.96,Sara Smith
+ORD37065,14-Oct-24,Gadget Y,1,$5.49,5.49,Hassan Reyes
+ORD20618,03/11/2024,Widget B,10, 19.99 ,"199,90",Noor Lee  
+ORD95319,2024-12-20,Gadget Y,3,"4,94",14,Omar Lee
+ORD21692,12-19-2024,Widget A,3,"12,50", 37.50 ,Zain Garcia
+ORD82082,"Oct 22, 2024",Gadget X,8,$7.00, 53.20 ,Omar Garcia
+ORD73626,2024-10-19,SERVICE PLAN, 6 , 49.99 , 299.94 ,Fatima Khan
+ORD58714,08/06/2024,Service Plan,1, 54.99 ,65.99,Hassan Reyes
+ORD34360,14/07/2024,Widget B,5,$19.99,99.95,Noor Reyes
+ORD21953,29/11/2024,Widget B,7,17.99,"125,94",Hassan Lee
+ORD39330,"Dec 16, 2024",Gadget Y, 3 ,5.49,15,Hassan Patel
+ORD73166,11-10-2024,Widget B,5,19, 94.95 ,Ali Reyes
+ORD31984,21-Sep-24,Gadget Y,6,4,$29.65,Omar Hussain
+ORD44384,27-Sep-24,Service Plan,8, 49.99 ,399.92,John Garcia
+ORD54743,"Oct 24, 2024",Gadget X,9,7,63.00,Zain Patel
+ORD62784,06-28-2024,Widget B,2,19,39.98,Zain Chen
+ORD25804,30/09/2024,Widget A,2,"12,50",25.00,John Iqbal
+ORD89583,23/09/2024,Service Plan,3,"44,99", 141.72 ,John Chen
+ORD94392,06-Sep-24,Service Plan,3,"49,99",149,Omar Lee
+ORD85766,"Oct 21, 2024",Widget B,5,19.99,104.95,Fatima Reyes
+ORD48193,24-Jul-24,Widget B,8, 19.99 ,"159,92",Maria Hussain  
+ORD58467,07-Jul-24,Gadget Y,7,5.49,"38,43",Omar Lee
+ORD41115,16-Oct-24,Widget B,9,"17,99","194,30",Maria Khan
+ORD24295,2024-12-15,Gadget X,9,"7,70",69.30,Omar Khan
+ORD96070,31/10/2024,WIDGET B,5, 19.99 ,99.95,Zain Smith
+ORD88777,06-14-2024,Gadget X,7,6.30, 44.10 ,Noor Garcia
+ORD35883,"Aug 07, 2024",Gadget Y,5, 6.04 ,$30.20,Omar Chen
+ORD52415,"Oct 11, 2024",Widget B,2,19.99,$31.98,Fatima Khan
+ORD91397,21-Jul-24,Service Plan,6, 49.99 ,$299.94,Maria Lee
+ORD91472,"Sep 19, 2024",Gadget Y,8, 5.49 ,$41.72,Maria Hussain
+ORD43657,"Jun 29, 2024",Service Plan,5,$49.99,249.95,Ayesha Patel
+ORD41813,2024-08-05,Widget A,5,13,68.75,Omar Garcia
+ORD73268,2024-07-24,Gadget X,3,$6.30,$18.90,Omar Patel
+ORD55134,2024-10-24,Gadget X,5,7.00,36,Fatima Hussain  
+ORD40619,2024-08-18,Service Plan,10,49.99, 499.90 ,Noor Smith
+ORD82989,09-Nov-24,Gadget X,2,7,$14.00,John Khan  
+ORD96638,"Nov 14, 2024",Gadget X,7, 7.00 ,"49,00",Fatima Iqbal
+ORD84022,"Aug 01, 2024",Widget B,10,$17.99,$179.91,Sara Ahmed
+ORD30903,2024-11-12,Service Plan,9,"44,99", 404.92 ,Noor Lee
+ORD90562,22-Sep-24,Widget A,9,"13,75",123,Maria Chen
+ORD86561,10-04-2024,Gadget X,4,7.70,24,Hassan Smith
+ORD41722,05-Jun-24,Gadget X,9,$7.70, 69.30 ,Maria Lee
+ORD42503,"Oct 14, 2024",WIDGET A,5,$11.25,"56,25",Ali Smith
+ORD64760,12-18-2024,Gadget Y,8,$5.49, 43.92 ,Omar Smith
+ORD91665,11-20-2024,Widget B,3,$17.99,53,Sara Ahmed
+ORD55476,03-Dec-24,Gadget Y,9,5.49,49.41,Hassan Khan
+ORD11625,25-Aug-24,Service Plan,3,54.99,"164,97",Sara Chen
+ORD17568,2024-08-29,Gadget Y,4,"4,94",$15.81,Maria Smith
+ORD17336,12-Sep-24,Gadget Y,10, 5.49 ,$54.90,John Hussain  
+ORD66748,"Dec 01, 2024",Service Plan,7,49,367.43,Ayesha Reyes
+ORD96468,2024-12-24,Gadget X,8,$6.30, 50.40 ,Ali Khan
+ORD77821,2024-09-12,Service Plan,2,49, 104.98 ,Ayesha Hussain
+ORD60414,09-10-2024,Widget B,2,21.99,$52.77,Fatima Iqbal  
+ORD43380,22/06/2024,Gadget X,2,"7,00",14.00,Omar Khan
+ORD39296,08-09-2024,Widget A,3, 12.50 , 37.50 ,Maria Ahmed
+ORD84598,2024-08-23,Gadget Y,1,5,5,Sara Ahmed
+ORD94721,2024-08-04,WIDGET B,1,$19.99,$19.99,Hassan Smith
+ORD85648,2024-08-04,Widget A,8,"12,50",$100.00,Sara Garcia
+ORD87890,14-Jul-24,Widget A,1,$12.50, 12.50 ,Omar Lee
+ORD58802,"Aug 21, 2024",Gadget Y,8,$5.49,"43,92",John Ahmed
+ORD52374,2024-12-02,Widget B,2,19,39,Ayesha Iqbal
+ORD94116,10-13-2024,Widget A,1,$12.50, 15.00 ,John Ahmed
+ORD13594,2024-08-21,Widget B, 10 , 19.99 ,"199,90",Zain Garcia
+ORD42014,"Sep 14, 2024",Service Plan,6,"54,99",329,Omar Lee
+ORD82447,03/06/2024,Widget B,6,19.99,119,Omar Patel
+ORD26372,2024-12-07,Gadget X,7,7,"49,00",Sara Khan
+ORD32921,12-12-2024,Service Plan,1,"49,99", 49.99 ,Omar Iqbal
+ORD80290,2024-10-25,Gadget Y,4, 5.49 , 20.86 ,Maria Iqbal
+ORD72306,2024-10-31,Gadget X,6,7,42,Hassan Ahmed
+ORD55568,04-Dec-24,Service Plan,9,54.99,$494.90,Maria Ahmed
+ORD38629,29/07/2024,SERVICE PLAN,9,44,404.92,Noor Garcia
+ORD82677,"Aug 18, 2024",WIDGET A,7,$12.50,$87.50,Maria Iqbal
+ORD99182,2024-06-11,Gadget Y,3,4.94,"17,79",Sara Ahmed
+ORD38944,"Jun 25, 2024",Gadget X,2,"7,00", 14.00 ,Hassan Iqbal
+ORD30346,2024-09-18,Gadget X,1,7,$6.65,Sara Hussain
+ORD73267,2024-11-04,Widget B,7,19,139.93,Sara Lee
+ORD77840,27-Sep-24,Widget A,3,13,39.19,Maria Lee
+ORD49442,2024-10-07,Gadget Y,2, 5.49 , 10.98 ,Fatima Hussain
+ORD37608,01/12/2024,Gadget X,10,"7,00",70,Maria Khan  
+ORD70903,11/08/2024,Gadget X,10,$7.00,70,Sara Patel
+ORD54766,27/09/2024,GADGET X,2,$7.70,"15,40",John Garcia
+ORD43874,17-Dec-24,Widget A,9, 12.50 ,112.50,Maria Smith
+ORD83638,2024-12-06,Widget A,5,11.25, 56.25 ,Maria Iqbal
+ORD20052,16/08/2024,GADGET Y,6,4, 29.65 ,Omar Lee
+ORD26009,2024-10-12,Widget A,4,$12.50,50,Zain Lee
+ORD24425,10-26-2024,GADGET Y,7, 5.49 ,"46,12",Maria Lee  
+ORD30260,20-Dec-24,Service Plan, 1 ,"49,99",49,John Ahmed
+ORD83495,01/08/2024,Service Plan,8,54.99,439,Noor Chen
+ORD19858,06-27-2024,Widget B,3, 21.99 ,65.97,Ali Iqbal
+ORD26786,07-Sep-24,Widget B,5,$19.99,99.95,Hassan Iqbal
+ORD90636,11-12-2024,SERVICE PLAN,8, 49.99 , 399.92 ,Maria Lee  
+ORD38303,24-Jul-24,Widget A, 6 ,"12,50",$71.25,Fatima Patel  
+ORD52181,"Aug 17, 2024",Service Plan,2,"49,99","99,98",Ali Garcia
+ORD93539,2024-07-23,Gadget Y,7,5,$38.43,Ayesha Khan
+ORD55115,16/09/2024,Widget B,2,19,"39,98",Ali Lee
+ORD45192,2024-10-22,Gadget Y,4,5.49,21.96,Sara Iqbal
+ORD69160,"Aug 11, 2024",Widget A,9,13.75,"123,75",Zain Reyes
+ORD96288,12-28-2024,Gadget Y,1,5,$6.59,Sara Garcia
+ORD96553,12-27-2024,Widget A,8, 12.50 ,"120,00",Hassan Reyes
+ORD81582,07-18-2024,Service Plan,10, 54.99 ,"549,89",Maria Ahmed
+ORD31474,02-Dec-24,Gadget X,5, 6.30 , 31.50 ,Ayesha Garcia
+ORD93884,"Dec 05, 2024",Gadget X, 9 , 7.00 ,$63.00,Omar Lee
+ORD18129,"Sep 02, 2024",GADGET Y,1,5.49,$6.59,Fatima Chen
+ORD23473,07-Sep-24,Service Plan, 9 , 44.99 ,384.67,Fatima Chen
+ORD53390,2024-09-25,Widget B,1,$19.99, 19.99 ,Sara Lee
+ORD24936,2024-12-27,Widget B,6,19.99,$119.94,John Chen
+ORD34875,2024-09-09,Service Plan,2, 44.99 ,89,Omar Reyes
+ORD20873,24-Oct-24,Gadget X,8,$7.00,44.80,Ali Patel
+ORD51376,21/07/2024,Gadget Y,8, 5.49 ,43.92,Omar Ahmed
+ORD34122,"Nov 29, 2024",Service Plan,4,44,179,Hassan Patel
+ORD43329,05-Jun-24,GADGET Y,2,5.49,10.98,Omar Smith
+ORD88832,2024-12-18,Widget B,9,"19,99",179.91,John Iqbal
+ORD55903,"Dec 14, 2024",Gadget Y,2,5,"13,18",Maria Hussain  
+ORD97105,2024-09-07,Gadget Y,7,"5,49",38.43,Maria Reyes
+ORD47137,01-Oct-24,Gadget X,9,7.00,59,Fatima Ahmed
+ORD67338,11/07/2024,Widget B,6,$19.99, 113.94 ,Zain Garcia
+ORD87935,2024-12-14,Gadget X,3,$7.70,23.10,Fatima Iqbal
+ORD29466,31/07/2024,Gadget X,6,$7.00, 42.00 ,Hassan Lee
+ORD87667,12-Aug-24,Widget A,4,11,54.00,John Hussain
+ORD83072,"Aug 20, 2024",Widget B,9,"19,99",179.91,Noor Chen
+ORD70473,26-Oct-24,Gadget X,4,"7,00","28,00",Hassan Smith
+ORD86106,11-Jun-24,Service Plan,2,54.99, 115.48 ,Fatima Smith
+ORD63291,"Jul 17, 2024",Widget B,7, 19.99 ,139.93,Fatima Hussain
+ORD14628,"Jun 22, 2024",WIDGET B,7,$21.99,123.14,Omar Iqbal
+ORD54651,11-01-2024,GADGET X,6,$7.00,42,Noor Chen
+ORD42296,"Jun 10, 2024",Service Plan,2, 54.99 ,$109.98,Ali Reyes
+ORD96020,2024-11-18,Service Plan,9,$49.99,472,Ayesha Chen
+ORD80375,"Jun 23, 2024",Gadget X,10, 7.00 ,56,Fatima Hussain
+ORD59066,11-09-2024,Gadget Y,5,6.04,30,John Chen
+ORD60188,20-Jul-24,Widget A,7,"12,50",$87.50,Maria Lee
+ORD17660,2024-08-03,SERVICE PLAN,8,49,"399,92",Omar Patel
+ORD17389,06-11-2024,Gadget X,4,7.00,33,Noor Iqbal
+ORD48139,23-Oct-24,Gadget Y,7,5.49,38,John Patel
+ORD77593,"Jul 19, 2024",GADGET Y,10,6.04, 60.39 ,John Reyes
+ORD68384,09-24-2024,Widget A,1,$12.50,12,Noor Hussain
+ORD52375,07-30-2024,Gadget X,2,"7,00",$14.00,Hassan Khan
+ORD14090,"Jun 22, 2024",Service Plan,5,"49,99",$249.95,Maria Patel  
+ORD37012,25-Nov-24,Service Plan,7, 49.99 ,"349,93",John Chen
+ORD47917,11/10/2024,Gadget Y,2,"5,49",10,Fatima Smith
+ORD96837,"Aug 14, 2024",Widget A,9,12,112.50,Zain Patel
+ORD23821,2024-08-22,GADGET X,5,7.00,"36,75",Ali Lee
+ORD16533,2024-12-03,Gadget Y,5,6,30.20,Ayesha Hussain
+ORD47592,"Nov 28, 2024",GADGET X,7, 7.70 ,53.90,Ali Garcia
+ORD20186,"Sep 24, 2024",Gadget X,10,$7.00,70.00,Sara Garcia  
+ORD88595,14/06/2024,Service Plan,5, 44.99 ,224.95,Ayesha Chen
+ORD67607,06-21-2024,Gadget Y,10,"5,49",$54.90,Hassan Reyes
+ORD88604,2024-07-01,Service Plan,1,$49.99,$49.99,Omar Iqbal
+ORD32277,23/12/2024,Gadget Y,5,$4.94,19.76,John Patel
+ORD51002,19/09/2024,GADGET X,5,$7.00,35.00,Fatima Ahmed
+ORD29376,30/08/2024,Gadget Y,6, 4.94 , 29.65 ,Zain Ahmed
+ORD18029,30/12/2024,Gadget Y,2,4.94,$9.39,Omar Garcia
+ORD64849,2024-08-06,Widget A,8,12.50, 105.00 ,Fatima Chen
+ORD22844,10-20-2024,Service Plan,5,"49,99","237,45",Ayesha Iqbal
+ORD17215,20-Oct-24,Widget B,9,21,197.90,John Khan
+ORD33615,06-30-2024,Gadget Y,6,6,"36,23",Omar Khan
+ORD79761,"Jul 07, 2024",Widget B,2,19,39.98,Ali Smith
+ORD21106,2024-08-15,Gadget X,7,$7.00,$49.00,Omar Patel
+ORD96249,11-18-2024,Service Plan,4, 49.99 ,$199.96,Fatima Ahmed
+ORD68628,06-10-2024,WIDGET A,7,$12.50,87,Maria Ahmed
+ORD26439,09-29-2024,Gadget X,8,7.00,67.20,Maria Smith
+ORD42039,12-10-2024,Service Plan,2,44,"89,98",Maria Reyes
+ORD57221,14/07/2024,Gadget Y,2,5.49, 10.98 ,Hassan Reyes  
+ORD29904,07-08-2024,Widget A, 8 ,$12.50,$100.00,Omar Lee
+ORD59636,27-Dec-24,WIDGET A,8,"12,50","100,00",Sara Smith  
+ORD39450,2024-07-02,Gadget X,6,7,$42.00,Noor Khan  
+ORD31295,"Dec 24, 2024",Widget B,4, 21.99 ,"87,96",Ayesha Patel
+ORD32842,2024-06-02,Service Plan,3,49,$149.97,Maria Garcia
+ORD86092,11-07-2024,Service Plan,4,49.99,199.96,Sara Hussain  
+ORD50123,12-Dec-24,Widget B,9,19,"179,91",Sara Lee
+ORD73481,2024-06-07,Gadget X,4,$6.30,23.94,Sara Khan
+ORD71779,10-15-2024,Service Plan,2,49,99,Ayesha Hussain
+ORD37875,23-Nov-24,Widget A,3, 12.50 , 37.50 ,Fatima Hussain
+ORD77757,10-18-2024,Gadget Y,5, 6.04 ,30,John Iqbal
+ORD42662,29/12/2024,Gadget Y,7,"5,49",$40.35,Ayesha Reyes
+ORD45097,15/10/2024,Service Plan,1, 54.99 ,$54.99,Sara Smith
+ORD60294,2024-10-21,Widget B,6,"19,99",$119.94,Maria Iqbal
+ORD18414,"Jul 18, 2024",Widget A,7, 11.25 ,63,Noor Khan
+ORD81390,2024-11-17,Widget B,9,21,"197,90",Noor Patel
+ORD24174,08-11-2024,Service Plan,3,$54.99, 164.97 ,John Chen
+ORD60135,02/12/2024,Service Plan,4,$54.99, 219.96 ,Ayesha Lee
+ORD97446,16/08/2024,Gadget Y,7,5,$38.43,Zain Smith
+ORD24986,21/08/2024,Gadget X,1,7.70, 7.70 ,Omar Khan
+ORD49954,18-Aug-24,Gadget Y,6, 5.49 ,32,Noor Khan
+ORD31980,30-Sep-24,Widget B,1,19.99,19.99,Hassan Ahmed
+ORD53799,09-16-2024,Gadget Y,5,5,$27.45,Ali Khan  
+ORD58964,05-Jun-24,Service Plan,1,"49,99", 49.99 ,Maria Smith
+ORD87445,03-Nov-24,Service Plan,4,"49,99",$189.96,Zain Iqbal
+ORD14023,06-20-2024,Widget A,8,11.25, 90.00 ,Maria Garcia
+ORD57128,2024-09-29,Service Plan,6, 54.99 ,"329,93",Fatima Smith
+ORD73216,"Oct 11, 2024",Service Plan,5,49,249,Omar Hussain
+ORD52929,19/07/2024,Service Plan,1,"49,99",49,Maria Chen
+ORD76341,15-Oct-24,Widget A,6, 12.50 ,75.00,Ali Smith
+ORD91119,14-Jun-24,Gadget Y,8,$6.04,48.31,Fatima Smith
+ORD66571,09-22-2024,GADGET X,3, 6.30 , 18.90 ,Sara Hussain
+ORD10494,24-Oct-24,Widget A,4,$13.75,52.25,Ali Khan
+ORD66202,12-30-2024,Widget B,8, 17.99 , 143.93 ,John Garcia
+ORD70661,07-10-2024,Gadget X,10,6.30,$63.00,Hassan Chen
+ORD97554,25-Aug-24,Widget A,3,"13,75",41.25,Omar Reyes
+ORD70715,26-Dec-24,Widget A,4,11,54,Sara Smith
+ORD85134,"Jul 06, 2024",Widget B, 1 ,"19,99","19,99",Fatima Khan
+ORD65876,11-Jun-24,Gadget Y, 10 , 5.49 , 54.90 ,Sara Smith
+ORD20467,"Sep 11, 2024",Widget A,5,"11,25",$53.44,Noor Patel
+ORD81631,2024-07-21,Gadget X,4,7.00,28.00,Ayesha Patel
+ORD89544,"Jul 08, 2024",Gadget Y, 5 ,$6.04,30,Zain Chen
+ORD38280,09-22-2024,Widget A,6,13.75,$82.50,John Reyes
+ORD54318,"Jun 25, 2024",Gadget Y,4,$5.49,"21,96",Noor Lee
+ORD94614,07-19-2024,Widget A, 4 ,12, 52.50 ,Noor Ahmed
+ORD96531,"Nov 13, 2024",Service Plan,5,"49,99",$249.95,Sara Iqbal
+ORD64936,2024-08-09,Gadget Y,1,5,"5,49",Fatima Garcia
+ORD47753,"Nov 25, 2024",Gadget Y,9,$5.49,"49,41",Sara Hussain
+ORD96062,10-14-2024,GADGET Y,4,$6.04, 24.16 ,Hassan Patel
+ORD89989,"Sep 17, 2024",Service Plan,6,$49.99, 359.93 ,Omar Patel
+ORD43633,2024-11-18,Widget B,9,$19.99,"179,91",Hassan Chen
+ORD96923,06-15-2024,Widget B,6,"19,99",119,Zain Chen
+ORD42451,"Jul 24, 2024",Gadget X,2,7,15,Omar Reyes
+ORD79909,2024-09-13,Service Plan,7,$54.99, 461.91 ,Hassan Lee
+ORD63970,"Oct 04, 2024",Gadget Y,3,5,$16.47,Ayesha Smith
+ORD10862,27-Sep-24,Gadget X,7,"6,30",35,Fatima Garcia
+ORD89166,2024-09-14,Widget A,10,12.50, 118.75 ,Ayesha Khan
+ORD56761,"Jun 12, 2024",Widget A,5,11.25,$56.25,Omar Ahmed
+ORD26424,"Jul 12, 2024",Widget B,8,19.99, 151.92 ,Maria Lee
+ORD91564,2024-08-26,Widget A,7,12.50,"87,50",Sara Iqbal
+ORD80597,24/10/2024,Service Plan,7,49.99, 349.93 ,Ayesha Iqbal
+ORD22182,"Sep 15, 2024",Gadget X,1,"7,70",$7.70,Zain Hussain
+ORD68532,06-23-2024,Gadget X,6, 7.00 ,33.60,Noor Khan
+ORD85142,12-30-2024,Widget A,5,"12,50", 65.62 ,Sara Reyes
+ORD55016,2024-06-15,Service Plan,4,54.99,"219,96",Zain Iqbal
+ORD86856,2024-07-17,Widget B,4,21,87.96,Fatima Iqbal
+ORD75202,10/07/2024,Service Plan,1, 49.99 ,"49,99",Hassan Chen
+ORD65854,30/07/2024,SERVICE PLAN,2, 54.99 , 109.98 ,Zain Reyes
+ORD62191,10-07-2024,WIDGET B,8, 19.99 ,159,Omar Patel
+ORD51099,12-21-2024,Gadget X,5,"7,00", 35.00 ,Hassan Chen
+ORD98465,"Jul 31, 2024",Widget B,9,"21,99","197,90",Ali Chen
+ORD77069,"Nov 25, 2024",Gadget X, 9 ,7,"63,00",Ayesha Reyes
+ORD85198,2024-06-27,Gadget X,10,7, 84.00 ,Maria Garcia
+ORD15578,04-Sep-24,Gadget Y,9,"4,94", 44.47 ,Maria Smith
+ORD69973,12/07/2024,GADGET Y,10,$6.04, 48.31 ,Ali Hussain
+ORD42682,28/07/2024,Gadget X,1, 7.00 , 7.35 ,Ayesha Hussain
+ORD36635,11-15-2024,Gadget X,10,7, 70.00 ,Maria Iqbal
+ORD99030,"Jun 23, 2024",Service Plan,4,"49,99",$199.96,Noor Smith
+ORD96201,"Sep 25, 2024",Service Plan,3, 49.99 ,$149.97,Sara Garcia
+ORD42785,14-Jul-24,Gadget X,10,7,70,Zain Garcia
+ORD77643,2024-08-04,Service Plan,1,49,49.99,Ayesha Smith
+ORD59567,2024-10-27,Service Plan,10,"49,99",499,Hassan Hussain
+ORD92999,08-31-2024,Widget A,7,$12.50,87.50,Noor Lee
+ORD43649,06-07-2024,Gadget X,8,7.70,"61,60",Omar Iqbal
+ORD30035,"Aug 31, 2024",Widget B,1,19, 19.99 ,Ali Garcia
+ORD72038,22-Dec-24,SERVICE PLAN,4,"44,99",170.97,Ayesha Patel
+ORD91954,08-15-2024,Service Plan,1, 49.99 ,52,Sara Chen
+ORD71987,2024-07-06,Widget B,4,$19.99,79,Noor Chen
+ORD84426,2024-06-26,Gadget Y,7, 5.49 ,"30,74",Noor Lee
+ORD98846,07-25-2024,Widget B,6,"19,99",119,Noor Lee
+ORD42833,"Jun 20, 2024",Widget A,4, 12.50 ,50,Noor Iqbal
+ORD25396,07-02-2024,Widget B,1,"19,99",19.99,John Chen
+ORD91252,"Jun 06, 2024",Gadget Y,4,6.04,"24,16",John Chen
+ORD86057,2024-07-29,Gadget Y,10,$5.49,54.90,Ali Hussain
+ORD66470,2024-12-13,Service Plan,10, 49.99 ,"499,90",Omar Chen
+ORD95377,18/10/2024,Gadget X,8,7.00,"56,00",John Khan
+ORD73639,06-02-2024,Widget B,3,$19.99,59.97,Ayesha Khan
+ORD71622,2024-09-18,Widget A,9,$12.50,118.12,Hassan Lee
+ORD57063,"Jun 13, 2024",Widget B,4,21,"87,96",Fatima Garcia
+ORD72043,2024-07-31,Service Plan,10,54.99,$549.89,Ali Iqbal
+ORD92439,24/12/2024,Gadget Y, 8 , 5.49 ,"43,92",Hassan Garcia
+ORD65265,20-Dec-24,Widget A,8, 12.50 ,"100,00",Maria Lee
+ORD55517,10/09/2024,Service Plan,4,$49.99, 199.96 ,Noor Lee
+ORD93680,07-29-2024,Widget B,4, 19.99 ,79.96,Ali Khan
+ORD13781,"Oct 26, 2024",Widget B,9,21.99,"197,90",Fatima Lee
+ORD26453,16-Jun-24,Gadget Y,4,"5,49","21,96",Sara Khan
+ORD43920,12-02-2024,GADGET X,6,$7.00,44,Ayesha Khan
+ORD87596,"Jun 01, 2024",Widget A,8,"13,75",110.00,John Garcia
+ORD61557,13/12/2024,Widget B,3,19, 59.97 ,Maria Reyes
+ORD77671,12-Jun-24,Widget B,10,17.99,$179.91,Ali Smith
+ORD19340,2024-07-29,Widget B,7,19.99,139,Hassan Chen
+ORD85025,11-13-2024,Widget B, 1 ,"17,99", 18.89 ,Omar Ahmed
+ORD16343,2024-10-14,Gadget X,9,7, 50.40 ,Hassan Khan
+ORD15851,27-Sep-24,Widget B,8,17.99, 143.93 ,Maria Smith
+ORD47845,"Sep 14, 2024",Widget B,1,"17,99",17,Hassan Garcia
+ORD24483,31/07/2024,Gadget X,10,"6,30", 63.00 ,Maria Patel
+ORD90842,21/12/2024,Widget B,2,$21.99,$43.98,John Khan
+ORD70077,29/10/2024,Gadget X,8,7, 56.00 ,Maria Lee
+ORD60140,2024-09-07,Service Plan,10,$54.99,549,Ayesha Iqbal
+ORD63544,26-Aug-24,Gadget X,1,7,$7.00,Noor Ahmed
+ORD36303,2024-06-05,Gadget X,4,7.00,26.60,Maria Hussain  
+ORD72048,"Nov 09, 2024",Service Plan,3,49,"149,97",Sara Chen
+ORD44801,09-Jul-24,Service Plan,5,44.99,224.95,Omar Chen
+ORD96832,11-09-2024,Gadget Y,10,$4.94, 49.41 ,Maria Patel
+ORD77691,"Dec 14, 2024",Widget B,4,19.99,"79,96",Omar Smith
+ORD72196,07-Jul-24,Widget A,9,"12,50",$112.50,Maria Hussain
+ORD11923,"Sep 10, 2024",Gadget Y,7,"5,49",$30.74,Ali Patel
+ORD36800,10-Nov-24,Gadget X,9,$7.70,$69.30,Noor Hussain
+ORD11832,30-Jul-24,Service Plan,10, 44.99 ,"449,91",Hassan Ahmed
+ORD72223,08-15-2024,WIDGET A,10,$12.50,100,Sara Patel
+ORD68858,13/10/2024,Gadget Y,6,"4,94",$35.58,Ayesha Smith  
+ORD33813,09-29-2024,Widget A,4,"12,50","50,00",Sara Khan
+ORD21444,12/06/2024,Service Plan, 1 ,49, 49.99 ,Zain Iqbal
+ORD72799,03/07/2024,Service Plan,3,$44.99, 134.97 ,Ayesha Reyes
+ORD32239,07-Jun-24,Gadget Y,1,6,"6,04",Fatima Iqbal
+ORD89176,"Sep 05, 2024",Gadget Y,6,6,36,Ayesha Lee
+ORD43276,09-28-2024,Widget B,5, 19.99 ,79.96,Ali Chen
+ORD93277,10-15-2024,Service Plan,7,"49,99","349,93",Sara Lee
+ORD31480,16-Jun-24,Gadget Y,7, 6.04 , 42.27 ,Omar Chen
+ORD74771,24/08/2024,Service Plan,5,$54.99, 274.95 ,Omar Smith
+ORD71742,2024-09-08,Widget A,9, 13.75 ,148.50,Noor Ahmed
+ORD49766,2024-07-07,Service Plan,7,$54.99, 384.92 ,Maria Ahmed
+ORD96054,2024-09-12,Gadget X,3, 7.00 , 21.00 ,Zain Reyes
+ORD88571,21-Sep-24,WIDGET B,9,"19,99", 179.91 ,Sara Khan  
+ORD58421,"Aug 03, 2024",Widget A,5, 11.25 ,$56.25,Noor Reyes
+ORD48248,10-03-2024,SERVICE PLAN,10,$49.99,$499.90,Ayesha Hussain
+ORD35434,08-Nov-24,Service Plan,4,$49.99, 189.96 ,Sara Garcia
+ORD38096,23/06/2024,Widget A,7,12.50,"105,00",Zain Khan
+ORD99870,29-Oct-24,Widget A,10,$12.50, 125.00 ,Omar Hussain  
+ORD79878,"Nov 09, 2024",Gadget Y,10,"5,49", 43.92 ,Hassan Chen
+ORD39076,08-30-2024,Service Plan, 2 ,54,"131,97",Noor Garcia
+ORD88545,13/07/2024,Service Plan, 9 ,"49,99",449,Noor Lee
+ORD36512,"Dec 23, 2024",Gadget Y,2,$5.49,10,Fatima Ahmed
+ORD51265,"Sep 07, 2024",Widget B,7, 21.99 ,153,Maria Reyes
+ORD59137,22/12/2024,SERVICE PLAN, 1 ,"49,99",$49.99,Sara Khan
+ORD99083,"Jul 15, 2024",Widget B,8, 19.99 , 191.90 ,Sara Hussain
+ORD30769,17/11/2024,Widget A,4,"13,75","55,00",Ayesha Hussain
+ORD95822,08-04-2024,Widget A,1, 13.75 ,"13,75",Zain Garcia
+ORD95525,23-Nov-24,Widget A,5, 11.25 ,"56,25",Ayesha Iqbal
+ORD73531,"Aug 30, 2024",Service Plan,1,$49.99,49,Sara Smith
+ORD16385,2024-11-13,Gadget Y,5,5.49, 27.45 ,Ali Ahmed
+ORD44948,09-03-2024,Gadget X,5,7.00, 33.25 ,John Ahmed
+ORD96232,2024-07-18,Widget B,8,17.99,"143,93",Hassan Lee
+ORD89061,2024-12-05,WIDGET B,10, 19.99 ,$199.90,Hassan Garcia  
+ORD31602,"Nov 23, 2024",Widget A,3, 12.50 ,"37,50",John Smith
+ORD87210,"Dec 30, 2024",Gadget X,6,$7.00, 42.00 ,Ali Garcia
+ORD24826,20-Nov-24,Gadget Y,9,"5,49",59,Maria Lee  
+ORD94211,26-Jun-24,Widget B,5,$19.99,99.95,Ayesha Lee
+ORD54405,2024-06-09,Widget B,2,19.99,39,John Patel
+ORD93604,"Sep 15, 2024",Gadget X,4,6.30,"23,94",Ali Patel
+ORD10418,13-Oct-24,Widget B,5,"19,99",79,Ali Patel
+ORD59556,17-Dec-24,WIDGET B,8,"19,99",167,Ayesha Hussain
+ORD85634,2024-10-14,Widget B,6, 19.99 ,119,John Reyes
+ORD28119,10-13-2024,GADGET Y,9,$5.49,"49,41",Fatima Iqbal
+ORD39684,2024-08-07,Widget B,9,19,179,John Garcia
+ORD83415,2024-11-19,Gadget Y,2, 6.04 ,"12,08",Maria Smith
+ORD10820,09-24-2024,Widget A,8,$11.25,90,Ali Patel
+ORD71974,"Nov 13, 2024",Service Plan,7,"49,99","349,93",Zain Chen
+ORD89204,07-07-2024,Widget A,5,13,"68,75",Ali Patel
+ORD30782,2024-09-10,Gadget X,4,$7.70, 30.80 ,Maria Hussain
+ORD18202,09-14-2024,Widget A, 3 ,"11,25",33,Noor Hussain
+ORD93749,07/12/2024,Service Plan, 9 ,49,"449,91",Sara Khan
+ORD41116,2024-09-02,Service Plan,7,$49.99,349,John Ahmed
+ORD72764,20-Jun-24,Gadget X, 8 ,7,61.60,Sara Hussain
+ORD92790,11-Oct-24,Gadget Y,1,$5.49,5.49,Hassan Garcia
+ORD36924,"Sep 10, 2024",Widget B,3,21,69.27,Omar Patel
+ORD23417,11-24-2024,Widget B,2,$17.99,35.98,Hassan Reyes  
+ORD35404,2024-10-22,Widget A,6,"12,50",75,Ayesha Reyes
+ORD75164,2024-06-13,Widget A,3,12.50,"37,50",Zain Khan
+ORD32354,"Sep 08, 2024",Widget B, 7 , 21.99 ,"153,92",Hassan Chen
+ORD81081,2024-12-05,Gadget X,4,7,$30.80,John Reyes
+ORD33287,15-Nov-24,Widget A,5,12.50,"62,50",Fatima Ahmed
+ORD40498,"Nov 29, 2024",Widget A,1,"12,50","11,88",John Khan
+ORD52764,09/11/2024,Gadget Y,8,5.49,"43,92",Omar Garcia
+ORD72578,"Nov 03, 2024",Gadget Y,7,"5,49",38,Omar Smith
+ORD75694,2024-08-11,Gadget X,2, 6.30 ,$12.60,Zain Ahmed
+ORD83591,2024-11-23,Widget B,2,19.99,"39,98",Fatima Chen
+ORD45065,12-09-2024,Widget A,10,$11.25,"112,50",Zain Smith
+ORD54136,29-Aug-24,WIDGET A,4,11.25,45,Zain Smith
+ORD69513,05/08/2024,Widget A,7,12.50,"87,50",Maria Iqbal  
+ORD99930,11-14-2024,Widget B,10,19.99,199.90,Noor Chen
+ORD93571,2024-11-17,Service Plan,5,54,274,Ayesha Khan
+ORD62947,02-Dec-24,Widget A,2,"12,50",25,Omar Hussain
+ORD70402,11/09/2024,Widget B,2,19.99,39.98,Ali Iqbal
+ORD35527,"Oct 19, 2024",Gadget Y,4,5.49,21.96,Hassan Lee
+ORD16528,11/08/2024,Gadget Y,3, 4.94 ,14.08,Ayesha Patel
+ORD27519,"Oct 23, 2024",Service Plan,9,$49.99,$449.91,Sara Khan
+ORD46527,"Aug 07, 2024",Widget A,10, 12.50 ,"125,00",Zain Smith
+ORD97230,06-21-2024,Gadget X,9,7,63,Sara Garcia
+ORD49589,"Dec 15, 2024",Gadget Y,4,$5.49,$20.86,Maria Iqbal
+ORD61080,07-Sep-24,Widget A,5,"13,75","68,75",Hassan Iqbal
+ORD92981,2024-11-12,Widget A,6,$12.50,71.25,Ali Patel
+ORD80277,11-05-2024,Widget B,10,21,$219.89,John Smith
+ORD94593,30/12/2024,WIDGET A,9, 12.50 ,$112.50,Ali Ahmed
+ORD33407,2024-11-16,Service Plan,8,49, 399.92 ,Zain Reyes
+ORD40557,07-28-2024,Gadget Y,4,$5.49,$20.86,Noor Iqbal
+ORD46871,06-02-2024,Widget B, 8 ,17,"143,93",Sara Iqbal
+ORD92926,06-20-2024,Widget B,5,21.99, 109.95 ,Maria Hussain
+ORD40001,2024-12-25,Widget A,8,12.50, 100.00 ,Maria Iqbal
+ORD83267,25-Dec-24,Service Plan,1,"49,99", 49.99 ,Ayesha Chen
+ORD20493,07-30-2024,Gadget X,5, 7.00 ,35,Fatima Hussain
+ORD67328,18/08/2024,Gadget X,8,7.00,$67.20,Ayesha Chen
+ORD91855,09-12-2024,Widget A,3,"12,50",$37.50,Ali Ahmed
+ORD64143,15-Aug-24,Gadget Y,4,$5.49,$20.86,Sara Khan
+ORD16478,2024-11-13,Gadget Y,10,$5.49,"54,90",Noor Khan
+ORD98883,18-Jun-24,SERVICE PLAN,10,49.99,$399.92,Maria Lee
+ORD87123,02/12/2024,Widget A,5,13,68.75,Ayesha Ahmed
+ORD19613,20/07/2024,Widget B,6,19.99,119,Maria Chen
+ORD13095,2024-12-12,Widget B,5,"19,99",99.95,Ayesha Reyes
+ORD83695,09-18-2024,Widget A,1,12.50,12,Omar Garcia
+ORD82770,"Nov 29, 2024",Gadget X, 5 ,7.00,$35.00,Maria Patel
+ORD79840,24-Dec-24,Gadget Y,10,5.49,$54.90,John Ahmed
+ORD23242,"Nov 04, 2024",WIDGET B,10,19.99,209,Sara Ahmed
+ORD83558,2024-08-30,Widget A,10, 12.50 ,$125.00,Noor Patel
+ORD74164,12-25-2024,Widget A,8,$13.75,110,Maria Smith  
+ORD58627,19-Nov-24,Widget B,7,19,146,Ayesha Hussain
+ORD50829,"Dec 16, 2024",Gadget Y,3, 5.49 ,$13.18,John Ahmed
+ORD37874,06/07/2024,Service Plan,5, 49.99 ,$249.95,Ayesha Hussain
+ORD34694,"Sep 17, 2024",GADGET X,7,$7.00, 39.20 ,Hassan Reyes
+ORD93291,30-Dec-24,Gadget Y,9,4,$35.58,John Smith
+ORD16225,"Dec 23, 2024",Gadget Y,4,4,$19.76,Ayesha Smith
+ORD31954,"Sep 15, 2024",Service Plan,4,"49,99",199.96,Fatima Ahmed
+ORD88153,"Dec 02, 2024",Widget A,1,"13,75", 13.75 ,Ali Patel
+ORD21048,2024-09-17,Gadget X,10,"7,00", 70.00 ,Ayesha Ahmed
+ORD63869,15-Jun-24,Widget B,2, 17.99 ,34,Zain Hussain
+ORD14716,"Nov 22, 2024",Widget A,7,$13.75,96,Hassan Lee
+ORD22615,2024-12-17,Widget B,8,21.99, 175.91 ,Zain Patel
+ORD99925,2024-12-17,Gadget Y,5,$4.94,$24.71,Omar Smith
+ORD46939,2024-10-17,Gadget Y,7,5.49,$36.51,Sara Reyes
+ORD87226,2024-12-01,Widget A,2,$12.50,$25.00,John Chen
+ORD87286,01/07/2024,Gadget X,8,7,56.00,Omar Garcia
+ORD29479,07-22-2024,Gadget Y,10,6,57,Sara Chen
+ORD20730,20-Jun-24,Widget A,7, 11.25 ,78.75,Noor Garcia
+ORD20013,19-Sep-24,Service Plan,1,$49.99,39,Fatima Smith
+ORD42718,2024-12-16,Gadget X,6,"7,00",$42.00,Sara Patel
+ORD59866,08-17-2024,Gadget X,5, 7.00 ,"35,00",Hassan Garcia
+ORD82118,10/08/2024,Gadget X,1,7,$7.00,Maria Iqbal
+ORD81476,06-22-2024,Widget A,1, 12.50 ,$12.50,Sara Chen
+ORD64444,21-Dec-24,Gadget Y,1,5.49,"5,49",John Lee
+ORD19637,"Dec 28, 2024",Widget B,7, 19.99 ,111,Maria Reyes
+ORD19120,12-31-2024,Widget B,1, 19.99 ,$19.99,Hassan Patel
+ORD99174,31/10/2024,Gadget Y,2,"4,94", 9.88 ,Fatima Smith
+ORD26747,"Jul 08, 2024",Gadget Y, 7 , 6.04 ,"42,27",John Ahmed
+ORD25244,"Sep 21, 2024",Service Plan,5,$54.99,261.20,Maria Khan
+ORD45617,12-07-2024,Widget A,3,12,"37,50",Hassan Garcia
+ORD92704,2024-11-14,Gadget Y,4,$5.49,26.35,Zain Khan
+ORD93990,17/11/2024,Gadget X,2,$7.00,"14,00",John Patel
+ORD25673,18-Aug-24,SERVICE PLAN,3,49.99, 149.97 ,Fatima Patel
+ORD45364,2024-08-02,Gadget Y,4,5.49,21.96,Hassan Smith
+ORD97673,13/06/2024,Widget A,2, 11.25 , 22.50 ,Zain Khan
+ORD77251,11-24-2024,Widget B,1,19.99,19,Noor Ahmed
+ORD98747,03/09/2024,Service Plan,5,$54.99,219,Zain Smith
+ORD83727,2024-06-21,Gadget Y,3,5.49,16.47,Ayesha Garcia
+ORD67317,03/07/2024,Gadget X,4,6,$25.20,Ali Garcia
+ORD62555,"Oct 11, 2024",Widget A,4,12,"50,00",Ali Khan
+ORD41373,23-Jul-24,Service Plan,6,49.99,"299,94",Ayesha Ahmed
+ORD29820,05/07/2024,Service Plan,9,49,$449.91,Maria Chen
+ORD46267,16-Nov-24,Service Plan,7,49,349.93,Maria Iqbal
+ORD15953,"Jul 01, 2024",Service Plan,1,$49.99,$49.99,John Khan
+ORD80121,"Jul 31, 2024",Gadget X,3,7.70,$23.10,Noor Reyes
+ORD90595,"Nov 25, 2024",Gadget Y,8,5.49,43.92,Hassan Hussain
+ORD44644,12-23-2024,Service Plan,8,44,"341,93",Omar Lee  
+ORD76528,09-Jul-24,Gadget X,2,7,11,Ayesha Lee
+ORD37900,21/11/2024,Service Plan,5,$54.99,$274.95,Ayesha Garcia
+ORD96025,2024-12-15,Widget B,9,17,"161,92",Ayesha Smith
+ORD70361,23-Jul-24,Service Plan,3,$49.99,"179,96",Hassan Chen
+ORD81004,27-Nov-24,Gadget X,6,$7.00,42.00,Omar Lee
+ORD94910,27-Dec-24,Gadget Y,10,"5,49",52,Noor Chen
+ORD29608,20/12/2024,Widget A, 7 ,$12.50, 87.50 ,Zain Khan
+ORD58027,09-03-2024,Service Plan,9,$44.99,$404.92,Ayesha Iqbal
+ORD17614,12/08/2024,Gadget X,9,$6.30,$56.70,Maria Reyes
+ORD79157,08-07-2024,Gadget Y,2,5.49,10,Ali Hussain
+ORD21152,27/07/2024,Gadget X,6,$7.00,"44,10",Omar Iqbal
+ORD29267,18-Sep-24,Widget B,6,"21,99",138,Hassan Hussain  
+ORD21835,02-Jun-24,Service Plan, 6 , 54.99 ,"329,93",Maria Patel
+ORD36107,2024-08-10,Widget A,10,11,"112,50",John Lee  
+ORD63378,08-22-2024,Service Plan,3, 49.99 , 149.97 ,Fatima Reyes
+ORD83619,"Dec 18, 2024",Gadget X,5,6,31.50,John Garcia
+ORD44956,21-Nov-24,Service Plan,5,$49.99,"249,95",Noor Ahmed
+ORD55070,"Nov 17, 2024",Widget B,5,19,99.95,Hassan Chen
+ORD20333,13-Jun-24,Gadget Y,10,$5.49,57,Noor Garcia
+ORD34249,30-Dec-24,Widget B,6,"21,99",$131.93,Ali Hussain
+ORD55237,22/06/2024,Widget B,3,"21,99","79,16",Omar Iqbal
+ORD81018,10-Oct-24,Gadget Y,2,$5.49,10,Sara Lee
+ORD54509,11-01-2024,GADGET Y,6,5,"32,94",Noor Lee
+ORD70409,06-14-2024,Gadget Y,8,5.49,43,Ali Smith  
+ORD21419,"Oct 30, 2024",Gadget Y,1,$5.49,"5,49",Ali Iqbal
+ORD63898,"Jul 23, 2024",GADGET Y,1,5.49,5,Omar Reyes
+ORD15702,"Nov 27, 2024",Gadget X,2,7,13.30,Ayesha Chen
+ORD86290,"Jul 28, 2024",Service Plan,4,"49,99",199.96,Hassan Chen
+ORD52925,12-01-2024,Gadget X,1,$7.00,7,Fatima Chen
+ORD19537,20/06/2024,Widget A,8, 12.50 ,100,John Ahmed
+ORD24946,2024-07-30,Service Plan,4, 44.99 ,"179,96",Zain Smith
+ORD28824,06-Nov-24,Service Plan,3,44.99,128.22,Zain Smith
+ORD31629,"Oct 24, 2024",Gadget X,2,6.30,12,Zain Hussain
+ORD23866,2024-08-23,Gadget Y,8,5.49,"46,12",Ali Reyes
+ORD61749,"Nov 02, 2024",Widget B,3,19,59,Hassan Patel
+ORD26257,2024-12-04,Gadget Y,9, 6.04 , 54.35 ,Zain Smith
+ORD17260,12-03-2024,Widget A,6,12.50,$71.25,Maria Iqbal
+ORD63171,2024-07-07,Gadget Y,7,5,38.43,Zain Reyes
+ORD18853,25/06/2024,Gadget Y,2,"6,04",$12.08,Fatima Khan
+ORD72351,09-Oct-24,Widget A,4,12,50.00,Omar Smith
+ORD74962,26-Aug-24,Gadget X,9,7.00,59,Fatima Smith  
+ORD82864,16/09/2024,Widget A,2,$13.75, 26.13 ,Fatima Khan
+ORD54301,2024-07-07,Widget A,10,"11,25",112.50,Ali Ahmed
+ORD68853,"Dec 16, 2024",Widget A,1,11, 13.50 ,Sara Chen
+ORD35030,18-Nov-24,Widget A,1, 12.50 ,11.88,Ali Lee
+ORD25058,"Jul 17, 2024",WIDGET B, 2 ,19,$39.98,Ayesha Khan
+ORD91069,17/07/2024,Service Plan,8,49.99,$399.92,Sara Iqbal  
+ORD88590,2024-10-18,Gadget X,1, 6.30 ,6,John Hussain
+ORD54619,2024-09-18,Service Plan,4,49,"199,96",Zain Iqbal
+ORD79963,2024-11-01,Widget B,2, 17.99 , 34.18 ,Hassan Iqbal  
+ORD54426,2024-11-01,SERVICE PLAN,5,$49.99,249.95,Omar Iqbal
+ORD84021,24-Sep-24,Service Plan,1,49,"49,99",Omar Hussain
+ORD36824,08-15-2024,Widget A,6,13.75,"82,50",John Ahmed
+ORD84651,27/07/2024,Widget A,8,$13.75,$110.00,Fatima Hussain  
+ORD85256,12/12/2024,Widget B,5,19,$99.95,Fatima Reyes
+ORD52587,02/09/2024,Service Plan,1,49,49.99,Ayesha Khan
+ORD67120,2024-09-21,Gadget Y,3, 5.49 , 16.47 ,Hassan Reyes
+ORD30154,2024-11-28,Service Plan,7, 44.99 ,$377.92,Noor Lee
+ORD10693,"Sep 09, 2024",Gadget Y,10,$5.49,54,Fatima Ahmed
+ORD80539,2024-12-12,Service Plan,5,$54.99, 274.95 ,Hassan Iqbal
+ORD98761,10-11-2024,Widget B,8,$17.99, 143.93 ,Hassan Hussain
+ORD33693,"Nov 27, 2024",Gadget X,3,7, 16.80 ,Fatima Smith
+ORD21230,10-02-2024,Gadget X,6, 7.00 ,$42.00,Hassan Iqbal
+ORD37407,"Aug 04, 2024",Gadget X,2, 7.70 , 15.40 ,Hassan Iqbal
+ORD57621,11/07/2024,Gadget Y,10,6.04,57.37,Ayesha Lee
+ORD69273,03/08/2024,Widget B,7,"19,99",139.93,Omar Patel
+ORD72876,22-Dec-24,WIDGET B,4,$17.99,"71,96",Ali Ahmed
+ORD58376,10/07/2024,Service Plan,8, 54.99 ,$439.91,Ali Reyes
+ORD65766,01-Jun-24,Widget A,4,"12,50",50.00,John Patel  
+ORD65128,19-Dec-24,WIDGET A,5,$13.75,$68.75,Omar Reyes
+ORD64612,2024-11-30,Widget A,1,$12.50,13.12,Fatima Smith
+ORD53625,2024-11-21,Widget A,5,13,"68,75",Ayesha Lee
+ORD61549,30/06/2024,Widget B,4,"19,99", 79.96 ,Fatima Ahmed
+ORD18154,09-Jul-24,WIDGET B,4,"19,99",83.96,Ali Iqbal
+ORD11256,15-Oct-24,Gadget Y,4, 4.94 ,$19.76,Fatima Patel
+ORD78915,"Nov 22, 2024",Service Plan,9,49.99,449.91,Zain Patel
+ORD61887,24-Oct-24,Widget B,6,21.99,131.93,Maria Iqbal
+ORD43839,01-Dec-24,Gadget Y,3, 6.04 ,"18,12",Hassan Smith
+ORD62149,22-Oct-24,Service Plan,5,44.99,224.95,Fatima Ahmed
+ORD15531,07-19-2024,Gadget X,2,"7,70","15,40",Ayesha Lee
+ORD87647,19/06/2024,Gadget Y, 1 ,5.49,"5,49",Sara Ahmed
+ORD51703,2024-07-21,Gadget Y,8,$6.04, 48.31 ,Hassan Khan
+ORD51822,08-27-2024,Gadget X,6,6.30,37.80,Fatima Hussain
+ORD94819,"Sep 28, 2024",Widget A,10, 11.25 ,112.50,Noor Chen  
+ORD39659,21-Sep-24,Widget B,9,$19.99,$179.91,Hassan Reyes
+ORD99756,30/07/2024,Widget B,3,19.99,59.97,Ali Khan
+ORD24821,2024-08-13,Gadget X,9, 7.00 ,63.00,Omar Garcia
+ORD29674,"Sep 23, 2024",GADGET Y,3,$5.49,16.47,Hassan Reyes
+ORD91997,07/07/2024,Service Plan,6, 54.99 ,"329,93",Noor Khan
+ORD62034,23-Dec-24,Gadget Y,2,6.04, 12.08 ,Noor Ahmed
+ORD76859,09-10-2024,Gadget X,6,$7.00,$33.60,Ayesha Smith
+ORD21504,2024-11-26,Widget A,8,"12,50","95,00",John Ahmed
+ORD42249,10-28-2024,Service Plan,2,$54.99,$131.97,Noor Reyes
+ORD42967,2024-08-29,Service Plan,9,44,$485.90,Ayesha Smith
+ORD30423,04-Jul-24,Widget B,1,19,19,Hassan Hussain
+ORD50485,28/10/2024,Widget A,8,"11,25","72,00",Maria Chen
+ORD52561,"Dec 09, 2024",Gadget Y,5,5.49,27,Hassan Reyes
+ORD65803,2024-08-12,Widget B,5,21,"109,95",Sara Khan
+ORD94313,19-Sep-24,Service Plan, 5 ,49,249.95,John Smith
+ORD82903,2024-09-13,Widget A,4, 12.50 ,50.00,John Khan
+ORD16198,12/09/2024,Gadget Y,4,6.04,25,Fatima Ahmed
+ORD18965,07-Dec-24,Gadget Y,6,"6,04",36,Fatima Reyes
+ORD19259,16/11/2024,Widget B,5,19,"99,95",Fatima Ahmed
+ORD80131,"Nov 18, 2024",Gadget X,5, 7.00 , 35.00 ,Omar Chen
+ORD46234,18-Oct-24,Widget B,8,21.99,175.91,Sara Garcia
+ORD27260,"Jun 02, 2024",Widget B,3, 19.99 , 59.97 ,Maria Iqbal
+ORD79643,24/12/2024,Gadget X,2,"7,70","15,40",Maria Garcia
+ORD47078,19/06/2024,Gadget Y,1,5.49,"6,59",Omar Chen
+ORD93565,15/11/2024,Widget B,3,19.99,59,Ayesha Chen  
+ORD96629,03/07/2024,Widget B,8,$17.99,$143.93,Ali Khan
+ORD22481,11-03-2024,Widget A,1,"12,50","12,50",Omar Reyes
+ORD66152,27/06/2024,Gadget Y,5, 6.04 ,"31,70",Hassan Iqbal
+ORD17319,10-Jun-24,Service Plan,9,54.99,$494.90,Ali Reyes
+ORD59162,2024-12-02,Widget B,7,$19.99,139.93,Omar Smith
+ORD91960,15/06/2024,Service Plan, 10 , 54.99 ,$549.89,John Reyes
+ORD41264,"Sep 11, 2024",Widget B,6,19,119,John Patel
+ORD94299,"Sep 21, 2024",Widget A,4,"12,50",$50.00,Ayesha Hussain
+ORD25656,06-13-2024,Gadget X,1,6.30,"6,30",John Lee  
+ORD64579,23-Nov-24,Service Plan,4,"44,99", 179.96 ,Noor Khan  
+ORD21673,25-Aug-24,Service Plan,6, 44.99 ,269.95,Noor Hussain
+ORD56105,24-Oct-24,Service Plan,4,"49,99",199,Ayesha Reyes
+ORD80887,13/06/2024,Gadget X,9,7,"63,00",Ali Reyes
+ORD41987,08-05-2024,Service Plan,4, 44.99 ,$179.96,Fatima Ahmed
+ORD83302,2024-12-11,Gadget X,6,$7.00,"42,00",Hassan Khan
+ORD94947,17-Dec-24,Service Plan,3, 44.99 ,"107,98",Ayesha Chen
+ORD91944,2024-06-24,Widget B,3, 19.99 ,59.97,Ali Reyes
+ORD73146,10-22-2024,Service Plan,7,49,349.93,Maria Chen
+ORD55981,03/11/2024,GADGET X,3,7,21.00,Zain Smith
+ORD89835,22/06/2024,Widget B,10,19.99,199,Zain Garcia
+ORD92984,27-Aug-24,Gadget Y,2,$6.04,$12.08,Fatima Lee
+ORD95850,29/09/2024,Service Plan,8,49.99,479,Fatima Khan
+ORD24125,08-18-2024,Service Plan,1, 49.99 ,$49.99,Sara Ahmed
+ORD46250,2024-07-23,Gadget X,5,7, 33.25 ,Zain Ahmed
+ORD60663,06-08-2024,Gadget Y,7,5,38.43,Omar Lee
+ORD97588,02-Dec-24,Gadget X,8,"7,00",67.20,Zain Ahmed
+ORD14919,08/10/2024,Widget B,4, 21.99 ,$87.96,Omar Lee
+ORD31083,28-Aug-24,Gadget Y,6, 4.94 ,29.65,Fatima Lee  
+ORD10523,"Jun 20, 2024",Service Plan,2, 49.99 ,99.98,Ali Lee
+ORD57716,"Aug 27, 2024",Gadget X,3,7,27.72,Maria Ahmed
+ORD41867,08-03-2024,Widget A,1,12,"12,50",Noor Ahmed
+ORD64787,2024-12-24,Widget B,9,"19,99", 215.89 ,Ali Patel
+ORD77683,26-Aug-24,Gadget X,6, 7.70 ,"46,20",Fatima Lee
+ORD96820,2024-12-14,Widget B,6, 19.99 , 119.94 ,Sara Patel
+ORD55788,02-Sep-24,Gadget X,7,"7,70","53,90",Noor Khan
+ORD91117,2024-09-03,Service Plan,5,"49,99","249,95",Maria Ahmed
+ORD24662,30/12/2024,GADGET Y,2,$4.94,9.88,Ayesha Khan
+ORD26333,06-Dec-24,Gadget X,3,7,$23.10,Hassan Iqbal
+ORD79529,"Nov 14, 2024",Gadget X,5,7,$35.00,John Chen
+ORD28596,09-06-2024,Widget B,2,17.99,34,Zain Iqbal
+ORD82624,19-Dec-24,Gadget Y,4, 6.04 ,"24,16",Noor Iqbal
+ORD12450,"Oct 14, 2024",Service Plan,1,$54.99,$54.99,Hassan Ahmed
+ORD51689,"Aug 25, 2024",Widget A,10,"12,50",100.00,John Patel
+ORD48000,07-08-2024,Gadget Y,1,$5.49,6,Maria Patel
+ORD62836,08-17-2024,Widget B,3, 19.99 ,59.97,Fatima Patel
+ORD49247,"Sep 28, 2024",Widget A,5,$12.50,$62.50,Zain Smith
+ORD62742,19-Sep-24,GADGET X,7, 7.00 ,"46,55",John Hussain
+ORD82968,07-Aug-24,SERVICE PLAN,1,49,49.99,Fatima Iqbal
+ORD22676,16-Aug-24,Widget B,1,$19.99,19,Omar Chen
+ORD40728,08-Oct-24,Widget A,3,"13,75", 41.25 ,Zain Smith
+ORD46028,19-Dec-24,Widget A,4, 13.75 , 55.00 ,Ali Garcia
+ORD48190,2024-12-26,Widget B,8,19,"159,92",Fatima Garcia
+ORD58425,2024-11-30,Gadget X,2,$7.00,"14,00",John Iqbal  
+ORD66461,2024-10-19,Widget B,2,$21.99,"43,98",Hassan Iqbal
+ORD56107,04-Nov-24,Widget A,6,12, 75.00 ,Ali Chen
+ORD67738,02/06/2024,Widget A,7,"11,25",82.69,Fatima Patel
+ORD63848,15-Oct-24,Gadget Y,8, 5.49 ,"43,92",Ayesha Reyes
+ORD29668,2024-09-27,Gadget Y,3, 4.94 ,$14.82,Hassan Lee
+ORD65333,2024-12-25,Service Plan,2,49.99, 104.98 ,Ayesha Smith
+ORD93404,2024-09-08,Gadget X,7, 7.00 ,49,John Reyes
+ORD54948,31-Oct-24,Gadget X,10, 7.00 ,"84,00",Zain Chen
+ORD25746,25-Jul-24,Service Plan,2,"49,99", 99.98 ,Hassan Lee
+ORD51733,12-05-2024,Widget A,9,$12.50,112.50,Ayesha Khan
+ORD32365,24/08/2024,Widget A,8,12.50,$100.00,Omar Hussain
+ORD55092,04-Dec-24,Gadget Y, 3 ,5,16,Ali Lee
+ORD31320,20/11/2024,Gadget X,10, 7.00 ,70,Maria Khan
+ORD54902,11/06/2024,Gadget X,4,"7,00",28,Hassan Smith
+ORD69535,09-02-2024,Widget A,5, 12.50 ,62,Hassan Hussain
+ORD71194,08-Aug-24,Widget B,4,$17.99,"71,96",Omar Smith
+ORD36400,10-28-2024,Service Plan,3,49.99,119.98,Maria Khan
+ORD47193,2024-12-08,Service Plan,9,"49,99","449,91",Sara Smith
+ORD93932,2024-07-16,Widget B,7, 21.99 ,153,Hassan Iqbal
+ORD98374,11-03-2024,Widget B,9,19.99, 179.91 ,Ayesha Garcia
+ORD72767,2024-06-30,Service Plan,5,54,$274.95,Fatima Smith
+ORD73681,"Aug 19, 2024",Gadget X, 1 ,7.00,5,Ali Iqbal
+ORD99185,"Oct 13, 2024",SERVICE PLAN,5, 49.99 ,"249,95",Hassan Smith
+ORD39485,"Aug 05, 2024",Widget A,1,12.50,12.50,Hassan Lee
+ORD63833,"Jul 18, 2024",Gadget X, 6 ,7.00,"42,00",Ali Chen
+ORD10268,22-Oct-24,Service Plan,4,$44.99,"179,96",Fatima Smith
+ORD91143,09/07/2024,Widget B,4, 19.99 ,83.96,Ali Lee
+ORD52628,09-13-2024,GADGET X,9,$7.00,63.00,Omar Garcia
+ORD26523,2024-10-26,Gadget X,6,7,"44,10",Fatima Hussain
+ORD24490,24/08/2024,Gadget Y,6,$6.04, 34.42 ,Sara Khan
+ORD75183,19/07/2024,Widget B,4,"17,99",$68.37,Fatima Ahmed
+ORD23662,01-Jun-24,Widget A,8,12.50,100,Noor Hussain
+ORD40097,2024-11-29,Gadget Y,9,$6.04, 54.35 ,Noor Reyes
+ORD93660,"Sep 12, 2024",Gadget Y,6,5,$32.94,Noor Hussain
+ORD54440,01/06/2024,Widget B,7,$19.99, 139.93 ,John Hussain
+ORD60410,07-19-2024,Gadget Y,1,"5,49", 5.49 ,Ayesha Smith
+ORD29952,23-Jul-24,Gadget Y,8,$4.94,$39.53,Fatima Smith
+ORD25554,16/08/2024,Gadget Y,3, 6.04 ,"18,12",Ayesha Khan
+ORD40851,"Oct 09, 2024",Widget A,8,13.75,110.00,John Hussain
+ORD93865,28-Oct-24,Widget A,7,11,$78.75,Hassan Hussain
+ORD31840,21/12/2024,SERVICE PLAN,3,$44.99,134.97,Ali Iqbal
+ORD48026,31-Oct-24,WIDGET B,6,17.99,107,Ayesha Smith
+ORD83644,08-Jun-24,Gadget Y,2,"5,49",10,Omar Khan
+ORD31213,"Aug 09, 2024",Widget A,6,13.75,82,John Smith  
+ORD55640,05-Aug-24,Gadget Y,4,4,$19.76,Maria Hussain
+ORD31535,12-08-2024,Gadget Y, 9 , 5.49 ,46,Sara Khan
+ORD76874,05-Aug-24,Widget A,8,12.50,$100.00,John Lee
+ORD63002,2024-11-08,Widget A,8, 12.50 , 100.00 ,Omar Ahmed
+ORD64424,29-Nov-24,Gadget Y,1,5.49,$5.49,Hassan Garcia
+ORD65899,06-Oct-24,Gadget Y,6, 4.94 , 35.58 ,Noor Hussain
+ORD78096,22/12/2024,Gadget Y,10,5.49,54.90,Hassan Garcia
+ORD44840,26/10/2024,GADGET X,9,$7.70,69.30,Sara Garcia
+ORD22014,08-28-2024,Widget A,9,12.50,106,Zain Iqbal
+ORD66925,10-09-2024,Service Plan,6,"49,99",299.94,Maria Patel
+ORD89172,"Jul 21, 2024",Widget A,10,12.50,$125.00,Omar Chen
+ORD50106,07/06/2024,Widget B,7,"17,99", 125.94 ,Sara Iqbal
+ORD14383,20-Oct-24,Widget B,2,19,39,Sara Garcia
+ORD39873,2024-07-04,Gadget Y,2,4.94,$9.88,Omar Lee
+ORD37530,13/08/2024,Gadget X,3,"7,70",$27.72,Ayesha Iqbal
+ORD38309,"Aug 02, 2024",Service Plan,1,"49,99","49,99",Omar Smith
+ORD40081,07-Sep-24,Widget B,2,"21,99","43,98",Omar Lee  
+ORD38941,11-11-2024,Widget B,5,$17.99,94.45,Ali Hussain
+ORD57061,"Oct 04, 2024",Widget B,8,17.99, 143.93 ,Maria Ahmed
+ORD70955,13/06/2024,Service Plan, 9 , 49.99 ,449,Ayesha Hussain
+ORD93023,2024-09-29,Gadget Y,6,6.04,36,Fatima Chen
+ORD63341,08-24-2024,Widget A,6, 12.50 ,$75.00,Maria Khan
+ORD38799,11-05-2024,Gadget Y,2,5,10,Omar Iqbal
+ORD43965,25/12/2024,Widget B,8,$21.99,"175,91",John Lee
+ORD74364,"Aug 26, 2024",Widget A,7,12.50,$87.50,Noor Patel
+ORD83887,30/10/2024,Service Plan,2, 49.99 ,99,Sara Patel
+ORD47518,2024-07-02,Gadget Y,7,"4,94",34.59,Ali Khan
+ORD30618,09-18-2024,Service Plan,6,49.99,314.94,Omar Reyes
+ORD27159,"Jun 24, 2024",Gadget Y,7, 5.49 ,"38,43",Omar Hussain
+ORD94675,15-Dec-24,Gadget X,10,"7,70",77,Ali Hussain
+ORD49077,28-Sep-24,Widget A,8,$12.50,$100.00,Maria Reyes  
+ORD65082,11-19-2024,WIDGET B,6, 17.99 ,107.95,John Lee
+ORD60605,24/10/2024,Widget B,5,19, 99.95 ,Hassan Hussain
+ORD64118,28/11/2024,Widget B,8, 17.99 ,"143,93",Zain Ahmed
+ORD51746,26/12/2024,GADGET Y,4,6,$24.16,Sara Khan
+ORD11592,2024-12-08,Widget A,1,12,$12.50,Sara Ahmed
+ORD64581,26/09/2024,Gadget Y,8,$5.49,"41,72",Hassan Chen
+ORD60594,15/11/2024,Gadget Y,4,5.49,"26,35",Omar Smith
+ORD62107,25-Aug-24,Widget A,6,12,75.00,Omar Ahmed
+ORD23907,07-Sep-24,Service Plan,7,"54,99",365.68,Hassan Patel
+ORD92579,2024-10-07,Service Plan,9,"49,99",449.91,John Patel
+ORD44868,"Oct 25, 2024",Gadget Y,6,"5,49","32,94",Hassan Hussain
+ORD54697,2024-09-19,Widget A,9,11,101.25,Fatima Iqbal
+ORD59632,"Jun 26, 2024",Service Plan,2,$49.99,104.98,Hassan Patel
+ORD77653,"Sep 01, 2024",Gadget X,4,$7.00,26,Omar Khan
+ORD88255,16-Aug-24,Gadget X,6,7.00, 42.00 ,John Patel
+ORD32944,2024-07-20,Widget B,9,"21,99","197,90",Maria Garcia
+ORD80263,"Aug 17, 2024",Gadget Y,1, 5.49 ,5.49,Sara Khan
+ORD11614,"Dec 13, 2024",Gadget X,4,7.00,28,Zain Reyes
+ORD94456,25/06/2024,Gadget Y,5,$6.04,30,Sara Ahmed
+ORD64795,2024-06-30,Gadget Y,8,"6,04",48,Sara Chen
+ORD28602,12-Jun-24,Widget A,8,$11.25, 90.00 ,Fatima Hussain
+ORD59201,06-22-2024,Service Plan,1,49,"47,49",Zain Chen
+ORD55974,23/06/2024,Widget B,7,19.99, 139.93 ,Omar Patel
+ORD74331,"Oct 01, 2024",Widget B,6,$19.99,$119.94,John Reyes
+ORD44827,"Aug 04, 2024",Widget A,4,12.50,50.00,Ayesha Reyes
+ORD39363,"Aug 22, 2024",Widget B,4,$19.99,63,Ali Ahmed
+ORD97070,31/07/2024,Service Plan,10,49,499.90,Ali Ahmed
+ORD65652,07-Jul-24,Widget B,7,19.99,"139,93",Noor Chen
+ORD67325,12-20-2024,Gadget Y,7, 6.04 ,42.27,Ayesha Garcia
+ORD91742,"Oct 15, 2024",Widget B,8,19, 191.90 ,Ayesha Smith
+ORD62694,2024-07-15,Widget A,10,12.50,"125,00",Ali Chen
+ORD70044,"Jul 14, 2024",Gadget Y,10,"6,04","60,39",Zain Patel
+ORD42602,12-18-2024,Widget B,6, 21.99 , 131.93 ,Maria Smith
+ORD89488,24/09/2024,Widget A,8,$12.50,100,Sara Reyes
+ORD64067,"Sep 05, 2024",Service Plan,2,$54.99,109.98,Maria Iqbal
+ORD56459,03/11/2024,Service Plan,9,49,$449.91,Ayesha Khan
+ORD91183,24/07/2024,Widget A,2,12.50,"26,25",Zain Smith
+ORD28819,17-Jul-24,Widget B,10,"17,99",143.93,Hassan Hussain
+ORD35184,08-Dec-24,Gadget X,7,7.00, 49.00 ,John Smith
+ORD38219,22/09/2024,Service Plan,10, 54.99 ,"549,89",Hassan Chen
+ORD90685,12-03-2024,Gadget Y,6,6.04,36.23,Hassan Garcia
+ORD38744,"Jul 13, 2024",Widget B,9,17,$161.92,Noor Patel
+ORD27550,2024-06-17,Widget B, 3 ,19,59.97,Maria Patel
+ORD60886,14-Aug-24,Service Plan, 4 ,"54,99", 219.96 ,Ali Khan
+ORD43776,2024-12-09,Widget A,6, 13.75 , 78.38 ,Ayesha Chen
+ORD32053,02-Jul-24,Widget A,3,$12.50,$39.38,Fatima Patel
+ORD83400,"Aug 06, 2024",Gadget Y,8,$4.94,39,Noor Chen
+ORD15807,09-27-2024,GADGET X,4, 7.00 ,22,Ayesha Garcia
+ORD35894,"Dec 03, 2024",Widget B,6,"21,99",131,Maria Smith
+ORD42202,10-25-2024,Widget A, 6 , 12.50 ,75,Ali Patel
+ORD86081,"Jul 24, 2024",WIDGET A,6,"11,25","67,50",Sara Smith
+ORD75598,2024-09-11,Service Plan,9,$49.99,$449.91,Ali Khan
+ORD74936,"Oct 07, 2024",Widget A,2,"12,50",25.00,Ayesha Ahmed
+ORD97592,10/06/2024,Widget B,3,17, 56.67 ,Sara Khan
+ORD80759,04-Aug-24,Widget B,6,$19.99,119.94,Ali Chen
+ORD60092,11-21-2024,Gadget X,3,"7,00",22.05,Noor Ahmed
+ORD48699,"Sep 03, 2024",Gadget X,3,7.00,$21.00,Hassan Chen
+ORD36360,2024-08-30,Service Plan,10,44.99,449.91,Sara Garcia
+ORD61925,2024-08-20,Gadget Y,10, 5.49 ,54,Ayesha Hussain
+ORD76436,"Aug 10, 2024",Service Plan,4, 54.99 ,219.96,Fatima Garcia
+ORD59377,"Sep 17, 2024",Widget B,3,$19.99,59,Noor Ahmed
+ORD44407,"Jul 20, 2024",Widget A,10,12, 125.00 ,Zain Iqbal  
+ORD90034,2024-07-24,Service Plan,2,54.99,"131,97",Noor Hussain
+ORD84206,18/07/2024,Widget B,9, 19.99 ,179.91,John Smith
+ORD17369,13-Oct-24,Widget A,2,$13.75,$27.50,Omar Ahmed
+ORD25779,27-Jul-24,Widget B,8,19.99,159.92,John Iqbal
+ORD72825,18/08/2024,Gadget Y,6,"5,49",32,Ali Hussain
+ORD21374,04-Sep-24,Widget A,4,"12,50",$50.00,Ayesha Chen
+ORD46552,"Jul 01, 2024",Service Plan,5,$44.99, 224.95 ,Ali Reyes
+ORD55162,"Nov 09, 2024",Service Plan,9,$54.99,494,Noor Patel
+ORD23098,15-Aug-24,GADGET Y,7,5,"36,51",Sara Iqbal
+ORD21539,11/11/2024,Service Plan, 4 ,49,199.96,John Chen
+ORD28173,2024-07-27,Gadget Y,9, 4.94 ,44,Fatima Hussain
+ORD95523,2024-12-26,Gadget Y,1, 5.49 ,"5,49",Hassan Ahmed
+ORD59290,07/08/2024,Gadget Y,1,$4.94,"4,94",Ayesha Smith
+ORD31503,2024-07-17,Service Plan,7,"49,99", 349.93 ,Ayesha Patel
+ORD62760,2024-09-19,Service Plan,6, 49.99 ,$299.94,Omar Khan
+ORD82048,06-09-2024,SERVICE PLAN,4,$49.99, 199.96 ,Ayesha Garcia  
+ORD39762,12-11-2024,Widget A,9,12.50, 90.00 ,Maria Iqbal
+ORD91560,08-04-2024,Gadget X,5,$7.00,35.00,Maria Hussain
+ORD80291,06-22-2024,Service Plan,9,"49,99","449,91",Zain Hussain
+ORD13443,09-27-2024,Widget B,8, 19.99 , 159.92 ,Omar Khan
+ORD23194,2024-06-19,Widget A,5,12,"62,50",Hassan Smith
+ORD56941,2024-10-29,Widget A,4,$12.50,50,Maria Smith
+ORD48020,14/12/2024,Gadget X,6,$6.30,$39.69,Ayesha Reyes
+ORD70747,02-Dec-24,Gadget X,2,$6.30,"12,60",Zain Garcia
+ORD37183,08-21-2024,SERVICE PLAN,7,54,384.92,Ali Patel  
+ORD28320,15-Dec-24,Service Plan, 5 ,$44.99,224,John Chen
+ORD69491,09-07-2024,Service Plan,2,49,99.98,Fatima Lee
+ORD80181,09-16-2024,Widget A,9,11.25,96.19,Noor Smith
+ORD68225,20-Dec-24,Widget B,5, 21.99 ,109.95,Omar Ahmed
+ORD31274,21/07/2024,Gadget Y,2,"4,94",9.88,Noor Chen
+ORD26352,2024-09-21,Gadget X,10,7,77,Noor Iqbal
+ORD92996,2024-12-10,Widget B,3,19.99,56,Sara Garcia
+ORD21261,07-02-2024,Gadget Y,7,$4.94,$34.59,Ali Patel
+ORD14617,08-17-2024,Widget A,2, 12.50 ,25,Noor Reyes
+ORD26967,"Jul 03, 2024",Service Plan,5,49.99,$249.95,Sara Garcia
+ORD21691,"Nov 29, 2024",Widget B,1,19,19.99,Hassan Iqbal
+ORD53104,08-15-2024,Widget A,7,"12,50",83.12,Sara Patel
+ORD23013,09-21-2024,Widget B,8,19.99, 167.92 ,John Patel
+ORD63617,20/07/2024,Gadget Y,3, 5.49 ,13,Hassan Hussain
+ORD34863,06-29-2024,Service Plan,8,"49,99",$399.92,Fatima Garcia
+ORD43231,"Oct 01, 2024",Gadget Y,4,"5,49", 21.96 ,John Patel
+ORD67024,02-Nov-24,Gadget Y,6,$5.49,"32,94",Hassan Reyes
+ORD97590,06-12-2024,Service Plan,7,$54.99, 384.92 ,John Chen
+ORD51081,2024-10-24,GADGET X,2,6, 10.08 ,Sara Ahmed
+ORD85084,28/12/2024,Widget B,1,21.99,$21.99,Noor Chen
+ORD72905,08-10-2024,Gadget X,9,"7,00","75,60",Zain Hussain
+ORD38563,07-01-2024,WIDGET B,9,21.99,"188,01",Zain Reyes
+ORD68115,10-12-2024,Gadget Y,3, 5.49 ,"16,47",Ali Patel
+ORD55309,06-21-2024,Widget A,10,"12,50",125.00,Maria Reyes
+ORD34928,12-14-2024,Widget B,10,"19,99",239,Zain Patel
+ORD61844,"Aug 16, 2024",Widget A,4,$12.50,50,Ayesha Patel
+ORD90420,"Oct 28, 2024",Service Plan,5, 49.99 ,199,Noor Khan
+ORD11466,08-20-2024,Service Plan,8,"54,99",439.91,Hassan Khan
+ORD21676,"Jun 01, 2024",Service Plan,2, 49.99 ,"99,98",Fatima Garcia
+ORD29549,2024-07-04,Widget A,1,11,11,John Hussain
+ORD95890,2024-09-06,Gadget Y,8,"5,49", 43.92 ,Fatima Smith
+ORD33152,"Dec 27, 2024",Gadget X,7,"7,70",53,Fatima Patel
+ORD75004,11-26-2024,Gadget X,1,6,6.30,Omar Hussain  
+ORD92824,16/10/2024,Widget B,2,$19.99,$39.98,Ayesha Ahmed
+ORD94265,"Nov 28, 2024",Widget A,4,12,50,Omar Patel
+ORD49141,24-Jun-24,Gadget Y,1,6, 6.04 ,Fatima Iqbal
+ORD27559,"Nov 20, 2024",Service Plan,10,49,$499.90,John Khan
+ORD28825,15/09/2024,Gadget X,2,$6.30, 12.60 ,Omar Patel
+ORD78681,2024-09-13,Widget A,6,11,"67,50",Hassan Lee
+ORD82996,"Jun 14, 2024",Service Plan,2, 49.99 , 99.98 ,Omar Garcia
+ORD11394,12-08-2024,WIDGET B,10, 19.99 ,$189.90,Fatima Patel
+ORD42759,04/08/2024,Gadget Y,1, 4.94 ,5.19,Hassan Khan
+ORD88661,03/08/2024,Gadget X,3,7.00,21,Zain Smith
+ORD17677,25-Dec-24,Widget B,4,19.99,75,Noor Ahmed
+ORD86660,2024-07-02,Widget B,4,$21.99, 87.96 ,Hassan Hussain
+ORD21492,2024-06-12,Widget A,3,$13.75,"39,19",Ayesha Iqbal
+ORD67651,07/10/2024,GADGET X,9, 7.00 ,"63,00",Noor Patel
+ORD15681,09-20-2024,Gadget Y, 4 ,$5.49,21.96,Sara Reyes
+ORD88042,2024-11-03,Widget B,2,19.99, 39.98 ,Zain Lee
+ORD38444,2024-08-15,Widget B,4,19, 79.96 ,John Lee
+ORD42044,08/12/2024,Widget A,3,"12,50",45,Hassan Hussain
+ORD97161,08-11-2024,Widget A,2,$12.50,$20.00,Zain Smith
+ORD45889,2024-06-05,Service Plan,4,49.99,"199,96",Sara Iqbal
+ORD97530,10-03-2024,Gadget Y,8,5, 43.92 ,Noor Khan
+ORD27163,2024-09-04,Widget A,5, 12.50 ,"62,50",Zain Chen
+ORD19580,"Dec 07, 2024",Widget A,8,12.50,"95,00",Omar Lee
+ORD52868,09-Nov-24,GADGET X,10,$7.00,70.00,John Chen
+ORD53577,2024-11-08,Widget A,7,"12,50",$87.50,Fatima Reyes
+ORD47037,2024-06-01,Widget B,3, 19.99 ,59.97,Noor Smith
+ORD14202,"Jun 01, 2024",Widget A,10,"12,50", 125.00 ,Maria Garcia
+ORD36074,18-Aug-24,Gadget X,8,6,50,Fatima Iqbal
+ORD14098,11-08-2024,Gadget Y,8,$4.94, 39.53 ,Ayesha Iqbal
+ORD76214,19-Aug-24,Gadget Y,3,$5.49,19,Fatima Garcia
+ORD29241,"Dec 06, 2024",Widget A,10,$11.25,112,Maria Chen
+ORD62401,2024-09-28,SERVICE PLAN,7, 44.99 ,$330.68,Hassan Garcia
+ORD12322,2024-07-06,Widget A,2,12.50,25,Zain Chen
+ORD82942,2024-09-04,Widget A,3, 13.75 ,"41,25",Ali Chen
+ORD74295,12-10-2024,Gadget Y,6,4.94,28.16,Noor Iqbal
+ORD75425,17-Oct-24,Widget B,7,"17,99",151.12,Fatima Garcia
+ORD84069,2024-07-23,Gadget X,6,"6,30",37,John Ahmed
+ORD68441,"Jul 09, 2024",Service Plan,2, 49.99 , 104.98 ,Fatima Iqbal
+ORD89879,06-Aug-24,Widget B,5,$21.99, 109.95 ,Hassan Reyes
+ORD18803,06-01-2024,Widget A,3,"12,50", 37.50 ,Maria Hussain
+ORD94604,29-Oct-24,Gadget X,7,$6.30, 44.10 ,Fatima Ahmed
+ORD64710,2024-11-03,Widget A,4,12, 50.00 ,Zain Ahmed
+ORD14876,10-04-2024,Widget A,1,"11,25",11,John Lee
+ORD80214,17-Sep-24,Gadget Y,10,5,"54,90",Sara Iqbal
+ORD59724,18-Jul-24,WIDGET B,7, 21.99 ,153.92,Omar Iqbal
+ORD85133,10-17-2024,Widget B, 2 ,19.99,"39,98",Ayesha Lee
+ORD13573,"Oct 08, 2024",GADGET Y,3, 5.49 ,16,Ali Patel
+ORD14889,"Oct 20, 2024",Widget A,7,12.50,87.50,Maria Smith
+ORD85097,21-Jul-24,Service Plan,4,49.99,$199.96,Sara Hussain
+ORD32269,19/11/2024,Gadget X,2,$7.00,"14,00",Maria Reyes
+ORD26937,"Dec 19, 2024",Gadget Y,10,5.49,54.90,John Hussain
+ORD79559,2024-12-15,Widget B,3,$19.99, 59.97 ,Ali Patel
+ORD80843,01-Jun-24,Gadget Y,2,"5,49",11.53,Noor Chen
+ORD71946,2024-06-15,Widget B,8, 19.99 , 167.92 ,Maria Patel
+ORD11760,08/09/2024,Gadget X,2,$6.30,12,Maria Hussain
+ORD17393,25-Dec-24,Widget B,8,21, 211.09 ,John Patel
+ORD45620,"Jun 24, 2024",Widget B,1, 21.99 ,$21.99,Noor Lee
+ORD97302,2024-07-30,Widget A,5,"12,50",62,Ayesha Reyes
+ORD75440,2024-06-11,Widget B,6,"19,99", 119.94 ,Fatima Iqbal
+ORD72394,10/12/2024,Gadget X,7,7,"49,00",Ali Lee
+ORD17442,21/12/2024,Service Plan, 4 ,$54.99,219.96,Fatima Iqbal
+ORD33166,2024-10-14,Widget A,8,$13.75,104,Omar Garcia
+ORD50510,07-08-2024,Gadget Y,8,5.49,43.92,Hassan Smith
+ORD71444,"Aug 13, 2024",Gadget Y,10,6.04,"60,39",Omar Patel
+ORD54181,08-14-2024,Gadget Y,3,5.49,16.47,Hassan Patel
+ORD57663,06-Sep-24,GADGET X,8, 7.00 , 56.00 ,Fatima Patel
+ORD35769,"Nov 09, 2024",Gadget X,1,"7,70",$7.70,Ayesha Hussain
+ORD57386,"Sep 12, 2024",Gadget Y,9,6.04,"54,35",Hassan Reyes
+ORD16180,"Oct 01, 2024",Widget A,6, 13.75 , 82.50 ,Ayesha Garcia
+ORD36428,2024-09-08,Widget A,1,12.50,"10,00",Sara Iqbal
+ORD92586,25/08/2024,Gadget X,6,$7.00,44,John Smith
+ORD65242,2024-08-25,Widget A,7,12,87.50,Maria Khan
+ORD78582,11-15-2024,Service Plan,6, 49.99 ,$359.93,Ali Garcia
+ORD94436,06-09-2024,Gadget Y,2,$5.49,10.98,Omar Hussain
+ORD40221,"Oct 31, 2024",Widget A,6,11.25, 67.50 ,John Garcia
+ORD51035,2024-08-20,Service Plan,10,49,499.90,Ali Garcia
+ORD63538,22/06/2024,Gadget Y,7,"5,49",$38.43,John Patel
+ORD80960,2024-10-11,SERVICE PLAN,3,49.99,$119.98,Omar Reyes
+ORD95496,26/12/2024,GADGET Y,9,4.94,44,Sara Hussain
+ORD64744,30/11/2024,Widget B,7,"17,99",$119.64,Noor Chen
+ORD56047,"Jun 03, 2024",Widget A,8,$13.75,110.00,John Smith
+ORD55795,"Dec 29, 2024",Gadget Y,4, 6.04 ,24,Noor Iqbal
+ORD34335,06-17-2024,Service Plan,1,49.99,$49.99,John Lee
+ORD23152,31-Oct-24,Gadget X,10,7.00,"56,00",Omar Iqbal
+ORD30051,09/12/2024,SERVICE PLAN,8,$44.99, 359.93 ,Noor Hussain
+ORD56847,2024-11-25,Gadget Y,6,$6.04,36,Hassan Chen
+ORD79989,11-16-2024,Widget B,2, 19.99 ,"39,98",Hassan Khan
+ORD19069,2024-10-30,Gadget Y,10,6, 60.39 ,Ali Chen
+ORD73473,26/12/2024,Widget B,6,"17,99",107.95,Omar Reyes
+ORD75979,11-24-2024,Widget A,4,$11.25,45,Hassan Smith
+ORD28942,22-Jul-24,Gadget Y,8,5.49,$43.92,Ali Garcia
+ORD86260,"Dec 19, 2024",Gadget Y,10,6,60.39,Sara Ahmed
+ORD75878,09-02-2024,Widget B,9,19, 179.91 ,John Khan
+ORD18638,"Dec 19, 2024",Gadget Y,2,5.49,10.98,Hassan Hussain
+ORD29255,"Aug 20, 2024",Service Plan,7,49,349,Fatima Garcia
+ORD78014,2024-07-30,Widget A,6,"13,75",$82.50,Omar Khan
+ORD89811,2024-06-09,Widget A,4,11,"45,00",John Iqbal
+ORD57703,"Nov 25, 2024",Service Plan,7,49,349.93,John Iqbal
+ORD10136,07-10-2024,Widget B,4,$19.99, 79.96 ,Maria Chen
+ORD28272,03-Jun-24,Gadget Y,8,$6.04,$48.31,Maria Reyes
+ORD60679,30-Aug-24,Service Plan,1,49,49,Zain Hussain
+ORD80825,08-Nov-24,Widget A,7,$13.75,"96,25",Zain Ahmed
+ORD50067,2024-12-01,Widget B,10,$19.99,"199,90",Omar Lee
+ORD56856,"Nov 18, 2024",Gadget X,10,$7.70,77.00,Omar Ahmed
+ORD85055,24/06/2024,Widget A,10,$11.25,$112.50,John Chen
+ORD39184,20-Sep-24,Service Plan,9, 49.99 ,$427.41,Ali Garcia
+ORD77585,12-27-2024,Widget B,5, 19.99 , 99.95 ,Omar Chen
+ORD89291,"Jul 14, 2024",Service Plan,3,54.99,"164,97",Zain Chen
+ORD78357,29/11/2024,Gadget X,5,"7,00",$35.00,Ayesha Chen
+ORD73454,06-16-2024,Widget A,4,$13.75,"55,00",Ali Hussain
+ORD63489,2024-10-07,Gadget X,5,"7,70", 38.50 ,Hassan Hussain
+ORD66303,"Aug 22, 2024",Gadget Y,4,"5,49","20,86",Hassan Khan
+ORD23132,14-Dec-24,Gadget X,8,6.30, 50.40 ,Ayesha Patel  
+ORD88782,07-14-2024,Widget B,8,"19,99",$159.92,Hassan Lee
+ORD91579,2024-07-14,Gadget Y,10,5.49,$54.90,Ayesha Khan
+ORD96181,2024-09-11,WIDGET B,1, 19.99 , 20.99 ,Ali Ahmed
+ORD86452,09-20-2024,Gadget Y,9,$4.94, 42.25 ,Fatima Reyes
+ORD28475,2024-12-23,Widget A,4,$13.75,"55,00",Sara Reyes
+ORD97432,"Sep 14, 2024",GADGET Y, 8 ,5, 43.92 ,Ayesha Smith
+ORD35053,2024-07-06,Widget B,8,$19.99,159,Omar Smith
+ORD15185,2024-10-02,Widget B,7,19.99, 139.93 ,Sara Hussain
+ORD42823,18/11/2024,Gadget X,5,$7.00,35,John Iqbal
+ORD87459,"Oct 05, 2024",Widget A,3,"12,50",37,Maria Lee
+ORD44428,12/06/2024,Service Plan,3,$49.99,119,Ali Chen
+ORD38264,06-10-2024,Widget A,8,"12,50",100,Omar Ahmed
+ORD43540,21/08/2024,Service Plan,7,"49,99",349,Ali Smith
+ORD37057,02/06/2024,Gadget X,9,"7,00", 59.85 ,John Reyes
+ORD41755,08-17-2024,Service Plan,2,44,89,John Patel
+ORD24547,2024-11-12,Widget B,3,"17,99", 56.67 ,Ayesha Garcia
+ORD15950,18-Dec-24,Gadget X,9,$6.30, 56.70 ,Fatima Smith  
+ORD63266,"Nov 18, 2024",Gadget X,7, 7.70 ,53.90,Noor Lee
+ORD33773,19-Sep-24,Gadget Y,1,$5.49,"5,49",Ali Patel
+ORD56503,06-18-2024,Gadget X,6,"7,00",$33.60,Sara Khan
+ORD44477,04-Dec-24,WIDGET A,3,13,41.25,Ali Patel
+ORD33590,"Jun 01, 2024",Widget B,3,$21.99,"65,97",Ayesha Iqbal
+ORD15589,19/07/2024,Service Plan,5, 44.99 ,179,John Khan
+ORD15670,14/11/2024,Gadget X,2,$7.00,"14,00",John Ahmed
+ORD63504,2024-10-19,Service Plan, 2 ,49.99, 99.98 ,Ayesha Khan
+ORD80973,"Nov 01, 2024",Service Plan,1,49.99,49,Sara Iqbal
+ORD54318,26-Oct-24,Widget B,7, 21.99 , 146.23 ,Fatima Garcia
+ORD79689,06/06/2024,Widget B,1,"17,99",17,Zain Garcia
+ORD22298,08-Dec-24,GADGET Y,3,6.04,18,Hassan Garcia
+ORD69743,09-03-2024,GADGET Y,3,5,$16.47,John Smith
+ORD60504,2024-10-01,Gadget Y,5,4.94,"24,71",Fatima Reyes
+ORD75801,12/11/2024,Gadget X,9,7.00, 63.00 ,Sara Chen
+ORD58977,"Aug 12, 2024",Widget B,7,"19,99",139,Maria Iqbal
+ORD27134,08/09/2024,Service Plan,5,49.99,237.45,Maria Reyes
+ORD99693,12/07/2024,Gadget Y,1, 5.49 ,"5,49",Ayesha Smith  
+ORD71289,"Sep 13, 2024",Widget B,10,$19.99,$199.90,Omar Ahmed
+ORD86657,09-12-2024,Gadget Y,10, 5.49 , 54.90 ,John Patel  
+ORD75517,"Sep 30, 2024",Gadget X,6,7.70,36,John Ahmed  
+ORD13861,2024-08-27,Service Plan,4,"44,99",179.96,Zain Patel
+ORD72810,2024-10-24,Gadget X,8, 7.00 ,56,Noor Khan
+ORD84351,04/11/2024,Widget B,7,$19.99,139,Sara Garcia
+ORD37659,10-24-2024,Widget A,9,13.75,"123,75",Omar Khan  
+ORD71091,18-Dec-24,Gadget Y,5,4.94,"29,65",John Patel  
+ORD13346,19/08/2024,Gadget X,5,6.30,"31,50",Noor Reyes
+ORD83930,29-Nov-24,Service Plan,4,49,$209.96,Maria Hussain
+ORD33441,18-Jul-24,Widget A,5,13,65.31,Sara Iqbal
+ORD88876,2024-10-17,Widget B,10, 19.99 ,$199.90,Hassan Lee
+ORD53089,2024-10-30,Widget A,7,13.75,"96,25",Omar Garcia
+ORD91615,2024-12-16,Widget B,1,"21,99", 17.59 ,Omar Hussain
+ORD51206,2024-09-25,Service Plan,8,54,439.91,Ali Smith
+ORD15169,17-Oct-24,Gadget X,4,7,29,Maria Hussain
+ORD98264,"Nov 29, 2024",WIDGET A,8,12.50, 100.00 ,John Iqbal
+ORD55470,10-Sep-24,Gadget Y,6,$4.94,31.13,Ayesha Lee
+ORD85089,2024-06-11,Gadget Y,6,5.49,$32.94,Hassan Garcia
+ORD27185,12-12-2024,Gadget X,7, 7.00 , 46.55 ,Ali Garcia
+ORD28386,09-01-2024,Widget A,2,11.25,23,Sara Iqbal
+ORD78619,"Nov 15, 2024",Gadget Y,8, 5.49 ,$43.92,John Chen
+ORD24863,26-Jun-24,Gadget Y,2,6,12.08,Noor Ahmed
+ORD76335,"Sep 28, 2024",SERVICE PLAN,4,$49.99,$239.95,Ali Iqbal
+ORD25565,10-02-2024,Service Plan,3,44,$134.97,Hassan Reyes
+ORD78727,2024-11-09,Service Plan,3, 49.99 ,"149,97",Noor Patel  
+ORD76432,11-Jun-24,Service Plan,9,54.99, 593.88 ,Sara Hussain
+ORD43289,"Aug 31, 2024",Widget B,5,19,$99.95,Sara Khan
+ORD87303,27/06/2024,Gadget X,4,6.30, 25.20 ,Omar Reyes
+ORD22605,15/12/2024,Service Plan,2,54,87,Maria Lee
+ORD52502,07-26-2024,Widget B,3, 21.99 ,79.16,Ayesha Lee
+ORD66470,26-Dec-24,Service Plan,6,49.99, 299.94 ,Noor Iqbal
+ORD26023,"Dec 17, 2024",Service Plan,2,49,99.98,John Iqbal
+ORD90864,"Sep 26, 2024",Widget B,8,19.99,159,Zain Smith
+ORD75238,2024-08-25,Service Plan,10,"49,99", 499.90 ,Zain Iqbal
+ORD33738,"Aug 18, 2024",Service Plan,8,$49.99,399,Zain Chen
+ORD48754,2024-09-27,Service Plan,9,$49.99,"449,91",Fatima Lee
+ORD67174,2024-10-12,SERVICE PLAN,1, 44.99 ,53.99,Fatima Patel  
+ORD68013,2024-08-16,Service Plan,6,49.99,"299,94",Sara Iqbal
+ORD96194,"Oct 19, 2024",Widget B,5, 19.99 ,99.95,Ayesha Hussain
+ORD21998,11-Aug-24,Widget A,6, 12.50 ,$71.25,Omar Hussain
+ORD62700,07-08-2024,Widget A,4,12.50, 50.00 ,Fatima Garcia
+ORD11018,"Nov 14, 2024",Gadget X,10,6,$59.85,Fatima Khan
+ORD67230,28-Aug-24,Gadget X,3,$7.00,"21,00",Omar Patel  
+ORD49470,2024-10-06,Gadget Y,5,"5,49", 27.45 ,Ayesha Lee
+ORD29418,06-20-2024,GADGET X,3,"7,70",27,Hassan Smith
+ORD80642,11-Nov-24,Gadget X,4,"6,30",25,Sara Iqbal
+ORD44422,13/10/2024,Widget A,6,"13,75","82,50",John Hussain
+ORD50835,"Sep 12, 2024",Widget A,6,$13.75, 78.38 ,Noor Smith
+ORD81978,16-Oct-24,Widget A, 4 ,12.50,$50.00,Noor Khan
+ORD80212,10-14-2024,Widget A,4,"12,50", 50.00 ,Omar Garcia
+ORD43528,"Nov 04, 2024",Gadget X,8,7.70,"61,60",Hassan Hussain
+ORD41618,2024-08-17,Gadget Y,1,$4.94,4,Noor Garcia
+ORD15256,29-Oct-24,Widget B,1,"19,99",$15.99,Zain Hussain
+ORD29200,"Dec 18, 2024",Gadget X,8,7,56,Omar Chen  
+ORD82423,28-Oct-24,Widget A,5,"12,50",$59.38,Ali Reyes
+ORD36183,24-Dec-24,Gadget Y,9, 4.94 ,42,Zain Lee
+ORD85895,01-Oct-24,Widget A,4, 13.75 ,"55,00",Hassan Chen
+ORD13895,10-02-2024,Gadget Y,6,"4,94",29.65,Ali Patel
+ORD76743,"Aug 15, 2024",Service Plan,8,49.99,"399,92",Ali Hussain
+ORD44897,18-Jun-24,Service Plan,2, 49.99 ,99,Ali Chen
+ORD14285,"Sep 13, 2024",Service Plan,1,$44.99,44,Hassan Ahmed
+ORD40183,11/06/2024,Gadget Y,2,6.04,12.08,Maria Iqbal
+ORD53493,18-Nov-24,Widget B,7,17.99, 125.94 ,Noor Reyes
+ORD46361,"Jun 22, 2024",Widget A,10,"11,25",$112.50,Ayesha Chen
+ORD39741,28-Dec-24,WIDGET B,3, 19.99 ,59.97,Fatima Ahmed
+ORD63677,2024-08-04,Gadget X,7,$7.00,49.00,Omar Patel
+ORD59860,06-Jul-24,Gadget Y,1,5,$5.49,Fatima Chen
+ORD81092,22/11/2024,Gadget Y,6,$4.94,$29.65,Ali Iqbal
+ORD92724,09/10/2024,Service Plan,3, 44.99 ,"107,98",Omar Smith
+ORD59256,"Sep 04, 2024",Gadget Y,10,5, 52.16 ,Noor Ahmed
+ORD60491,"Dec 05, 2024",Gadget X,7,6.30,"44,10",Omar Reyes
+ORD26953,"Sep 26, 2024",Gadget Y,5,5,$27.45,Noor Iqbal
+ORD39657,"Aug 27, 2024",Service Plan,3,49.99,$149.97,Omar Iqbal
+ORD39253,11-04-2024,WIDGET B,5, 19.99 ,$99.95,Noor Smith
+ORD68110,11-07-2024,Widget B,9, 19.99 ,"179,91",Ali Hussain
+ORD96061,2024-11-25,Gadget Y,6,5,32,Ayesha Chen
+ORD99489,2024-08-08,Service Plan,5,$49.99, 249.95 ,Ayesha Reyes
+ORD65617,06-26-2024,Widget B,9,$17.99,194,Hassan Iqbal
+ORD34561,"Jun 09, 2024",Gadget X,7,"6,30",52,Hassan Smith
+ORD50855,10-Sep-24,GADGET Y, 4 ,$5.49,21.96,Ayesha Smith
+ORD34781,07-31-2024,Gadget X,6,7.00,42.00,Noor Khan
+ORD42772,25/06/2024,Widget B,4,"19,99","79,96",Fatima Reyes
+ORD73598,30/10/2024,Widget B,8, 19.99 , 159.92 ,Zain Chen
+ORD46877,13/11/2024,Service Plan,7,54.99,$384.92,Hassan Khan
+ORD43106,10-Jul-24,Gadget Y,10,5,43,Zain Reyes
+ORD66256,12-29-2024,Widget A,7,$11.25,78,Maria Garcia
+ORD26190,29/11/2024,Gadget X,1,"7,00",$7.00,Omar Lee
+ORD90130,15/07/2024,Gadget Y,4,6,24.16,Fatima Reyes
+ORD40926,07/06/2024,Widget B,3, 21.99 ,$69.27,Fatima Hussain
+ORD95235,11/06/2024,Service Plan,7, 49.99 ,349.93,Ayesha Garcia
+ORD75516,12-19-2024,Widget B,9,"21,99",$197.90,Sara Hussain
+ORD34996,2024-06-07,Gadget X,2,6,12,Fatima Smith
+ORD53992,2024-06-13,Gadget X,9,$7.00,63,Ayesha Ahmed
+ORD84217,06-18-2024,Gadget X,4,6,"25,20",Sara Lee
+ORD33340,30-Dec-24,Gadget X,5,$7.00,"35,00",John Iqbal
+ORD98608,2024-12-13,Gadget Y,6,6.04,$36.23,Ali Patel  
+ORD16294,09/07/2024,Widget A,6,12.50,75.00,Omar Reyes
+ORD39686,2024-07-20,WIDGET B,1,19,$15.99,Ayesha Smith
+ORD42371,2024-06-04,Gadget X,3,"7,00",21,Sara Reyes
+ORD41567,11-14-2024,Service Plan,4,$44.99, 179.96 ,Sara Iqbal
+ORD31950,06-05-2024,Widget B,7,19.99,139.93,Fatima Hussain
+ORD96817,2024-12-30,Widget A,7,12,$87.50,Hassan Smith
+ORD20466,2024-09-18,Service Plan,9,44,404,Sara Hussain
+ORD72544,13/09/2024,Gadget X, 2 ,"7,70", 15.40 ,Omar Patel
+ORD27834,03/09/2024,GADGET Y,6, 5.49 ,$26.35,Maria Garcia
+ORD40787,12-Aug-24,GADGET X,2, 7.70 ,15.40,Ali Reyes
+ORD89870,18-Jul-24,Widget A,1,$13.75, 11.00 ,Omar Khan
+ORD30345,"Nov 22, 2024",Widget A,2, 11.25 ,"18,00",Fatima Lee
+ORD17799,2024-09-06,Widget A,7, 12.50 , 87.50 ,Fatima Garcia
+ORD69578,17/11/2024,Widget B,4,17.99, 71.96 ,Sara Khan
+ORD90512,"Oct 31, 2024",GADGET X,8,7,"56,00",Fatima Lee
+ORD28484,2024-06-20,Widget A,5,13,68,Hassan Iqbal
+ORD28032,2024-12-16,GADGET X,9,7.00,63,Zain Lee
+ORD14706,2024-06-26,Gadget X,6,"7,00","42,00",Ayesha Chen
+ORD92231,11-05-2024,Widget B,5,17, 89.95 ,Omar Lee
+ORD26091,22-Sep-24,Widget B,2,$17.99,43.18,Ali Chen
+ORD31440,2024-09-10,Gadget X,2, 6.30 ,"12,60",Ayesha Iqbal
+ORD20984,2024-12-10,Widget B,2,"19,99",39.98,Noor Lee
+ORD75884,2024-08-20,Service Plan,5,$49.99,249.95,Maria Iqbal
+ORD24189,12-Jun-24,Service Plan,6,49,299,Omar Garcia
+ORD25670,2024-12-11,Widget A,10,"13,75",110,Zain Ahmed
+ORD40145,12-Nov-24,Gadget Y,8,$5.49,43,John Smith
+ORD33958,09-06-2024,Gadget Y,5,5.49,$21.96,Maria Iqbal
+ORD10386,24-Jun-24,Service Plan,1,"49,99", 49.99 ,Omar Reyes
+ORD90510,20/12/2024,Gadget Y,7, 6.04 , 50.73 ,John Hussain
+ORD44287,02/07/2024,Widget B,6,19.99,119.94,Fatima Chen
+ORD39490,2024-08-29,GADGET Y,4,$5.49,17,Maria Khan  
+ORD93084,23-Oct-24,Widget A,6,"12,50",75,Ayesha Hussain
+ORD78911,2024-09-24,Widget B,2,19.99, 39.98 ,Hassan Chen
+ORD38122,"Oct 28, 2024",Widget A,1,12,"12,50",Omar Chen
+ORD29174,04/10/2024,Service Plan,8,54.99,439,Ali Khan
+ORD94598,"Jul 30, 2024",Gadget X,6,"7,70",$46.20,Hassan Khan  
+ORD99018,29/08/2024,GADGET Y,2,5,10,Omar Ahmed
+ORD96985,2024-12-09,GADGET X,9,$7.70,$72.77,Ayesha Garcia
+ORD67057,08-Dec-24,Gadget Y,5,5.49,"27,45",Sara Iqbal
+ORD57340,09-21-2024,Widget A,5, 12.50 ,$62.50,Hassan Hussain
+ORD76907,"Nov 13, 2024",Widget A,1,13,13.75,John Khan
+ORD69501,23-Jun-24,Service Plan,9,$54.99,"494,90",Zain Patel
+ORD31736,"Dec 20, 2024",Gadget X,3,7.00,$25.20,Hassan Chen
+ORD63673,10-31-2024,Service Plan,9,$49.99,449.91,Hassan Lee
+ORD71821,"Nov 19, 2024",Widget A,3,"13,75",$41.25,Hassan Lee
+ORD89120,11/07/2024,Service Plan,3,"44,99",$134.97,Zain Reyes
+ORD41194,06-Jul-24,Service Plan, 10 , 49.99 ,"499,90",Hassan Lee
+ORD51812,18-Jul-24,Service Plan,10, 54.99 ,"549,89",Zain Ahmed
+ORD39754,29/07/2024,Gadget Y,6,6.04,$43.48,Fatima Lee
+ORD79731,"Nov 29, 2024",Gadget X,2,6.30, 12.60 ,Maria Patel
+ORD39177,25-Jun-24,Widget B,1, 19.99 ,"19,99",Maria Patel
+ORD68223,01/11/2024,Widget A,1,13.75,13,John Iqbal  
+ORD85272,01/12/2024,Service Plan,8,"54,99","439,91",John Chen
+ORD92876,18-Oct-24,SERVICE PLAN,10,44, 449.91 ,Fatima Patel
+ORD45236,2024-11-21,Gadget X,5, 7.70 ,"38,50",Zain Garcia
+ORD51450,2024-07-01,Gadget X,7,7.70,53,Maria Lee
+ORD86616,20-Jul-24,Gadget X,1,7, 7.00 ,Sara Khan
+ORD97400,17-Oct-24,Gadget Y, 4 ,4.94,"19,76",Fatima Patel
+ORD40120,06/08/2024,Gadget X,2,$7.00,14,Omar Patel
+ORD66170,20-Dec-24,Gadget Y,3,5,$16.47,Noor Reyes
+ORD95062,19-Jun-24,Widget A,6,"12,50",60,Fatima Hussain
+ORD14364,15/08/2024,Gadget X,1, 7.00 ,7,Noor Iqbal
+ORD64278,06-07-2024,Gadget X,10,7, 70.00 ,Zain Khan
+ORD41154,25/12/2024,Widget B,8,"17,99",151.12,Noor Hussain
+ORD84680,"Oct 29, 2024",Gadget X,3,"7,00", 21.00 ,Hassan Garcia
+ORD99683,"Nov 03, 2024",Widget B,3,"17,99",53,John Chen
+ORD51442,12-25-2024,Widget A,4,12.50,50.00,Maria Reyes
+ORD86448,2024-08-29,Gadget X,10,$7.70, 77.00 ,Ali Ahmed
+ORD24652,25/06/2024,Gadget X, 4 ,6, 25.20 ,John Iqbal
+ORD95519,09-24-2024,Gadget X,2,6, 12.60 ,John Ahmed
+ORD20183,2024-07-08,Widget B,3, 19.99 ,"59,97",Ali Smith
+ORD19524,2024-11-02,Gadget Y,6, 6.04 ,36,Fatima Lee
+ORD50088,"Sep 21, 2024",Service Plan,7,49.99, 349.93 ,John Khan
+ORD44608,2024-07-10,Widget B,3,$21.99,79,John Patel
+ORD40104,30/06/2024,Gadget Y,2, 5.49 ,10,John Reyes
+ORD53415,10-07-2024,Service Plan,10,"49,99",$499.90,Omar Garcia
+ORD99148,06-24-2024,Service Plan,7,"49,99",349,Ayesha Lee
+ORD30686,09/06/2024,Gadget X,1,"7,00",7,Noor Iqbal
+ORD76808,2024-09-28,WIDGET A, 10 ,11.25,118.12,John Hussain
+ORD95690,20-Jun-24,Gadget X,1,7,6,Sara Garcia
+ORD77378,"Jul 05, 2024",Widget B,1,"19,99",19.99,Ali Patel
+ORD54675,2024-10-13,Gadget X,3,7,21,Sara Patel
+ORD33109,21-Jun-24,Widget B,9,"19,99",179.91,Omar Lee  
+ORD12557,25-Jun-24,Widget A, 4 ,12,"50,00",Sara Hussain
+ORD54466,30/07/2024,Gadget Y,5,5,27.45,Maria Iqbal
+ORD89296,09-24-2024,Widget A,6,12.50,75,Noor Reyes
+ORD72687,10-14-2024,Widget B,8,$19.99,159.92,Ayesha Iqbal
+ORD28794,07-20-2024,WIDGET A,1,"13,75",13.75,Omar Khan
+ORD98906,"Oct 10, 2024",Widget B,8, 19.99 , 127.94 ,Fatima Chen
+ORD93146,29-Dec-24,Service Plan,1,49,49,Fatima Hussain  
+ORD51676,12/08/2024,Widget B,1, 19.99 , 19.99 ,Noor Chen
+ORD86821,27/11/2024,Widget B,9, 19.99 ,$179.91,Noor Ahmed
+ORD46330,30-Aug-24,GADGET Y, 9 ,"5,49", 51.88 ,Noor Chen
+ORD77090,21/11/2024,Service Plan,3,44, 134.97 ,Maria Reyes
+ORD73904,10-30-2024,Gadget X,2,7.00, 14.00 ,Zain Garcia
+ORD87519,2024-10-22,WIDGET B,2, 19.99 ,$39.98,John Hussain
+ORD61292,08-05-2024,Gadget X,3,7.00,21,Ali Smith
+ORD73917,08-25-2024,Widget A,3,12,35,Hassan Iqbal
+ORD42916,24/10/2024,Widget B,6, 21.99 ,$138.53,Sara Ahmed  
+ORD83715,"Jul 04, 2024",WIDGET A,6, 11.25 ,81.00,Ayesha Iqbal
+ORD23319,18-Dec-24,Service Plan,7,"49,99",$349.93,John Reyes
+ORD72153,25-Nov-24,Gadget X,9,7.00, 63.00 ,Sara Hussain
+ORD16195,"Nov 13, 2024",Widget A,4,12,47,John Khan
+ORD58165,2024-12-28,Gadget Y,4,5.49,21.96,Noor Garcia
+ORD50342,05/12/2024,Service Plan,10,49.99, 499.90 ,Zain Reyes
+ORD36065,2024-10-23,Gadget X,7,6.30,52,Maria Reyes
+ORD57440,2024-07-24,Widget B, 2 ,$19.99,$39.98,Fatima Garcia
+ORD49678,11-02-2024,Service Plan,9,44,404,Maria Ahmed
+ORD77495,2024-12-05,Gadget Y,7,5.49, 38.43 ,Noor Hussain
+ORD35179,2024-08-23,Gadget X,4,"7,00", 28.00 ,Zain Hussain
+ORD46908,08-02-2024,Widget A,3,"12,50","37,50",Zain Ahmed
+ORD47860,2024-09-25,Service Plan, 3 , 49.99 ,119.98,Ali Lee
+ORD12958,2024-10-19,Gadget Y,2,$5.49,$10.98,Zain Lee
+ORD65871,04/12/2024,Service Plan,6,44,"269,95",Zain Smith
+ORD50100,01/08/2024,GADGET Y,5,"4,94",24.71,Noor Lee
+ORD28724,2024-11-26,Gadget Y,4, 5.49 ,$21.96,Hassan Garcia
+ORD83447,"Aug 14, 2024",Service Plan,4,54,$219.96,Ali Chen
+ORD14209,"Nov 16, 2024",Widget B,8, 19.99 ,"151,92",Fatima Ahmed
+ORD30097,06-18-2024,Gadget Y,4, 5.49 ,23.06,Omar Iqbal
+ORD69532,2024-11-06,Widget B,8,19,$159.92,Noor Hussain
+ORD27268,01/12/2024,Widget B,7,$21.99,153.92,John Khan
+ORD50092,22-Aug-24,Gadget Y,6,6,38,Ali Khan
+ORD36671,28/08/2024,Widget A,8,12,$100.00,Sara Chen
+ORD28539,01-Aug-24,Service Plan,10,$49.99,$474.91,Sara Chen
+ORD57728,19/06/2024,Gadget X,5,"7,70", 38.50 ,John Lee
+ORD75102,07-07-2024,WIDGET B,2,21.99,43.98,Hassan Chen
+ORD86710,"Jul 27, 2024",Gadget X,3,7,"21,00",Hassan Iqbal
+ORD28759,27/07/2024,Gadget X,6,7.00,39.90,Hassan Patel
+ORD10721,25/10/2024,Widget A,3,13, 39.19 ,Hassan Khan  
+ORD43599,12-12-2024,Widget A,5,12,$65.62,Ayesha Smith
+ORD60857,2024-11-27,Widget A,10,12.50, 125.00 ,Ali Patel
+ORD27128,04-Sep-24,Gadget X,9,7,63,Sara Hussain
+ORD40455,2024-09-22,Gadget X,2,7.00,"14,00",Noor Patel
+ORD28540,"Sep 28, 2024",Widget A,6, 11.25 ,$67.50,Maria Garcia
+ORD39455,"Sep 12, 2024",Widget B,5,$19.99,$99.95,Fatima Ahmed
+ORD41925,06-28-2024,Widget A, 1 ,"11,25","10,69",Noor Ahmed
+ORD38347,2024-10-14,Gadget X,5, 7.00 ,"33,25",Omar Ahmed
+ORD88795,11-17-2024,Gadget Y,2,$5.49,$10.98,Zain Hussain
+ORD96355,11-Sep-24,Widget B,8,$19.99, 159.92 ,Omar Ahmed
+ORD55517,2024-06-07,Widget B,2,$21.99,"43,98",John Hussain
+ORD62288,2024-08-13,GADGET X,2,"7,00","14,00",Hassan Smith
+ORD12601,12-30-2024,Gadget X,1, 7.00 ,6,Hassan Smith
+ORD60106,2024-10-20,Gadget Y,9,"5,49",49.41,John Reyes
+ORD35246,28-Oct-24,Widget B,9,$19.99,$179.91,Zain Reyes
+ORD10946,"Jul 26, 2024",GADGET Y,6,5,32,Noor Patel
+ORD96589,"Jun 25, 2024",Widget A,10,$12.50,$150.00,Fatima Chen
+ORD15244,06-25-2024,Widget A,10,12.50,$125.00,Omar Chen
+ORD89259,16/10/2024,Widget B,8, 19.99 ,"159,92",Omar Garcia
+ORD87900,"Aug 09, 2024",Gadget X, 10 , 6.30 ,"63,00",Zain Ahmed
+ORD16540,"Aug 28, 2024",Gadget Y,6,"5,49", 32.94 ,Noor Iqbal
+ORD58790,"Sep 02, 2024",Gadget X, 4 ,7.70,30,Fatima Khan
+ORD20384,10-09-2024,Widget A,3,12, 37.50 ,Noor Ahmed
+ORD72208,22-Jun-24,Service Plan,8,49, 399.92 ,John Ahmed
+ORD24727,26/08/2024,Gadget Y,2,$5.49, 10.98 ,John Iqbal
+ORD98206,2024-06-11,Gadget X,5, 7.70 ,38.50,Zain Ahmed
+ORD60215,2024-08-19,Widget B,10,$19.99, 189.90 ,Sara Patel
+ORD68064,05-Aug-24,GADGET Y,9,5.49,"49,41",Omar Ahmed
+ORD92250,"Oct 26, 2024",Widget A,5,12, 62.50 ,Sara Reyes
+ORD52184,13-Aug-24,Gadget Y,9,"5,49",49,Noor Iqbal
+ORD56255,10-10-2024,Gadget Y,7, 6.04 ,33,Sara Chen
+ORD17652,2024-07-29,Widget B,1,19, 19.99 ,Ali Chen
+ORD69963,2024-10-25,Gadget X,2, 7.00 ,$14.00,John Chen
+ORD70148,16-Sep-24,Gadget X,7, 7.00 ,$46.55,Ayesha Iqbal
+ORD87143,"Jun 16, 2024",Widget A,8,12, 100.00 ,Ali Smith
+ORD80170,13-Oct-24,Widget B,5,19.99, 99.95 ,Ali Iqbal
+ORD21915,"Jul 22, 2024",WIDGET A,10,12,$125.00,Sara Ahmed
+ORD92963,04-Jun-24,Widget A,3,$13.75,41,Ali Ahmed
+ORD37329,21-Jun-24,Service Plan,8,54.99,527,Ali Ahmed
+ORD49772,07-12-2024,Service Plan,1,"54,99","43,99",Noor Iqbal
+ORD96908,17-Aug-24,Service Plan,1,44.99, 44.99 ,Zain Garcia  
+ORD23746,2024-08-04,Widget A,9,$12.50,"112,50",Ali Lee
+ORD17286,09-03-2024,SERVICE PLAN,1,"44,99",47.24,John Patel
+ORD74262,"Oct 23, 2024",Gadget X,8,$7.70,$61.60,Hassan Reyes
+ORD20994,2024-11-14,Gadget Y,8,"6,04",48.31,Maria Lee
+ORD27675,13/11/2024,Widget B,4, 19.99 ,79,John Smith
+ORD52949,2024-08-22,Widget A,6,12,75,Fatima Lee
+ORD84898,21-Jul-24,Widget B,3,"17,99",$51.27,Zain Lee
+ORD31103,30-Aug-24,Widget A,2,13.75, 27.50 ,Fatima Hussain
+ORD70473,28/12/2024,GADGET Y,8,5.49, 43.92 ,Ali Ahmed
+ORD91115,2024-10-30,Gadget X,9,"7,00",$50.40,Hassan Smith
+ORD95559,11-Jun-24,Widget B, 5 , 17.99 ,89.95,John Reyes
+ORD58456,01/10/2024,Widget A, 3 , 13.75 ,$41.25,Ali Khan
+ORD55526,11-Aug-24,Gadget Y,7,"4,94","41,50",Maria Lee
+ORD21511,"Jun 22, 2024",Gadget Y, 9 , 5.49 ,49.41,Maria Reyes
+ORD93426,2024-08-26,Service Plan,10, 54.99 ,"549,89",Maria Lee
+ORD88983,2024-12-26,Gadget X,3, 7.70 ,"23,10",Zain Lee  
+ORD98981,31-Jul-24,Service Plan,9,$49.99,449.91,Fatima Hussain
+ORD30234,"Nov 21, 2024",Gadget Y,2, 5.49 ,"10,98",Hassan Lee
+ORD57127,29/11/2024,Service Plan,5,$49.99,249,Zain Patel
+ORD93530,06-23-2024,Gadget X,2,6,12,John Garcia
+ORD93913,25-Sep-24,Widget A, 8 ,"12,50",$80.00,Hassan Khan
+ORD69737,"Jun 07, 2024",Widget B,8,19,"159,92",Noor Patel
+ORD31267,23-Oct-24,Widget A,8, 11.25 ,90.00,Zain Chen
+ORD17281,"Sep 16, 2024",Gadget Y,7,$6.04, 33.82 ,Zain Reyes
+ORD18520,06-12-2024,Widget B,1,19.99,19.99,John Patel
+ORD80399,23-Oct-24,Widget B,2,"19,99",41.98,Maria Lee
+ORD73364,06-03-2024,Gadget X,10,7,70.00,Fatima Hussain
+ORD66521,09-02-2024,Service Plan,5,$54.99,$274.95,Sara Smith
+ORD17503,"Dec 22, 2024",Gadget Y,6,"6,04",34,Sara Smith
+ORD15939,12-05-2024,Gadget Y,1, 5.49 ,$5.76,Hassan Lee
+ORD62457,15/06/2024,Widget A,10,$12.50,125.00,Fatima Iqbal
+ORD46592,2024-06-23,Gadget Y,4, 5.49 ,20.86,Sara Patel
+ORD56871,06/08/2024,Gadget X,9,6,68,Sara Smith
+ORD85313,"Oct 14, 2024",Widget B,4,19,75,Ayesha Patel
+ORD27302,2024-09-20,Widget B,7,"19,99", 139.93 ,Hassan Lee
+ORD18676,23-Jun-24,SERVICE PLAN,7,$49.99,"349,93",Hassan Hussain
+ORD64784,2024-07-30,Service Plan,8,49.99,$399.92,Zain Patel
+ORD75370,2024-11-03,Service Plan,5,49.99,$249.95,John Hussain
+ORD85998,"Jun 29, 2024",Gadget Y,4, 4.94 ,"19,76",Omar Smith
+ORD81237,2024-09-23,Gadget Y,10, 5.49 ,"54,90",Noor Khan
+ORD53989,2024-07-23,Widget B,7,19.99, 139.93 ,Omar Hussain
+ORD65002,09-Dec-24,Gadget Y, 5 ,"6,04",30.20,Omar Smith
+ORD46226,21/12/2024,Service Plan,2, 49.99 ,$79.98,Hassan Hussain
+ORD56773,12-11-2024,Widget A,10,12.50,100,John Garcia
+ORD99572,14-Jun-24,Service Plan, 9 , 54.99 ,$395.92,Maria Garcia
+ORD70136,12-25-2024,Gadget Y,10,"5,49",54.90,Sara Hussain
+ORD85864,16-Nov-24,Widget B,8, 19.99 ,"159,92",Ayesha Lee
+ORD64459,21-Aug-24,Gadget X,10, 7.00 ,"70,00",Maria Hussain
+ORD41746,02-Dec-24,Widget B,7,"19,99","139,93",Hassan Patel
+ORD51820,"Sep 12, 2024",Widget A,2,12,$23.75,Ali Smith
+ORD43708,06-07-2024,Gadget Y,7, 5.49 ,$38.43,Noor Chen
+ORD67630,13/07/2024,Widget A,1,"12,50",$11.88,Hassan Lee
+ORD58624,30/08/2024,Gadget Y,6,5.49,$34.59,Zain Lee
+ORD76813,18/12/2024,Gadget X,7,7,49,Maria Chen
+ORD51982,12-10-2024,Gadget Y,7, 4.94 ,34,Omar Hussain
+ORD93068,03/10/2024,Widget A,2, 11.25 ,22,Sara Iqbal
+ORD54989,01/09/2024,Gadget X,9,"7,00",$63.00,Hassan Smith
+ORD12871,11-27-2024,Service Plan,8,54,$439.91,Noor Iqbal
+ORD48550,24-Sep-24,Widget B,2,"19,99","39,98",Maria Ahmed
+ORD88492,"Oct 04, 2024",Widget B,6,$19.99,$95.95,Zain Chen  
+ORD15496,04/10/2024,Service Plan,1,49.99, 49.99 ,Maria Khan
+ORD12278,12-22-2024,Gadget X,7,7.00,49.00,Noor Hussain
+ORD79101,08-07-2024,Gadget Y,4,5.49, 21.96 ,Zain Reyes
+ORD19150,15/06/2024,Gadget X,3,$6.30,18,John Reyes
+ORD29730,14/06/2024,Widget B,4, 19.99 , 79.96 ,Sara Ahmed
+ORD31109,03/10/2024,Gadget Y,10,$6.04,60,Ali Ahmed
+ORD12928,2024-10-22,Gadget X,5, 7.70 ,$38.50,Hassan Hussain
+ORD24979,11-18-2024,Gadget X,8,$7.70, 61.60 ,Zain Chen
+ORD58904,08-15-2024,Widget B,4,$19.99,"79,96",Maria Smith
+ORD71667,2024-10-22,Gadget Y,4,$5.49, 23.06 ,Ayesha Patel
+ORD36129,11-23-2024,Gadget Y,9,$5.49, 49.41 ,Ayesha Garcia
+ORD47966,2024-12-25,Gadget X,10, 6.30 ,63.00,Ayesha Chen
+ORD17758,26-Dec-24,Gadget Y,3, 5.49 ,"19,76",Ali Iqbal
+ORD51798,11-27-2024,Widget A,6,$13.75,"82,50",Ayesha Garcia
+ORD79271,12/11/2024,Widget A,3,"12,50",45.00,John Reyes
+ORD60872,28-Dec-24,Widget B,5,$17.99,89,Fatima Hussain
+ORD35829,"Jun 04, 2024",Widget A,4,"12,50", 50.00 ,Sara Ahmed
+ORD30188,2024-08-11,Gadget Y,5,6.04,30.20,Maria Iqbal
+ORD47644,2024-09-05,Gadget X,9,7, 83.16 ,Omar Khan
+ORD30918,10/07/2024,WIDGET B,3,$17.99,53.97,Noor Ahmed
+ORD36933,2024-10-16,Service Plan,6, 49.99 ,299.94,Ali Iqbal
+ORD14196,"Aug 10, 2024",Service Plan,7,$44.99,"330,68",Fatima Patel
+ORD62377,27-Oct-24,Widget A,1,"11,25", 11.25 ,Sara Ahmed
+ORD65397,12/09/2024,Widget B,7,$19.99,$139.93,Omar Ahmed
+ORD73619,2024-09-23,Service Plan,8, 49.99 ,399,Hassan Smith
+ORD68225,28-Oct-24,Gadget X,9,$7.00,"59,85",Omar Reyes
+ORD47272,"Jul 31, 2024",Widget A,1, 12.50 ,"12,50",Maria Ahmed
+ORD71536,24/09/2024,Widget B,5,17, 89.95 ,Fatima Hussain
+ORD21124,08-Jul-24,Widget A,4,12.50,50.00,Ayesha Reyes
+ORD45631,09-Sep-24,Gadget Y,2,5,$10.98,John Iqbal
+ORD29295,13/10/2024,Service Plan,9,49,$449.91,Omar Hussain
+ORD78049,2024-08-04,Gadget Y,6,5.49,$32.94,Omar Lee
+ORD71424,12-04-2024,Widget B,2, 19.99 ,39,Omar Smith
+ORD46550,"Aug 18, 2024",Service Plan,10,49,499,Sara Iqbal
+ORD58495,2024-06-14,Widget B,2, 19.99 ,"39,98",Maria Iqbal
+ORD11914,2024-09-06,SERVICE PLAN,2,49, 94.98 ,Ali Reyes
+ORD87323,11-24-2024,Widget A,7,"12,50",87,Sara Khan
+ORD92027,30-Dec-24,Widget A,9,$12.50,135,Noor Patel
+ORD41622,2024-10-24,Service Plan,3,$49.99,"149,97",Ayesha Ahmed
+ORD27093,06-11-2024,Gadget X,8,$7.00,53,Ayesha Iqbal
+ORD85511,07/07/2024,Gadget Y,1,"6,04",6.34,Hassan Khan
+ORD70077,17-Sep-24,Service Plan,8,"49,99","399,92",John Khan
+ORD30514,2024-11-19,Widget B, 10 , 21.99 , 208.90 ,John Smith
+ORD71369,29-Dec-24,Service Plan,3,54.99,$164.97,Hassan Chen
+ORD10558,10-Aug-24,Service Plan,8,54.99,439,Zain Garcia
+ORD97438,18/11/2024,Service Plan,5,49,"237,45",Sara Patel
+ORD21718,2024-06-28,Service Plan,1,$44.99,44.99,Omar Khan
+ORD15184,2024-09-03,Widget A,2,12,25,Sara Chen
+ORD68824,2024-12-01,Service Plan,3,$49.99, 149.97 ,Hassan Hussain
+ORD45825,2024-10-15,Widget B,1,"19,99","19,99",Maria Iqbal
+ORD42409,2024-11-04,GADGET X,2,$6.30,12,Hassan Reyes
+ORD73722,2024-10-31,GADGET X,2,$7.70, 15.40 ,Ali Ahmed
+ORD23793,"Aug 16, 2024",Gadget X,7, 7.70 ,"53,90",Ayesha Chen
+ORD56475,2024-11-22,Gadget Y,7,6.04,$33.82,Ali Iqbal
+ORD88652,16-Oct-24,Gadget Y,2, 5.49 ,"10,98",Noor Iqbal
+ORD35561,07-02-2024,Gadget X,1,7, 7.70 ,Sara Reyes
+ORD67252,"Aug 02, 2024",Widget A,7,"12,50",$87.50,Hassan Patel
+ORD19179,12-09-2024,Gadget X,6,"7,00",42.00,Hassan Hussain
+ORD49160,04/08/2024,Gadget X,9,"6,30","56,70",Ayesha Khan  
+ORD97797,"Jul 05, 2024",Gadget Y,5,5.49,27.45,John Iqbal
+ORD73911,12-20-2024,Widget B,1, 19.99 ,"20,99",Noor Chen
+ORD33938,03-Nov-24,Widget A,7,12.50, 70.00 ,Ali Reyes
+ORD66694,"Dec 04, 2024",Gadget Y,8,"5,49",43,Ali Hussain  
+ORD61732,2024-08-11,Widget A,1, 12.50 ,"12,50",Hassan Lee
+ORD57739,09-08-2024,Widget B,6,19.99,$143.93,Ali Garcia
+ORD71154,11-14-2024,Widget B,9,"19,99","179,91",Hassan Hussain
+ORD23012,09/06/2024,Widget B,7, 17.99 ,151,Maria Khan
+ORD66341,31-Aug-24,Widget A,7,"12,50", 87.50 ,Hassan Lee
+ORD90091,2024-10-04,Gadget X,1,7.00,7,John Lee
+ORD85691,08-Sep-24,GADGET Y,8,$5.49,52.70,Zain Smith
+ORD25532,22-Aug-24,Widget A,6,"12,50",$75.00,Zain Chen
+ORD15222,13-Sep-24,Widget B, 10 ,$19.99,$199.90,Fatima Reyes
+ORD29203,07-24-2024,Gadget X,4, 7.00 ,28.00,Sara Lee
+ORD16907,2024-11-29,Gadget Y,1,$6.04,6.04,John Lee
+ORD26453,25/08/2024,Gadget Y,4,"5,49", 21.96 ,Hassan Iqbal
+ORD10814,2024-07-23,WIDGET A,6,12,$60.00,Ali Khan
+ORD28557,06/10/2024,Widget B,4,19.99,"63,97",Sara Smith
+ORD21433,17/11/2024,Widget B,8,19,"159,92",Hassan Iqbal
+ORD86381,07/10/2024,Gadget X,6,7,42,Omar Patel
+ORD55575,09-18-2024,Widget A,10,12.50,125.00,John Smith
+ORD54235,10-10-2024,Gadget X,4,"7,70", 30.80 ,Hassan Patel
+ORD91580,09-21-2024,Gadget Y,5,5.49,26,John Lee
+ORD67290,2024-11-22,Widget A,2,"12,50",$23.75,John Lee
+ORD76905,26/07/2024,Service Plan,9,49,472.41,Maria Reyes
+ORD13913,"Dec 12, 2024",Service Plan, 1 , 49.99 ,49,Sara Lee
+ORD71778,05/09/2024,Service Plan,4,$44.99,179.96,Sara Lee
+ORD85068,24-Jul-24,Service Plan,1,54.99,"54,99",Maria Smith
+ORD81481,09-Dec-24,Gadget Y,7, 6.04 ,"42,27",Hassan Ahmed
+ORD16707,"Sep 02, 2024",Service Plan,10,"49,99",499,Fatima Iqbal
+ORD17658,2024-09-04,Widget A,4,12.50,50.00,Sara Khan
+ORD51741,23/07/2024,Widget B,6,$17.99,129,Omar Lee
+ORD70256,09-Dec-24,Widget A,5, 13.75 ,68.75,Hassan Hussain
+ORD81871,2024-07-26,Widget A,7,12, 87.50 ,Hassan Smith
+ORD58606,2024-06-17,Gadget Y,8,4,$31.62,Zain Garcia
+ORD18562,10-03-2024,Gadget X,8,"6,30",$50.40,Ali Lee
+ORD98908,2024-08-05,Widget A,4, 12.50 ,50.00,Sara Reyes
+ORD24621,11-10-2024,Gadget Y,10, 5.49 ,54.90,John Patel
+ORD36680,03/09/2024,Gadget X,6,7,"39,90",Ayesha Smith
+ORD41991,"Dec 21, 2024",Widget B,1, 21.99 ,21.99,Ali Chen
+ORD15765,07/11/2024,Widget A,4,12.50, 60.00 ,John Ahmed
+ORD42868,"Jul 03, 2024",Service Plan,2,$49.99, 99.98 ,Hassan Reyes
+ORD30534,"Sep 10, 2024",Gadget X,10, 7.00 ,$66.50,Ayesha Reyes
+ORD49390,"Jun 29, 2024",Widget A,9,"11,25",101.25,Ali Hussain
+ORD38618,01-Aug-24,Service Plan,5,49,$249.95,John Chen
+ORD21517,2024-09-12,Gadget Y,7,5,"38,43",Ali Patel
+ORD70911,12-19-2024,Gadget X,8,$7.00,$56.00,John Garcia
+ORD91068,2024-10-21,Widget B,7, 19.99 ,$139.93,Omar Hussain
+ORD70280,11-25-2024,Gadget X,8,"7,00", 56.00 ,Hassan Reyes
+ORD54668,2024-07-01,Gadget X,2,7,15.40,Ayesha Smith
+ORD99575,2024-06-16,Gadget Y,10,5.49,$54.90,John Hussain
+ORD86395,15/08/2024,Gadget Y,9,5.49, 59.29 ,Omar Smith
+ORD31917,2024-11-27,Widget B,4,19,"79,96",Omar Reyes
+ORD83861,"Oct 10, 2024",Widget B,10,"19,99","199,90",Hassan Ahmed
+ORD14633,12-Jul-24,Service Plan,6,49.99, 299.94 ,Hassan Garcia
+ORD30801,27-Aug-24,Gadget X,7, 7.70 ,64,Omar Smith
+ORD77936,12-03-2024,Gadget Y,1,5,"5,49",Ali Chen
+ORD54928,30/06/2024,Widget A,1, 11.25 , 11.25 ,Noor Hussain
+ORD86547,28-Dec-24,WIDGET B,3,21.99, 65.97 ,Omar Iqbal
+ORD45676,01/06/2024,Gadget Y,6,6,36,Sara Ahmed
+ORD32443,06/07/2024,Widget B,3, 19.99 ,"59,97",Fatima Reyes
+ORD99312,2024-12-26,Gadget Y,7,6,"42,27",Ali Iqbal
+ORD42837,06-08-2024,Gadget Y,4,$4.94,"19,76",Maria Smith
+ORD46183,2024-06-26,Widget A,8,"13,75",$110.00,Omar Ahmed
+ORD33434,2024-12-26,Widget A,2,"11,25",22.50,Omar Reyes
+ORD27988,09-15-2024,GADGET X,10,7.70,$73.15,Hassan Lee
+ORD35755,2024-08-29,Gadget X,9,"7,00",63.00,Noor Ahmed
+ORD78326,"Aug 31, 2024",Widget B,9, 19.99 ,179.91,Sara Lee
+ORD38935,"Aug 08, 2024",Service Plan,5,49.99,"237,45",Zain Smith
+ORD80337,09-02-2024,Gadget Y,6,$5.49,"32,94",Fatima Khan
+ORD93467,08-18-2024,Gadget Y,3,"4,94", 14.82 ,Ayesha Ahmed
+ORD27410,09-Nov-24,Widget A,2,$12.50,$25.00,Fatima Reyes
+ORD48862,29/10/2024,Widget A,1,"12,50",$12.50,Hassan Patel
+ORD27441,"Sep 19, 2024",Gadget Y,10, 5.49 ,"54,90",Noor Lee  
+ORD33926,"Nov 04, 2024",Service Plan,4,"44,99",179.96,Zain Ahmed
+ORD34375,11-08-2024,GADGET X,5,"6,30",$31.50,John Patel
+ORD60052,"Jul 27, 2024",Gadget Y,4,$6.04,24,Sara Smith
+ORD41873,"Sep 14, 2024",Widget B,2, 19.99 ,39,John Lee
+ORD69703,07-09-2024,Service Plan,8,$44.99,$359.93,Zain Reyes
+ORD35716,29/11/2024,Gadget Y,10,5.49,$54.90,Fatima Iqbal
+ORD26502,09/07/2024,Widget B,6,19,"119,94",Omar Khan
+ORD20144,2024-06-21,Widget B,3,$19.99,$59.97,Maria Ahmed
+ORD55110,04/11/2024,Service Plan,1,49,49,Ali Chen
+ORD95909,2024-08-17,WIDGET B,1,$21.99,$21.99,Zain Reyes
+ORD10677,23-Jul-24,Widget A,7,$12.50,87.50,Hassan Ahmed
+ORD38260,15-Nov-24,Service Plan,9, 49.99 ,"359,93",Fatima Patel
+ORD60971,21/09/2024,Widget A,6,12,"90,00",Hassan Khan
+ORD87314,"Jun 13, 2024",Gadget Y,5,5, 27.45 ,Fatima Hussain
+ORD56601,"Jul 20, 2024",Widget A,10, 12.50 , 150.00 ,Maria Patel
+ORD76661,06/12/2024,WIDGET B,5,19.99,$99.95,Sara Lee
+ORD29332,2024-08-22,Gadget Y,7,6,"42,27",John Lee
+ORD15998,02/10/2024,Widget B,1, 19.99 , 23.99 ,Sara Ahmed
+ORD60653,"Jun 23, 2024",Service Plan,5, 44.99 ,213.71,Fatima Chen  
+ORD62570,"Aug 31, 2024",Widget B,4,$19.99,$79.96,Zain Lee
+ORD85813,"Jul 13, 2024",GADGET X,1,6.30,"5,04",Maria Lee
+ORD62608,08-29-2024,Gadget X,4,$7.00,28.00,Maria Reyes
+ORD58640,09-Jun-24,Widget A, 1 ,13.75,"13,75",Ali Ahmed
+ORD60309,06-Sep-24,Gadget X, 10 ,$7.00,70,Ayesha Iqbal
+ORD20032,10-08-2024,Gadget Y,9,$4.94, 44.47 ,Ali Garcia
+ORD65632,"Nov 29, 2024",Gadget Y,9,"5,49", 39.53 ,Zain Reyes
+ORD36160,11/09/2024,Gadget Y,1,$6.04,"4,83",Maria Lee
+ORD71919,29/09/2024,Gadget X,6, 7.70 ,46,Maria Smith
+ORD90472,"Sep 22, 2024",Gadget X,9,"6,30", 56.70 ,Sara Lee
+ORD96145,05-Jul-24,Widget B,8,19,159,Omar Khan
+ORD32311,08-Nov-24,Widget A,10,11,106.88,Omar Hussain
+ORD64421,07/10/2024,Service Plan,10,$44.99,"449,91",Fatima Iqbal
+ORD32557,"Nov 08, 2024",Widget A,1, 12.50 ,$12.50,Zain Smith
+ORD51390,28-Jul-24,Gadget X, 7 ,"7,00","49,00",John Khan
+ORD12296,08-18-2024,GADGET X,8, 6.30 ,50,Ayesha Iqbal
+ORD87216,09-06-2024,Gadget Y,2,"6,04","12,08",Noor Lee
+ORD49743,13/08/2024,Gadget X,8,"7,70", 58.52 ,John Garcia
+ORD86594,06-07-2024,Widget B,9,$21.99,197,Ayesha Iqbal
+ORD89985,"Aug 14, 2024",Widget B,10,17.99,179.91,Ayesha Lee
+ORD97655,"Oct 18, 2024",Widget B,10,"17,99",179.91,Zain Garcia
+ORD29482,06-10-2024,Widget B,10,17, 170.91 ,Omar Garcia
+ORD80999,04/09/2024,Widget A,4,11, 45.00 ,Omar Khan
+ORD74892,19/07/2024,Widget A,6, 12.50 , 75.00 ,Noor Ahmed
+ORD16506,"Aug 31, 2024",SERVICE PLAN,2, 49.99 ,"94,98",Ayesha Khan  
+ORD39253,2024-06-27,Service Plan, 10 , 49.99 , 399.92 ,Zain Lee
+ORD84496,"Sep 27, 2024",Widget A,3,13.75,"39,19",Ali Ahmed
+ORD85847,17-Sep-24,Widget B,8,21,184,Ayesha Iqbal
+ORD43506,2024-06-01,Gadget Y,3, 5.49 ,"17,29",Sara Iqbal
+ORD55054,07-30-2024,Gadget X,4,"7,00",28.00,Ayesha Chen
+ORD72476,14/11/2024,Gadget Y,5, 5.49 ,28,Ayesha Chen
+ORD68816,2024-08-22,WIDGET B,3,19.99, 59.97 ,Fatima Chen
+ORD72929,02/07/2024,Service Plan,6,"49,99",$299.94,Maria Khan
+ORD99284,07-22-2024,Gadget Y,1,6.04,"6,04",John Garcia
+ORD35168,2024-06-24,Widget B,4,$19.99,83,Omar Hussain
+ORD50924,"Oct 06, 2024",Gadget X,9,6.30, 56.70 ,Hassan Ahmed
+ORD65247,2024-07-03,WIDGET B,8,19.99,$159.92,Fatima Reyes
+ORD87011,18/12/2024,Gadget X,8, 7.00 ,56.00,Sara Chen
+ORD61993,2024-12-01,Widget A, 10 ,12.50,131,John Lee
+ORD55710,"Dec 17, 2024",Widget A,9, 13.75 ,123,John Chen
+ORD11103,"Dec 10, 2024",Widget A,8,"12,50",$100.00,John Patel
+ORD78062,07-09-2024,GADGET Y,8,"6,04",48.31,Zain Lee
+ORD88463,29/07/2024,Gadget Y,6,5, 32.94 ,John Chen
+ORD50033,14/08/2024,Gadget Y,3,"5,49","16,47",Zain Smith  
+ORD32872,20/12/2024,Widget A,10,$13.75,137,Ayesha Lee
+ORD28704,22-Jun-24,Widget A,2,12.50,$25.00,John Garcia
+ORD69746,2024-06-05,Widget B,4,"21,99",$87.96,Maria Smith
+ORD19209,31-Jul-24,Gadget X,1,$7.00,$7.00,Hassan Chen
+ORD70177,2024-06-04,Gadget Y,8,5,35,Sara Ahmed
+ORD13634,2024-12-06,Service Plan,5,$44.99, 224.95 ,Maria Smith
+ORD22356,08-30-2024,Service Plan,3,"49,99",149,Omar Smith
+ORD69299,05/06/2024,Widget B,2, 19.99 ,37.98,Noor Chen
+ORD43279,2024-08-01,Widget A,7,$12.50,"87,50",John Khan
+ORD35837,05-Aug-24,Widget A,9,13,123,Omar Lee
+ORD83567,2024-06-14,SERVICE PLAN,6,$54.99,329,Zain Reyes
+ORD89919,"Nov 20, 2024",Widget A,6,$11.25,"81,00",Omar Lee
+ORD29619,26-Sep-24,Widget B,3, 17.99 , 56.67 ,Ayesha Khan
+ORD76103,28-Aug-24,Widget A,7,13.75, 77.00 ,Sara Lee
+ORD35023,2024-10-28,Service Plan,3,$49.99,149.97,Ali Chen
+ORD47240,"Aug 07, 2024",Service Plan,6,49,$299.94,Ayesha Chen
+ORD91846,01/07/2024,Service Plan,4,49.99,"199,96",Hassan Hussain
+ORD44134,2024-07-09,SERVICE PLAN,4,"44,99",$179.96,John Reyes
+ORD52507,10-30-2024,SERVICE PLAN,1,54, 57.74 ,John Ahmed
+ORD74655,"Jul 06, 2024",Service Plan,8,49, 399.92 ,Zain Ahmed
+ORD64978,29-Sep-24,Gadget X,10,$6.30,$63.00,Noor Reyes
+ORD66549,16-Nov-24,Widget A,9,13,"123,75",John Chen
+ORD89333,12-Oct-24,Widget A,9,$12.50, 112.50 ,Hassan Garcia
+ORD39771,20-Aug-24,Service Plan,5,$49.99,199,Fatima Reyes
+ORD68132,"Oct 26, 2024",Service Plan,4, 44.99 ,$179.96,Ali Patel
+ORD32607,25-Oct-24,Gadget Y,2,5.49,10,Maria Lee
+ORD76170,"Dec 01, 2024",Service Plan,10,49,474.91,Hassan Reyes
+ORD18790,2024-11-25,Gadget X,8, 7.00 , 56.00 ,Maria Smith
+ORD90098,"Jun 03, 2024",WIDGET B,4,19.99,79.96,Ali Lee
+ORD13403,2024-10-17,Gadget Y,2,4,9,Fatima Ahmed
+ORD51140,10-17-2024,Service Plan, 7 ,"54,99","404,17",Noor Hussain  
+ORD69422,19-Sep-24,Gadget X,8,6, 50.40 ,Noor Reyes
+ORD60321,09-Oct-24,Gadget Y,3, 4.94 ,"14,82",Omar Garcia
+ORD12738,2024-12-25,Gadget Y,2,"4,94",9,Omar Garcia
+ORD73107,09-26-2024,Widget A,10,13.75,$137.50,Maria Patel
+ORD74142,04/09/2024,Gadget Y,3, 5.49 ,16,Maria Smith
+ORD78117,06/10/2024,Service Plan,8,$49.99,"399,92",Ayesha Hussain
+ORD21109,2024-12-24,Widget B,8,17.99,151,Ayesha Hussain
+ORD74569,16/06/2024,Gadget X,3,7.00, 21.00 ,Ali Khan
+ORD20898,01-Sep-24,Service Plan,2,"49,99", 99.98 ,Sara Ahmed
+ORD27001,06-09-2024,Widget B,10, 19.99 ,199.90,Hassan Garcia
+ORD40155,09-Nov-24,Service Plan,10,49.99,"599,88",Ayesha Lee
+ORD52561,"Jun 26, 2024",Service Plan,10, 49.99 ,499.90,Noor Lee
+ORD33913,29-Oct-24,WIDGET A, 8 ,12.50,100.00,Omar Garcia
+ORD58305,24/11/2024,Service Plan, 1 ,$49.99,$49.99,Fatima Chen
+ORD24677,"Aug 14, 2024",Widget B,2,$19.99, 39.98 ,Zain Garcia
+ORD45659,06-05-2024,Service Plan,9,$49.99,449.91,Maria Khan
+ORD45462,2024-08-15,Widget A,1, 13.75 ,$13.75,Ali Iqbal
+ORD59748,"Jun 13, 2024",Gadget Y, 6 ,$5.49, 32.94 ,Ali Khan
+ORD96243,"Jun 14, 2024",Widget B,8,"19,99",159.92,Zain Reyes
+ORD57905,14-Dec-24,Gadget Y,2,"4,94",9,Ayesha Reyes
+ORD79748,2024-12-10,Gadget Y,4,"4,94","18,78",Fatima Reyes
+ORD46873,09-28-2024,Gadget X,8,$7.00,"56,00",Zain Reyes
+ORD98665,23-Oct-24,Gadget Y,5,$6.04,30,John Ahmed
+ORD18383,07-16-2024,Gadget X,7,$7.70, 53.90 ,Ayesha Chen
+ORD29719,"Sep 04, 2024",Gadget X,1, 7.00 ,"7,00",Hassan Khan  
+ORD91297,"Sep 25, 2024",Service Plan,4,"54,99","263,95",Ayesha Iqbal
+ORD28526,20-Nov-24,Gadget X,3,7.00,"21,00",Hassan Iqbal
+ORD36530,12-09-2024,Widget B,10,$21.99,230.88,Omar Khan
+ORD72429,"Nov 20, 2024",Widget B,6,$17.99,107.95,Ali Patel
+ORD58454,2024-06-15,Service Plan,2, 49.99 , 99.98 ,Sara Lee
+ORD53251,11-Aug-24,Gadget Y,6,"5,49",39,Maria Reyes
+ORD45872,10-27-2024,Gadget X,1,$7.00,7,Ayesha Reyes
+ORD89881,10-05-2024,Gadget X,9,$7.70,"69,30",Ali Patel
+ORD95430,08/06/2024,Service Plan,1,44,$44.99,John Hussain
+ORD30679,09-23-2024,Gadget Y,10, 4.94 ,$49.41,Ayesha Reyes
+ORD21929,"Oct 26, 2024",Gadget X,7, 6.30 ,"44,10",Omar Lee  
+ORD97424,2024-07-27,Widget A,6, 12.50 , 75.00 ,Ali Chen
+ORD29961,2024-09-25,Gadget Y,8,4,39,Sara Smith
+ORD85814,2024-06-27,Service Plan,1, 44.99 , 53.99 ,Ali Hussain
+ORD55316,07-24-2024,Gadget Y,7,$5.49,"46,12",Hassan Smith
+ORD30925,17/06/2024,Gadget Y,1,5.49,5.49,Ayesha Hussain
+ORD28893,15-Nov-24,Widget B,7,19,"111,94",Noor Chen
+ORD50018,"Jul 13, 2024",Gadget Y,8,"5,49",43,Zain Smith
+ORD58719,2024-08-18,Gadget X,7,"7,00",$49.00,Noor Chen
+ORD79557,2024-08-28,WIDGET B,4,$19.99,79,Noor Ahmed
+ORD37666,2024-09-21,Widget A,9,$13.75,"123,75",Noor Reyes
+ORD66696,26-Aug-24,Widget A,9,"12,50", 112.50 ,John Ahmed
+ORD52117,07-03-2024,Gadget Y,4,$5.49,$21.96,John Hussain
+ORD20839,"Sep 18, 2024",Gadget X,5,$7.70,$38.50,Noor Ahmed
+ORD70020,2024-12-23,Service Plan,6,$49.99,299.94,Sara Ahmed
+ORD47057,"Dec 30, 2024",Service Plan,8,49, 399.92 ,Ayesha Reyes
+ORD91523,2024-10-08,Service Plan,7,$49.99, 332.43 ,Noor Lee
+ORD63995,"Nov 19, 2024",Service Plan,8, 49.99 ,379.92,Sara Smith
+ORD46653,"Dec 13, 2024",WIDGET A,1, 12.50 ,"12,50",Omar Lee
+ORD18531,11-01-2024,WIDGET A,4,$12.50,50,Hassan Garcia
+ORD84725,"Dec 12, 2024",Gadget Y,7,$5.49,38.43,Fatima Ahmed
+ORD94720,12-Oct-24,Widget A,2, 11.25 ,22,Zain Patel
+ORD24116,18/10/2024,Gadget Y,3, 5.49 ,$16.47,Sara Iqbal
+ORD16626,2024-11-26,Widget A,10,12.50, 125.00 ,Ayesha Chen
+ORD43604,"Jul 18, 2024",Widget B,9,17.99,$161.92,Maria Garcia
+ORD88696,05-Sep-24,Gadget Y,7, 5.49 ,38.43,Sara Ahmed
+ORD68536,01-Aug-24,Gadget Y,10,4.94,"49,41",Noor Iqbal
+ORD83061,14-Jul-24,Service Plan,7,"49,99",$349.93,Hassan Patel
+ORD55001,10-30-2024,Service Plan,2, 49.99 ,$79.98,John Smith
+ORD21983,25/12/2024,Widget A,10, 12.50 ,125,Hassan Khan  
+ORD96683,07-13-2024,Gadget X,2,7,15,Zain Patel
+ORD50690,24-Aug-24,Widget B,7, 21.99 ,$153.92,Zain Lee
+ORD54350,2024-07-31,Widget B,1,"19,99","15,99",Noor Khan
+ORD96743,27-Oct-24,Gadget X,8,$6.30, 50.40 ,Omar Chen
+ORD56042,2024-10-04,Service Plan,8,"49,99", 319.94 ,Sara Lee
+ORD30176,"Oct 23, 2024",Widget A,1, 13.75 ,13,Ali Lee
+ORD96303,10-07-2024,Widget A,7,$13.75,"96,25",Sara Chen
+ORD48827,2024-12-14,GADGET X,9, 7.70 ,69,Maria Smith
+ORD54220,20-Oct-24,WIDGET A, 10 , 12.50 ,"150,00",Zain Garcia
+ORD59722,06/06/2024,Gadget Y,9,$6.04, 54.35 ,Noor Smith
+ORD51457,11/10/2024,Gadget Y,7,6.04, 42.27 ,Sara Patel
+ORD81740,"Nov 01, 2024",Gadget Y,7,"6,04",42,Fatima Reyes
+ORD79930,11/07/2024,Service Plan, 4 ,"49,99",199,Maria Hussain
+ORD74398,04/07/2024,Gadget Y,7, 4.94 ,"32,86",Hassan Chen
+ORD76879,10-11-2024,Widget B,8,"17,99","143,93",Ali Patel
+ORD14359,12-25-2024,Gadget Y,4,6.04,"24,16",John Patel
+ORD15634,09-Jun-24,Gadget X,4,$7.00,$28.00,Omar Lee
+ORD77741,09-18-2024,WIDGET B,9,$17.99,"161,92",Zain Garcia
+ORD29254,10-29-2024,GADGET Y,7,5,38.43,Sara Chen
+ORD56430,07/09/2024,Service Plan,7,"49,99","349,93",Sara Garcia
+ORD68180,"Jul 03, 2024",SERVICE PLAN,4, 49.99 ,199.96,Ayesha Reyes
+ORD94271,12-05-2024,Gadget Y,10, 5.49 ,$54.90,Ayesha Chen
+ORD74561,12-Jun-24,Gadget X,1, 7.70 ,7.32,Fatima Reyes
+ORD89970,23-Aug-24,Gadget Y,5,$5.49,27,Ali Iqbal
+ORD64036,2024-06-12,Gadget Y,5,"5,49","27,45",Noor Khan
+ORD72212,06-Nov-24,Widget A,6, 12.50 ,"60,00",Noor Reyes
+ORD87433,06/07/2024,Service Plan,10,54, 439.91 ,Sara Khan
+ORD93272,10/07/2024,Gadget X,3,"7,70", 23.10 ,Fatima Khan
+ORD79363,"Nov 08, 2024",Widget B,8,"17,99",143,John Ahmed
+ORD63166,29-Aug-24,Widget B,4,"21,99","87,96",John Ahmed
+ORD14668,24/07/2024,Widget A,6,$12.50, 75.00 ,Sara Smith
+ORD11736,14/08/2024,Service Plan,5,"49,99", 249.95 ,Ali Khan
+ORD97302,28/08/2024,GADGET Y,2,$5.49,13.18,Fatima Garcia
+ORD54983,"Sep 22, 2024",Gadget X,7,$7.00,$49.00,Hassan Reyes
+ORD52626,30/12/2024,Gadget X,9,7.00,$50.40,Ayesha Smith
+ORD96494,10-Jul-24,Gadget Y,9,4.94,"44,47",Sara Patel
+ORD87276,"Nov 02, 2024",Widget A,8, 12.50 ,100,Ayesha Hussain
+ORD58327,09-29-2024,Widget B,2,19.99,"41,98",Noor Khan
+ORD88142,03/11/2024,GADGET X,7,7,53,Sara Reyes
+ORD19932,11-28-2024,Gadget X,2,7.70,15.40,Ayesha Lee
+ORD97981,21/11/2024,Gadget Y,3,"6,04",18.12,Ayesha Ahmed  
+ORD65772,07-10-2024,Gadget X,5,$7.00,$35.00,Zain Ahmed
+ORD70960,17/07/2024,Gadget Y, 1 ,5.49,5.49,John Patel  
+ORD82811,10-28-2024,Widget A,7,13, 115.50 ,Zain Garcia
+ORD59467,2024-06-26,WIDGET A,6,$11.25,$67.50,John Khan
+ORD52315,"Oct 10, 2024",Service Plan,2,44,"89,98",Ali Iqbal
+ORD87341,"Aug 28, 2024",Widget B,6, 19.99 ,$119.94,Sara Khan
+ORD46476,07-30-2024,Gadget Y, 3 ,"5,49",16.47,Ali Lee
+ORD44721,2024-12-17,Widget B,4, 19.99 , 79.96 ,Fatima Lee
+ORD15710,31/07/2024,Gadget X,9,"7,00","63,00",Zain Reyes
+ORD46863,08-15-2024,Service Plan,8, 44.99 ,$359.93,Maria Hussain
+ORD83859,2024-06-13,SERVICE PLAN,10,54.99, 549.89 ,Sara Iqbal
+ORD93576,12-30-2024,Gadget X,6,"7,70", 46.20 ,Zain Iqbal
+ORD76678,09-27-2024,Service Plan,6, 44.99 ,$269.95,Ali Patel
+ORD44426,07/11/2024,WIDGET A,5,"12,50",$62.50,Hassan Chen
+ORD22185,13/10/2024,Gadget Y,4,6,24,Noor Lee
+ORD86128,2024-08-03,Widget A,8,12.50,"100,00",Noor Ahmed
+ORD93599,13-Oct-24,Widget A,5,"11,25", 56.25 ,Ayesha Ahmed
+ORD97437,07-05-2024,Widget B,4,$19.99,"79,96",Zain Smith
+ORD15855,18/09/2024,Gadget X,3,$7.00,21,Hassan Smith
+ORD47676,10-Jun-24,Gadget Y,10,$4.94,49.41,Ali Reyes
+ORD73267,12-27-2024,Widget B,1,$19.99,"15,99",Maria Ahmed
+ORD18251,23/11/2024,Gadget Y,8,$5.49,43.92,Ayesha Smith
+ORD73945,"Jun 19, 2024",Service Plan,1, 44.99 , 44.99 ,Fatima Patel
+ORD29198,31/12/2024,Service Plan,1,49,49,Omar Smith
+ORD52323,12-25-2024,Gadget X,9,$7.00,"63,00",Sara Iqbal
+ORD42320,05/12/2024,Gadget X,5,$7.70,$38.50,John Patel
+ORD43085,20-Jul-24,Widget A,2,12,$25.00,Omar Garcia
+ORD41491,12-17-2024,Service Plan,1,"49,99",$49.99,Ayesha Lee
+ORD95688,2024-06-21,Service Plan, 1 ,$44.99,44.99,Sara Khan
+ORD22868,"Jul 16, 2024",Service Plan,10, 49.99 , 499.90 ,Sara Iqbal
+ORD27432,12/06/2024,Service Plan,2,$54.99,109.98,Maria Iqbal
+ORD26561,2024-07-22,Widget B,9, 19.99 ,"170,91",Omar Patel
+ORD46925,07-07-2024,GADGET X,9, 7.00 ,75.60,Ali Reyes
+ORD71279,10/11/2024,Widget A,9,12.50, 112.50 ,John Ahmed
+ORD77281,04/08/2024,Gadget Y,9,"6,04",43.48,Omar Chen
+ORD39607,24-Jul-24,GADGET Y,6,4,$29.65,Sara Patel
+ORD26317,05-Aug-24,Widget B,8, 19.99 ,$159.92,Fatima Iqbal
+ORD33242,13-Aug-24,Service Plan,4, 49.99 , 199.96 ,Maria Reyes
+ORD14369,"Aug 13, 2024",Service Plan,2,49.99,$99.98,Maria Reyes
+ORD13839,08-07-2024,Gadget X,2,$7.00,"14,00",Hassan Reyes
+ORD25483,10-23-2024,Widget B,9,"19,99","179,91",Noor Patel
+ORD28264,10-02-2024,Gadget Y, 10 ,$4.94,"49,41",Noor Garcia
+ORD31192,03-Aug-24,Widget B,6,19,$119.94,John Smith
+ORD91992,28-Dec-24,Service Plan,5,49,249,Fatima Lee
+ORD43138,21-Jun-24,Widget B,2,19,39,John Iqbal
+ORD65011,10/09/2024,Widget B,8,"19,99",$191.90,Ali Smith
+ORD50576,2024-08-19,Widget B,3,17,"53,97",Ali Ahmed
+ORD75386,09-Jul-24,Widget B,3,$19.99,"59,97",Maria Patel
+ORD80255,25-Jun-24,Gadget X,1,7,7.00,Ayesha Garcia
+ORD81283,"Aug 25, 2024",Gadget Y,3,$5.49, 16.47 ,Maria Reyes
+ORD32108,12-21-2024,Widget A,2, 13.75 ,27.50,Ali Khan
+ORD80470,23-Jun-24,Gadget Y,8, 5.49 ,43,Fatima Chen
+ORD22465,2024-06-04,Widget A,8,12,100,Ali Lee
+ORD26561,01/12/2024,Gadget X,8, 6.30 ,50,Sara Patel
+ORD53148,30/08/2024,Service Plan,5,$44.99,224.95,Noor Ahmed
+ORD79770,27/09/2024,Gadget X,4,$7.00, 28.00 ,Hassan Garcia
+ORD68774,2024-06-05,GADGET Y,8,5,43,Zain Iqbal
+ORD81673,2024-08-27,Widget A,8,"13,75",110,Fatima Lee
+ORD29654,2024-12-11,Gadget Y,1,4,3,Hassan Patel
+ORD62028,"Jun 28, 2024",Gadget X,3,7,22.05,Zain Chen
+ORD31990,"Dec 13, 2024",Widget B,7,19,139.93,John Patel
+ORD29995,27-Aug-24,Gadget X,2,"7,70", 15.40 ,John Lee
+ORD72933,21/08/2024,Widget B,4,19.99,$79.96,Sara Khan
+ORD99430,"Sep 18, 2024",Gadget X,9,7.00, 63.00 ,Fatima Reyes  
+ORD38114,06-12-2024,Gadget X,4,7.00, 28.00 ,Maria Iqbal
+ORD13295,11-Sep-24,Gadget X,3,7,23.10,Ayesha Garcia
+ORD59374,"Sep 19, 2024",Gadget Y,3,5,13.18,Fatima Smith
+ORD31940,"Dec 30, 2024",Service Plan,6,54.99,329,Zain Smith
+ORD17500,"Nov 12, 2024",Widget A,10,12,$150.00,Ali Hussain
+ORD77843,06-07-2024,Widget B,1,21,21.99,Fatima Iqbal
+ORD11752,08-08-2024,Gadget X,9,7,63.00,Sara Ahmed
+ORD55005,06-Aug-24,Service Plan,10, 49.99 ,499.90,Maria Hussain
+ORD17917,07-19-2024,Widget B,5,19, 99.95 ,Omar Garcia  
+ORD89279,08-06-2024,Widget A,6,12, 71.25 ,Zain Iqbal
+ORD62016,30-Sep-24,GADGET X,4,7.00, 28.00 ,Omar Khan
+ORD48956,13-Jul-24,SERVICE PLAN,8, 49.99 ,319,Sara Patel
+ORD67084,26/10/2024,Widget A,5,12,"62,50",Maria Khan
+ORD30848,11-06-2024,Service Plan,2,44.99,89.98,Hassan Reyes
+ORD96492,2024-10-08,WIDGET A, 1 ,"12,50",12,Ayesha Ahmed
+ORD45033,19-Oct-24,Service Plan,5,49.99,249.95,Ayesha Patel
+ORD97357,07-21-2024,Gadget X,2,7.00,$16.80,Hassan Chen
+ORD99414,01-Dec-24,SERVICE PLAN,7,"49,99",279,Noor Smith
+ORD27923,2024-12-29,Gadget Y,6,$5.49,32.94,John Chen
+ORD44783,12-06-2024,Gadget X,6,7,42,Ali Ahmed
+ORD29186,17-Jun-24,Gadget X,5,7,35.00,Maria Patel
+ORD10305,"Aug 17, 2024",Service Plan,3, 44.99 ,134.97,Ali Iqbal
+ORD27741,2024-08-30,Widget B,2, 19.99 ,37,John Lee
+ORD21107,2024-07-15,Service Plan,2,"54,99","109,98",Noor Smith
+ORD25619,10-20-2024,Gadget X,7, 7.70 ,"53,90",Noor Chen  
+ORD61559,"Oct 20, 2024",Gadget Y,1, 4.94 ,4,Omar Iqbal
+ORD31648,"Jun 11, 2024",Gadget Y,7, 5.49 ,38.43,Omar Hussain
+ORD53969,07-28-2024,Service Plan,4,"54,99", 219.96 ,Ali Iqbal
+ORD97266,2024-11-08,Service Plan, 7 ,44.99,314.94,Fatima Ahmed  
+ORD59490,"Nov 30, 2024",Widget A,8,"12,50",100,Maria Garcia
+ORD93234,18-Dec-24,Widget A,5,12,"62,50",Sara Hussain
+ORD45307,03-Jul-24,Gadget X,7,$7.00,$39.20,Omar Ahmed
+ORD44050,2024-07-04,Service Plan,9,$49.99,449,Maria Khan
+ORD95538,2024-06-02,Service Plan,1,49.99,49.99,Hassan Iqbal
+ORD21693,"Jul 19, 2024",Widget B,3,19.99,59,Maria Khan
+ORD48587,19-Nov-24,Widget A,10,"12,50", 125.00 ,Hassan Iqbal
+ORD98201,2024-07-29,Service Plan,4, 49.99 ,239.95,Noor Ahmed
+ORD44472,21-Nov-24,Widget B,2,$21.99, 46.18 ,Hassan Garcia
+ORD81232,07-28-2024,Gadget Y,4, 4.94 ,$23.72,Noor Patel
+ORD30978,2024-12-25,Gadget X,9,6.30,56,Ayesha Chen
+ORD95650,2024-06-01,Service Plan,8,49,399,Noor Ahmed
+ORD89925,"Sep 19, 2024",Widget A,1,13.75,$14.44,Hassan Iqbal
+ORD86290,"Sep 11, 2024",Gadget Y,5,4.94,"23,47",Ayesha Smith
+ORD98099,07/08/2024,GADGET X,8, 7.00 ,"56,00",Zain Khan
+ORD95485,2024-09-28,GADGET Y,3, 5.49 , 16.47 ,Omar Hussain
+ORD49209,11-24-2024,Service Plan,1, 49.99 ,"49,99",John Patel
+ORD40649,11-14-2024,Gadget X,10,7.70, 80.85 ,Hassan Iqbal
+ORD68394,07-23-2024,Gadget X,3,$7.70,"23,10",Fatima Smith
+ORD93221,06-10-2024,Widget B,1,19,$15.99,Zain Hussain
+ORD24417,2024-09-24,Gadget X,5,$7.00, 35.00 ,Maria Khan  
+ORD63931,2024-12-02,Widget A,9,11,121,Sara Hussain
+ORD93746,12-20-2024,Gadget X,5,7.00,35,Ali Garcia
+ORD80017,2024-07-08,WIDGET B,2,21,43.98,Noor Lee
+ORD11185,12/09/2024,Gadget Y,6,"4,94",29,Omar Reyes
+ORD85780,11-26-2024,Widget A,10,12,"125,00",Sara Iqbal
+ORD60280,"Dec 27, 2024",Gadget Y,7,6, 42.27 ,Noor Reyes
+ORD67509,2024-11-20,Service Plan,8,"54,99",439,Fatima Lee
+ORD39954,2024-07-31,Gadget X,2, 6.30 ,"12,60",Zain Patel
+ORD73618,30/06/2024,Widget A,9,12,"90,00",Sara Chen
+ORD80056,"Aug 25, 2024",Gadget X,9,"7,00", 63.00 ,Omar Hussain
+ORD25883,2024-12-07,Service Plan,6,49,314.94,Sara Lee
+ORD82180,16-Jun-24,Gadget Y,2,"5,49",$8.78,Omar Patel
+ORD12645,01/07/2024,Widget B, 1 ,"19,99","19,99",Ali Hussain
+ORD59924,28/10/2024,Gadget Y,4,6.04,$24.16,Maria Ahmed
+ORD64490,11-26-2024,Widget A,3,11.25,33.75,John Khan
+ORD47590,02-Dec-24,Widget B,10,$21.99,"219,89",Maria Hussain
+ORD56215,"Jul 21, 2024",Service Plan,7,44,$314.94,Hassan Iqbal
+ORD20162,2024-10-10,Widget B,5,21.99,"109,95",Ayesha Patel
+ORD82648,2024-11-23,Service Plan,6, 44.99 ,"269,95",Ayesha Chen
+ORD27733,08-19-2024,Widget B,9,17.99, 161.92 ,Ali Ahmed
+ORD72750,"Nov 12, 2024",Gadget Y,2,$5.49, 10.98 ,Fatima Reyes
+ORD97114,01-Jun-24,GADGET X,4,"6,30",25,Ali Lee
+ORD40104,06-03-2024,Service Plan,2,44.99,$89.98,Ali Patel
+ORD79440,"Sep 11, 2024",SERVICE PLAN,3,44.99,$134.97,Maria Patel
+ORD94267,2024-11-19,Gadget X,1,7, 8.40 ,Hassan Iqbal
+ORD14982,"Jul 15, 2024",Gadget Y,10,6,$60.39,Fatima Garcia
+ORD46012,2024-11-20,Widget B,3,21.99, 79.16 ,Zain Patel
+ORD25298,21-Jul-24,Gadget Y,6,$5.49,"32,94",Noor Ahmed
+ORD94553,"Sep 13, 2024",Widget B,1, 17.99 ,$17.99,Maria Khan
+ORD11987,10-02-2024,Widget A,4, 12.50 ,52.50,Ayesha Khan
+ORD28538,"Nov 14, 2024",Widget B,3,"21,99","65,97",Ayesha Lee
+ORD18050,27-Jun-24,Service Plan,6,"49,99",299.94,Hassan Garcia
+ORD27338,"Sep 24, 2024",Gadget X,6, 7.70 ,46,Fatima Khan
+ORD66407,26-Jun-24,Widget B,10, 17.99 , 179.91 ,Noor Garcia
+ORD43611,08-31-2024,Service Plan,10,44,"449,91",Sara Garcia
+ORD67163,"Dec 12, 2024",Service Plan,1,"49,99",59,Sara Patel
+ORD38903,24/07/2024,Service Plan,4,"49,99", 199.96 ,John Chen
+ORD93687,24/12/2024,Service Plan,9,44,"323,94",Zain Hussain
+ORD44940,"Sep 03, 2024",Gadget X,4,7,$33.60,Hassan Reyes
+ORD74087,2024-09-11,Widget B,1,"17,99","17,09",John Smith
+ORD32996,31-Aug-24,Widget A,2,12,$25.00,Hassan Smith
+ORD26571,11-Jun-24,GADGET X,2,7,14,Noor Hussain
+ORD52441,14-Nov-24,Widget A,1,12,"13,12",John Khan
+ORD87259,04/11/2024,Service Plan,3,$44.99,"134,97",Sara Garcia
+ORD12832,06-Jul-24,Gadget Y,5,4,"24,71",Ayesha Iqbal
+ORD90338,2024-09-06,Gadget Y,3,4, 14.82 ,Ayesha Ahmed  
+ORD86633,"Oct 26, 2024",Service Plan,8,$44.99, 359.93 ,Hassan Smith
+ORD19479,23/12/2024,Gadget Y,3, 5.49 ,"16,47",Hassan Ahmed
+ORD30665,2024-11-11,Gadget X,6,7.00, 42.00 ,Hassan Smith
+ORD86571,11-26-2024,Widget A,6, 12.50 ,75.00,Ayesha Reyes
+ORD50382,05/07/2024,Gadget Y,10,"5,49",54.90,Ayesha Lee
+ORD67091,05/06/2024,SERVICE PLAN,8,"49,99",399,Sara Chen
+ORD82310,12-21-2024,Widget B,10, 19.99 ,$199.90,Fatima Chen
+ORD96804,2024-11-19,Service Plan,4,$49.99,"199,96",John Chen
+ORD20003,"Jun 17, 2024",Gadget Y,8,"4,94","39,53",Ayesha Smith
+ORD99732,2024-07-24,Gadget X,7,$7.70, 53.90 ,Fatima Smith
+ORD34286,21-Dec-24,Widget B,7,"19,99",132,Noor Patel  
+ORD39069,18/11/2024,Gadget Y,5,"6,04","30,20",Hassan Lee
+ORD81206,10/09/2024,Widget B,10,"21,99","219,89",Noor Smith
+ORD64464,23/07/2024,Gadget Y,1, 6.04 ,6.04,Maria Lee
+ORD99847,24-Sep-24,Gadget Y,7,5, 38.43 ,Fatima Lee
+ORD88843,13-Jul-24,Service Plan,2,"49,99", 99.98 ,John Smith
+ORD30617,11-24-2024,Gadget Y,9,"6,04", 54.35 ,Sara Reyes
+ORD89630,09-06-2024,Widget A,5,12.50, 62.50 ,Fatima Smith
+ORD79212,11/10/2024,Service Plan,3,"49,99",$149.97,John Khan
+ORD21070,08-23-2024,Service Plan,5,49,249,Sara Reyes
+ORD67646,"Dec 13, 2024",Service Plan,9,54,494,Ali Lee
+ORD16791,"Sep 18, 2024",Gadget Y,3,6,18,John Ahmed
+ORD13046,03/12/2024,Widget B,1, 17.99 ,$17.99,Noor Hussain
+ORD32921,"Sep 04, 2024",WIDGET A,4,$12.50,47,Zain Garcia  
+ORD61279,28/07/2024,Service Plan,1,49,39.99,Fatima Patel
+ORD85243,11-13-2024,Widget A,1,$12.50,$12.50,John Khan
+ORD25272,2024-11-06,Gadget Y,5, 5.49 ,"27,45",John Chen
+ORD43000,02-Oct-24,Gadget X,9,7.00,$59.85,Fatima Smith  
+ORD51021,03/06/2024,Service Plan,2,$49.99,99.98,Omar Lee
+ORD52570,30-Jun-24,Gadget X,4,$7.70,30.80,Maria Smith  
+ORD76249,12-Nov-24,Widget B,8,19.99,"159,92",John Lee  
+ORD48810,09-30-2024,Service Plan,5,$49.99, 262.45 ,John Smith
+ORD51031,2024-10-09,Widget A,5,"11,25", 67.50 ,Ayesha Chen
+ORD63453,10-Sep-24,WIDGET B,7,"21,99","146,23",Ali Smith
+ORD95213,2024-08-01,Gadget Y,7,$5.49,38.43,Fatima Chen
+ORD55685,24/07/2024,Widget B,2,19.99,39.98,Zain Ahmed
+ORD37181,15-Jul-24,Widget A,3,11,$33.75,Omar Khan
+ORD10556,"Jun 24, 2024",Widget B,4,"19,99",79.96,Omar Garcia
+ORD63912,"Oct 28, 2024",Widget B,10, 19.99 ,$199.90,Ayesha Garcia
+ORD81328,16/12/2024,Gadget Y, 4 , 5.49 ,$21.96,Fatima Ahmed
+ORD80897,22-Dec-24,Widget B,6, 19.99 ,119,Fatima Ahmed
+ORD50819,"Nov 14, 2024",Gadget X,6,7.00,42.00,Maria Iqbal
+ORD62814,2024-10-07,Widget B,9,21.99,$197.90,Omar Lee
+ORD22587,"Aug 03, 2024",Widget A,10,13, 137.50 ,Fatima Garcia
+ORD45169,"Dec 21, 2024",WIDGET B,6,19, 119.94 ,Fatima Chen
+ORD82724,"Oct 02, 2024",Gadget X,1,6, 7.56 ,Maria Ahmed
+ORD44137,12-18-2024,Gadget X,4,$6.30,$25.20,Sara Smith
+ORD88159,12-Dec-24,Service Plan,9,"49,99","449,91",Sara Ahmed
+ORD15369,23/09/2024,Gadget Y,5,$6.04,28,Zain Hussain
+ORD64126,15-Aug-24,Service Plan,3,49.99,157.47,Ali Garcia
+ORD81319,21-Jul-24,Service Plan,6,44.99,$283.44,Ayesha Garcia
+ORD57703,2024-06-13,Service Plan,1,44,"44,99",Omar Smith
+ORD42822,11-16-2024,Widget B,2,"21,99",43.98,John Lee
+ORD22945,2024-06-25,Widget B,4,17.99,71.96,Hassan Garcia
+ORD63994,09-24-2024,Gadget Y,10,"5,49",54.90,Sara Hussain
+ORD34209,06-11-2024,Service Plan,2,$49.99,119,Noor Iqbal
+ORD68930,09-Sep-24,Widget B,4,$17.99,71.96,Fatima Hussain
+ORD40612,12-13-2024,Widget A,4,$13.75,55,Ali Khan
+ORD84529,17/07/2024,Service Plan,7, 49.99 ,349,Maria Smith
+ORD66588,10-29-2024,Gadget Y,2,4.94, 9.88 ,Fatima Khan
+ORD75293,07-26-2024,GADGET Y,4, 6.04 ,24,Noor Iqbal
+ORD23029,12-24-2024,Gadget X, 1 ,"6,30",6,Zain Garcia
+ORD48829,21/07/2024,Service Plan,6, 54.99 ,329,Maria Smith
+ORD73438,2024-10-06,Gadget Y,7,$5.49,38,Omar Hussain
+ORD46034,08-10-2024,WIDGET B,7,"19,99", 139.93 ,Maria Lee
+ORD98720,"Oct 07, 2024",GADGET Y,2,5.49,$10.98,Noor Smith
+ORD71768,26/11/2024,WIDGET A,4,12,$50.00,Zain Chen
+ORD92746,14-Oct-24,Widget A,8,$12.50,100,Ayesha Smith  
+ORD42367,"Oct 20, 2024",Gadget Y,9,5.49, 49.41 ,Zain Khan
+ORD75574,"Aug 20, 2024",WIDGET B,1,"19,99",19,Sara Hussain
+ORD39024,14-Jul-24,Widget B,3,"19,99",59.97,Ali Chen
+ORD78409,30-Aug-24,Service Plan,3,"49,99", 149.97 ,Zain Ahmed
+ORD82642,"Aug 18, 2024",Service Plan,10, 49.99 , 499.90 ,Ayesha Reyes
+ORD65943,04/09/2024,Widget A,8, 13.75 ,$110.00,Ayesha Patel
+ORD72731,06-02-2024,Service Plan,5,"44,99","224,95",John Ahmed
+ORD62663,08/10/2024,Service Plan,8,54.99,"439,91",Noor Hussain
+ORD82509,"Jul 23, 2024",Widget A, 10 ,$12.50,$125.00,Noor Garcia
+ORD48144,05/11/2024,Widget B,1,17.99,"17,99",Noor Lee
+ORD42180,2024-10-31,SERVICE PLAN,1, 49.99 ,39,Omar Hussain
+ORD91634,29/11/2024,Gadget Y,5, 6.04 , 30.20 ,Hassan Ahmed
+ORD88112,2024-06-12,Widget B,10,$19.99,"209,89",Maria Lee
+ORD95486,"Jul 05, 2024",Gadget Y,4,$6.04,24.16,Ayesha Hussain
+ORD43592,07-22-2024,Gadget Y,8,"5,49",43,Ali Iqbal
+ORD50446,2024-08-29,Service Plan,6,44.99,"269,95",Noor Patel  
+ORD10299,06-14-2024,Widget A,3,12,"37,50",Omar Khan
+ORD69953,10-04-2024,Widget A,6,"13,75",82,Fatima Chen
+ORD91866,22-Dec-24,SERVICE PLAN,5,49.99,"249,95",Hassan Chen
+ORD49991,22/08/2024,Widget A,4,12,60.00,Zain Lee
+ORD91075,01/11/2024,Gadget X,5,7,35,Zain Garcia
+ORD34610,16/06/2024,Widget A,6,12,75,Ayesha Hussain
+ORD34146,"Oct 06, 2024",Gadget Y,8,$6.04,48.31,Sara Chen
+ORD78861,"Jun 24, 2024",Widget B,10, 21.99 ,230,John Khan
+ORD62395,07-31-2024,Widget B,6,19.99, 119.94 ,Noor Garcia
+ORD84930,2024-07-01,Widget B,7,$19.99,"139,93",Zain Chen
+ORD29725,2024-12-12,Widget B,8, 19.99 ,159.92,Noor Hussain
+ORD24437,12-23-2024,Gadget X,2,"7,00",$14.00,Sara Smith
+ORD27962,07-07-2024,Widget A,6,12.50, 75.00 ,Hassan Garcia
+ORD23576,2024-07-09,Widget A,10,"12,50",125.00,Fatima Chen
+ORD90416,12-31-2024,Gadget X,9,"7,70","69,30",Fatima Ahmed
+ORD39137,"Nov 07, 2024",Widget A, 2 ,$12.50,"25,00",Fatima Khan
+ORD66272,24/06/2024,Service Plan,9, 44.99 ,485,Omar Patel
+ORD88391,28/12/2024,Widget B,9,$19.99, 179.91 ,Sara Smith
+ORD93733,10-11-2024,Service Plan,5,$49.99,237.45,John Chen
+ORD63602,"Oct 03, 2024",Widget B,10,"19,99",199,John Garcia
+ORD35425,2024-12-11,Widget B,10,21,"175,91",Fatima Garcia
+ORD39180,"Nov 10, 2024",Widget A, 9 ,"12,50",$112.50,Maria Iqbal
+ORD92297,"Oct 01, 2024",Gadget Y,4,4,"20,75",Ayesha Chen
+ORD35575,05-Jun-24,Gadget Y,4,$5.49,21.96,Sara Patel
+ORD70931,26-Oct-24,Widget A,6, 13.75 ,$82.50,Maria Patel
+ORD62287,11-29-2024,Widget B,3,17,$51.27,Ayesha Chen
+ORD29306,16/10/2024,Service Plan,10,$49.99,499,Hassan Chen
+ORD32226,15/11/2024,Gadget Y,8,$5.49,43,Fatima Chen
+ORD71255,2024-09-12,Service Plan,10,49,"399,92",John Ahmed
+ORD58647,"Dec 02, 2024",Widget A,8,$12.50, 100.00 ,Noor Smith
+ORD20687,2024-09-12,Gadget X,9,7.00,63,Omar Smith
+ORD13416,"Sep 23, 2024",Widget B,4,"17,99",71.96,Omar Ahmed
+ORD28270,20/10/2024,Widget B,3, 19.99 ,59.97,Maria Ahmed
+ORD34910,27/11/2024,Widget A,1,$12.50, 12.50 ,Maria Patel
+ORD45438,10-Oct-24,Gadget X,1,7.70,"7,70",John Iqbal
+ORD18937,19-Nov-24,Widget B,5, 17.99 ,89.95,Sara Reyes
+ORD35296,16-Oct-24,Gadget X,10, 7.70 ,"92,40",Zain Ahmed  
+ORD36536,23-Jun-24,Service Plan,9,$49.99, 449.91 ,Zain Hussain
+ORD96411,15-Dec-24,Gadget Y,4,6.04,"24,16",Hassan Patel
+ORD38132,2024-10-03,Widget B,4,19.99,$75.96,Noor Patel
+ORD64246,01/09/2024,Widget B,6,19,"143,93",Sara Iqbal
+ORD69205,23-Jul-24,Widget A,3,$12.50,"35,62",Fatima Hussain
+ORD93644,10/07/2024,Widget A,6, 11.25 ,"67,50",Ali Chen
+ORD62548,09-22-2024,Service Plan,7,44.99,$314.94,Noor Lee
+ORD35387,2024-10-11,Widget A,4,11,"42,75",Noor Lee
+ORD12311,30-Aug-24,WIDGET B,6,"19,99",$119.94,Zain Patel
+ORD25884,2024-07-09,Widget B,1,21, 21.99 ,Ayesha Garcia
+ORD45382,14/09/2024,Widget B,6,$21.99, 131.93 ,Ali Reyes
+ORD95312,"Jul 18, 2024",Gadget X,7, 7.00 ,$49.00,John Iqbal
+ORD81109,05-Sep-24,SERVICE PLAN,5,$49.99, 249.95 ,Fatima Khan
+ORD28040,19/09/2024,Gadget Y,6,$6.04, 36.23 ,Hassan Reyes
+ORD27127,"Aug 01, 2024",Widget B,7, 19.99 ,139.93,John Hussain
+ORD85515,06-27-2024,Widget B,4,19, 79.96 ,Omar Ahmed
+ORD71830,12-07-2024,Gadget X,2,"7,00","14,00",Ali Garcia
+ORD59252,"Jun 20, 2024",Gadget X,6,7,42.00,Hassan Chen
+ORD42677,"Oct 03, 2024",Widget B,3,19.99,59.97,Omar Patel
+ORD40940,11-21-2024,Gadget Y,1,$4.94,4.94,Ayesha Garcia
+ORD27604,"Jun 01, 2024",Widget B,10, 21.99 ,219,Ayesha Reyes
+ORD40934,2024-11-03,Widget A,4,12.50,$50.00,Hassan Patel
+ORD50984,08-17-2024,Gadget Y,9,5.49,$49.41,Fatima Reyes
+ORD35870,12-01-2024,WIDGET A,7,"12,50",105,Hassan Reyes
+ORD20697,"Nov 09, 2024",WIDGET B,7,17.99,125,Maria Hussain
+ORD18354,"Nov 16, 2024",Gadget Y,1,$5.49,$5.49,Zain Lee
+ORD17399,07/07/2024,WIDGET B,7,$17.99,"125,94",Noor Patel
+ORD84655,"Dec 25, 2024",Service Plan,9,"44,99",$404.92,Noor Smith
+ORD18999,2024-07-30,Widget A,5,"12,50",62,Ayesha Garcia
+ORD49588,04/07/2024,Widget A,2,$12.50,25,Sara Patel
+ORD79809,12-03-2024,Service Plan,9, 44.99 ,485.90,Ali Khan
+ORD84581,07-28-2024,Widget B,1,$21.99,26.39,John Khan
+ORD17095,"Jun 20, 2024",Service Plan,9,49,"449,91",Zain Ahmed
+ORD58532,2024-10-26,Service Plan,4,44,179,Sara Hussain
+ORD23873,06-23-2024,Widget B,3, 19.99 ,"62,97",Zain Reyes
+ORD31021,"Oct 13, 2024",Widget A,5,"13,75", 68.75 ,Noor Reyes
+ORD25998,02-Aug-24,Widget A,10,13.75, 137.50 ,Fatima Khan
+ORD74235,11/12/2024,Service Plan,9,44.99,404.92,Zain Ahmed
+ORD62952,07-23-2024,Gadget Y,6,5.49,$32.94,John Iqbal
+ORD85975,07-22-2024,Gadget Y,4,"5,49", 21.96 ,Maria Garcia
+ORD83605,07-Nov-24,Widget B,9,$19.99,"179,91",Omar Hussain
+ORD37764,10/08/2024,WIDGET A,1,"12,50",12.50,Maria Patel
+ORD93235,"Oct 08, 2024",Widget A,1,$13.75,"13,75",Hassan Garcia
+ORD14061,20-Dec-24,Widget A,8, 11.25 ,90.00,Hassan Ahmed
+ORD21621,25/08/2024,Widget A,10,"11,25",$112.50,Omar Smith
+ORD92182,11-20-2024,Gadget X,9,7.00, 63.00 ,Sara Smith
+ORD23379,"Nov 08, 2024",Widget A,2, 12.50 ,25,Fatima Patel
+ORD87208,2024-06-17,Widget B,7,17,125.94,Ayesha Iqbal
+ORD93536,"Sep 14, 2024",GADGET Y,9,$5.49,49.41,Zain Smith
+ORD87647,15-Dec-24,Service Plan,6,"49,99", 299.94 ,Noor Patel  
+ORD56610,15/09/2024,Gadget Y,3,"5,49", 16.47 ,Fatima Chen
+ORD33881,08-15-2024,Service Plan,1,49.99, 39.99 ,Ali Smith
+ORD24030,2024-08-20,Gadget X,1,7.00,7.00,Hassan Garcia
+ORD69745,04-Sep-24,Widget B,9,$19.99,179,Omar Khan
+ORD89268,13/08/2024,Widget A,6,11.25, 67.50 ,John Hussain
+ORD90186,06/09/2024,Gadget X,2,$7.00,$16.80,Maria Patel
+ORD43222,24-Aug-24,Service Plan,2,49.99,"99,98",Sara Khan
+ORD14778,27-Aug-24,Widget A,2,$11.25,23,Ali Garcia
+ORD31561,06-17-2024,GADGET Y,1,4.94,"4,94",Ali Iqbal
+ORD40693,2024-06-04,Widget A,1,"12,50",$12.50,Hassan Garcia
+ORD32697,"Aug 26, 2024",Gadget X,2,"7,00",14.00,Ayesha Iqbal
+ORD67552,09-08-2024,Gadget Y,7, 6.04 , 33.82 ,Noor Lee
+ORD78886,06-13-2024,Gadget X,7,7.00,49.00,Fatima Reyes
+ORD71762,01/12/2024,Gadget X,2,7.00,$14.00,John Patel
+ORD19109,"Aug 12, 2024",WIDGET A,2,11.25, 22.50 ,Hassan Ahmed
+ORD15408,10-22-2024,Service Plan,2, 49.99 , 99.98 ,Hassan Ahmed
+ORD41316,2024-10-01,Gadget Y,5,5.49,27.45,Hassan Patel
+ORD57047,10-Dec-24,Gadget X,9,$7.00,75,Ayesha Smith
+ORD81071,07-03-2024,Gadget Y,8,"5,49",43.92,Ayesha Patel
+ORD52044,08-21-2024,Service Plan,2,49.99,"99,98",Hassan Garcia
+ORD79218,2024-12-04,Widget B,7,"17,99",119.64,Hassan Patel
+ORD21630,08-09-2024,Gadget X,6,7.00,$42.00,Ayesha Patel  
+ORD21558,2024-11-15,Gadget Y,10,$5.49,54.90,John Chen
+ORD97157,"Aug 16, 2024",Gadget Y,7,$4.94,"34,59",Hassan Reyes
+ORD10039,"Jun 20, 2024",Service Plan,9,$54.99,494,Zain Garcia
+ORD57410,05-Jun-24,Gadget Y,3, 5.49 ,"17,29",Fatima Ahmed
+ORD71650,"Dec 27, 2024",Widget A,8,"13,75", 110.00 ,Sara Reyes
+ORD11237,2024-09-25,Widget A,10,12.50,100.00,Hassan Chen
+ORD46453,2024-09-25,Widget A,4,$12.50, 50.00 ,Fatima Chen
+ORD88379,"Jul 04, 2024",Service Plan,5,$44.99,$224.95,Zain Ahmed
+ORD37423,26/07/2024,Gadget Y,4,6.04,"24,16",John Ahmed
+ORD62740,09-05-2024,Gadget Y,6,5.49, 32.94 ,Noor Smith  
+ORD31553,12-15-2024,WIDGET B,1,"19,99", 19.99 ,Omar Hussain
+ORD32996,"Nov 23, 2024",GADGET X,5,$6.30,31,Fatima Smith
+ORD59803,09-Jul-24,Gadget Y,6,"5,49",$32.94,John Reyes
+ORD49717,"Jul 08, 2024",Service Plan,9,$49.99,$472.41,Omar Smith
+ORD90704,"Aug 28, 2024",Service Plan,2,$49.99,94,Fatima Chen
+ORD37234,12-30-2024,WIDGET B,5,19.99, 99.95 ,Ali Ahmed
+ORD38249,11-Sep-24,Service Plan,6, 49.99 ,314.94,Zain Patel  
+ORD66788,"Sep 24, 2024",Gadget Y,7,$5.49,38,Hassan Hussain
+ORD96369,08/09/2024,Gadget Y,1, 5.49 ,5,Ayesha Smith
+ORD97864,"Sep 28, 2024",SERVICE PLAN,5, 49.99 ,$299.94,Noor Khan
+ORD23912,10-24-2024,Widget B,5,19,99,Fatima Smith
+ORD71268,2024-07-22,Service Plan,5,"49,99",$249.95,Zain Khan
+ORD66077,2024-12-30,Widget B,3,"17,99",53,John Lee
+ORD64871,13/07/2024,Widget A,3,12.50,37,Ali Khan
+ORD62159,27/11/2024,Gadget X,4,$7.00,29.40,Omar Smith
+ORD12029,2024-08-18,Widget A,1,$12.50,12,Zain Khan
+ORD40413,11/11/2024,Widget A,6, 12.50 ,$75.00,Hassan Reyes
+ORD66370,14/07/2024,Gadget Y,8,5,$43.92,Ayesha Patel
+ORD31968,11-30-2024,Widget A,9,12.50,112.50,Hassan Khan
+ORD81076,09/08/2024,Service Plan,8,"49,99",479.90,Zain Smith
+ORD80262,17-Sep-24,Widget B,2,19.99,31,Ayesha Hussain
+ORD87185,08-06-2024,Gadget Y,10,6.04,60,Sara Ahmed
+ORD67105,14/06/2024,Service Plan,8, 54.99 , 439.91 ,Sara Chen
+ORD62329,"Aug 04, 2024",Gadget Y,10,5.49,54.90,Hassan Chen
+ORD42513,18-Jun-24,Widget B,9,$19.99,143,Sara Smith
+ORD48409,07-10-2024,Gadget X, 5 ,7,$35.00,Fatima Hussain
+ORD20685,"Jun 08, 2024",Widget B,9, 19.99 ,170,Maria Hussain
+ORD43807,12-23-2024,Widget B,5,21.99,109,Fatima Lee
+ORD33320,12-20-2024,Gadget Y,8,$5.49,43.92,Ayesha Reyes
+ORD45527,19-Oct-24,Service Plan,5,"49,99",$249.95,Omar Garcia
+ORD26568,30/12/2024,Service Plan,10,49.99,$499.90,Zain Smith
+ORD48229,31/07/2024,Gadget X,9,$7.00,"63,00",Noor Smith
+ORD84662,"Sep 09, 2024",Gadget Y, 3 ,5.49,16.47,John Hussain
+ORD88127,"Oct 28, 2024",Gadget Y,5,6.04,"24,16",Noor Khan
+ORD14500,"Dec 19, 2024",Gadget Y,3,5.49,"16,47",Sara Iqbal
+ORD11169,"Sep 30, 2024",Widget B,5,"19,99",94.95,Fatima Lee
+ORD52240,09-17-2024,GADGET Y,10, 6.04 ,$60.39,Ali Khan
+ORD76871,"Sep 10, 2024",SERVICE PLAN,1, 49.99 ,49,Hassan Ahmed
+ORD99505,11-24-2024,Gadget X,2,$7.00,"14,00",Fatima Iqbal
+ORD13657,2024-11-13,Widget A,2, 13.75 ,$27.50,John Hussain
+ORD40857,2024-08-19,Widget B,2,19.99,39.98,Zain Khan
+ORD58921,"Nov 07, 2024",Widget A,1, 13.75 ,"13,06",John Lee
+ORD31403,2024-09-17,WIDGET A,2,11.25, 22.50 ,Zain Patel
+ORD22797,02-Nov-24,Gadget Y,8, 5.49 ,$43.92,Ali Lee
+ORD78416,"Dec 26, 2024",Widget B,6,"19,99","119,94",Sara Chen
+ORD83591,28-Jul-24,Service Plan,3,$49.99,"149,97",Fatima Khan
+ORD28875,2024-07-08,Gadget X, 8 ,"6,30",50.40,Hassan Ahmed
+ORD27132,"Jun 02, 2024",Widget A,7,"11,25","78,75",John Reyes
+ORD53454,2024-07-24,Widget A,8,"12,50",$100.00,Zain Patel  
+ORD40681,03-Nov-24,Widget B,9,19.99,"179,91",Zain Ahmed
+ORD77147,"Oct 10, 2024",Widget B,1,"19,99","20,99",Hassan Reyes
+ORD47277,21/10/2024,Gadget Y,8,$4.94,39,John Garcia
+ORD29170,05-Oct-24,Widget A,2,12.50,"30,00",Ayesha Patel
+ORD84502,2024-12-11,Widget A,9,13.75,$123.75,John Hussain
+ORD38353,2024-06-19,GADGET Y,2,$5.49,10.98,Hassan Garcia
+ORD94452,19-Sep-24,Gadget X,4,"7,00", 28.00 ,Maria Hussain
+ORD36563,06-20-2024,Widget A,3,"12,50", 37.50 ,Omar Hussain
+ORD93032,07-25-2024,Gadget X,3,7,$21.00,Ayesha Khan
+ORD28565,01/06/2024,Gadget Y,6,5,32,Noor Smith
+ORD66123,07-03-2024,Widget B,5,19,"99,95",Sara Chen
+ORD66181,2024-11-21,WIDGET A,4,11,36,John Chen
+ORD93245,2024-11-11,Service Plan,4, 49.99 ,$199.96,Hassan Reyes
+ORD26407,07-15-2024,Widget B,5,19,99.95,John Reyes
+ORD38939,2024-09-11,GADGET Y,2,$5.49,13,Ali Iqbal
+ORD11739,13/10/2024,Service Plan,10, 44.99 , 449.91 ,John Ahmed
+ORD44791,"Oct 20, 2024",Gadget Y,9,5.49,49,Sara Smith
+ORD20219,25-Sep-24,Service Plan,5,"49,99",237.45,John Smith
+ORD65914,09-29-2024,Widget B,3,$19.99,"59,97",Ali Patel
+ORD20610,"Sep 17, 2024",Service Plan,1,44.99,"44,99",John Iqbal  
+ORD66475,"Jun 09, 2024",Gadget X,3, 7.70 ,"18,48",Sara Smith
+ORD67071,2024-10-19,Gadget X,8,"7,00", 56.00 ,Sara Reyes
+ORD42254,15-Sep-24,Widget A,9,12.50,$90.00,Ali Chen
+ORD69310,12-Oct-24,Service Plan,7,49.99, 349.93 ,Zain Smith
+ORD63657,2024-10-26,Widget B, 10 ,$21.99,$219.89,Maria Iqbal
+ORD73177,24-Oct-24,Widget A,6,12,75,Ali Ahmed
+ORD35423,"Jun 30, 2024",Gadget X,7,"7,00",39,Ayesha Reyes
+ORD34963,11-05-2024,Gadget Y,5,6,30.20,Noor Lee
+ORD19923,01/12/2024,Service Plan,1,49,49,Maria Hussain  
+ORD66319,"Sep 28, 2024",Widget A,2,11,"22,50",Zain Hussain
+ORD74027,"Jul 19, 2024",Widget B,10, 19.99 ,"239,88",Maria Patel
+ORD72117,2024-11-23,Gadget Y,3,5.49,$15.65,Omar Smith
+ORD67469,"Jul 18, 2024",Widget A,8,"11,25","90,00",Noor Khan
+ORD78986,23/07/2024,Widget A,3,"12,50", 37.50 ,Hassan Chen
+ORD45359,2024-12-23,WIDGET B,5,$19.99,"99,95",Zain Iqbal
+ORD24328,2024-09-18,Widget A,4,13.75,55.00,Ali Lee
+ORD43681,11-Oct-24,Gadget X,2,7.00,"14,00",Fatima Garcia
+ORD68355,"Sep 10, 2024",Service Plan,9,49.99,449,Ali Reyes
+ORD28668,10-06-2024,Widget A, 4 , 12.50 , 50.00 ,Fatima Iqbal  
+ORD93020,"Aug 26, 2024",Widget A,10,$12.50,125,Ayesha Lee
+ORD96731,07-24-2024,Service Plan,4,$49.99,199,Maria Garcia
+ORD86056,02-Dec-24,Gadget Y,9,"5,49",49,Noor Reyes
+ORD29075,21-Nov-24,Gadget Y,9, 6.04 ,"54,35",Hassan Patel
+ORD70084,"Jul 27, 2024",Gadget X,2,"7,00",$14.00,John Reyes
+ORD24412,"Nov 15, 2024",GADGET Y,5,$4.94,24,Omar Chen
+ORD37876,10-28-2024,Service Plan,10,"54,99",$549.89,Zain Khan
+ORD18732,06-06-2024,Widget A,5,"11,25", 56.25 ,Noor Lee
+ORD99722,2024-09-13,Service Plan,4, 49.99 ,"199,96",Omar Hussain
+ORD59626,27-Nov-24,Gadget Y,5,6,36,Ali Hussain  
+ORD83287,10-15-2024,Widget A,3, 12.50 ,37,Omar Chen
+ORD54744,2024-12-08,Gadget X,7, 7.70 ,53,Ayesha Smith
+ORD18082,14/08/2024,Widget B,5,"19,99","99,95",Maria Reyes
+ORD67683,2024-12-14,Gadget X,7, 7.00 ,49.00,Ayesha Khan
+ORD52099,2024-08-04,Gadget Y,5,$6.04,$30.20,John Chen
+ORD32690,06-05-2024,Widget B, 10 ,"21,99","219,89",John Lee
+ORD73747,25-Nov-24,Service Plan,3,44,$134.97,Hassan Garcia
+ORD56566,25-Nov-24,Widget A,7,12.50, 87.50 ,Ayesha Chen
+ORD30182,05/07/2024,Widget B,6,$17.99, 107.95 ,Ali Chen
+ORD83940,28-Jul-24,Service Plan,8,49,319.94,Ayesha Khan
+ORD38371,06-21-2024,Gadget X, 3 ,7.00, 21.00 ,Hassan Chen
+ORD90478,01-Jun-24,Widget A,7,11.25, 74.81 ,Noor Hussain
+ORD66235,11-02-2024,Service Plan,1,44,47.24,Sara Lee
+ORD31710,06-23-2024,Gadget X, 5 ,"7,00",36.75,Ayesha Ahmed  
+ORD23789,11-30-2024,Widget B,2,17.99,37.78,Ayesha Garcia
+ORD58426,2024-12-24,Widget A,10, 12.50 ,125,Ali Chen
+ORD86058,10-30-2024,Service Plan,7,"44,99", 299.19 ,Zain Chen
+ORD58040,03/11/2024,Gadget X,3,$7.00,21,John Ahmed
+ORD59003,20/07/2024,Widget A,5,12,"62,50",Zain Chen
+ORD93193,21/12/2024,Widget A,10,$12.50,"125,00",Omar Reyes
+ORD44116,"Oct 01, 2024",Gadget X,5,$7.70,46,Hassan Khan
+ORD45776,12-16-2024,Service Plan,5, 49.99 ,$249.95,Omar Ahmed
+ORD21338,17/06/2024,Widget B,8,$21.99,175.91,Ayesha Garcia
+ORD52354,11/08/2024,Widget A,1, 11.25 ,$11.25,Omar Lee
+ORD78470,12-29-2024,Gadget X,9,7.00,63.00,Fatima Reyes
+ORD88378,27/08/2024,Gadget X,2,$7.70,15,Fatima Smith
+ORD97877,12-16-2024,Widget B,3,17, 53.97 ,Ayesha Patel
+ORD79969,31-Jul-24,Gadget X,5, 6.30 ,$37.80,Ayesha Iqbal
+ORD23975,14/08/2024,Widget B,1,"19,99",19,Zain Lee
+ORD37953,12-22-2024,Service Plan,9,"49,99",449.91,Ayesha Lee
+ORD29399,12-17-2024,GADGET Y,4, 4.94 ,"19,76",Maria Reyes
+ORD61750,2024-12-09,Gadget X, 4 ,"7,00",$28.00,John Lee
+ORD89420,04-Dec-24,Gadget X,7, 7.00 ,"49,00",Maria Smith
+ORD93401,2024-11-18,Widget A,1,13,"13,75",Maria Garcia
+ORD29565,"Sep 10, 2024",Gadget X,5, 7.70 ,"38,50",Fatima Hussain
+ORD63687,30/10/2024,Gadget Y,9,$4.94,46,John Patel
+ORD71499,20/10/2024,Widget A,5,12.50,50,Fatima Chen
+ORD42889,17/12/2024,Gadget Y,10,5,54,John Iqbal
+ORD47677,2024-11-10,Widget A,5,"13,75",68.75,John Chen
+ORD89725,"Dec 19, 2024",Gadget Y,2, 5.49 ,10,Omar Chen
+ORD85271,03-Dec-24,Gadget X,6,7,39,Sara Lee
+ORD64618,21/07/2024,Service Plan,6,54.99,$329.93,Fatima Khan
+ORD50395,01-Nov-24,GADGET X,9,7.00,"63,00",Hassan Garcia
+ORD84558,"Dec 26, 2024",Widget B,2,"19,99","39,98",Ali Hussain
+ORD76144,11-14-2024,Widget A,6,$13.75,$82.50,Zain Khan
+ORD38756,18/08/2024,Gadget X,9,"7,00",63,Hassan Garcia
+ORD11965,22-Jun-24,WIDGET A,8,"12,50",100,Zain Iqbal  
+ORD60605,2024-08-17,Service Plan,10,"49,99",$499.90,John Patel
+ORD17811,"Nov 15, 2024",Widget B,6,$19.99,"119,94",Hassan Patel
+ORD20802,"Dec 10, 2024",Gadget Y,5, 4.94 , 24.71 ,Omar Lee  
+ORD69510,"Sep 16, 2024",Gadget Y,3,6.04,$17.21,Zain Lee
+ORD52243,25/08/2024,Widget A,3,12,37.50,Zain Smith
+ORD53466,10-22-2024,Widget A,4,12.50,50.00,Fatima Lee
+ORD79924,2024-09-07,Widget B,2,"19,99", 39.98 ,Hassan Iqbal  
+ORD99551,25/10/2024,Widget A,1, 12.50 , 15.00 ,Ali Smith
+ORD22238,16/07/2024,Service Plan,10, 49.99 , 599.88 ,Zain Hussain
+ORD37308,"Sep 21, 2024",Service Plan,3, 49.99 ,149.97,Omar Ahmed
+ORD27893,"Nov 09, 2024",Widget A,2,12,$25.00,Ali Hussain
+ORD75620,06-17-2024,Widget A,5,13.75, 68.75 ,Sara Iqbal
+ORD71656,06-27-2024,Gadget X,1,7.00,$7.00,John Reyes  
+ORD62722,12-19-2024,Gadget Y,9, 5.49 ,39,Zain Iqbal
+ORD17990,12-Jun-24,Gadget X,3,$7.00, 21.00 ,Ayesha Ahmed
+ORD30768,06-19-2024,GADGET Y,9,"5,49",49,Zain Smith
+ORD37888,07-08-2024,GADGET Y,4,5,$21.96,Ayesha Hussain
+ORD35811,06-Aug-24,Gadget X,8,7, 56.00 ,Omar Ahmed  
+ORD29584,27-Nov-24,Widget A,9,$12.50,$112.50,John Garcia
+ORD73661,"Aug 29, 2024",Widget A,9,12,112,John Garcia
+ORD80160,2024-10-15,Service Plan,6,"44,99",269,Sara Smith
+ORD34872,08/08/2024,GADGET X,6,"7,00", 44.10 ,Ali Lee  
+ORD79556,08-Jul-24,Widget B,1,"21,99","21,99",Hassan Ahmed
+ORD35656,17/11/2024,Gadget X,6,"7,00", 42.00 ,Noor Iqbal
+ORD52601,"Sep 07, 2024",Widget A,1,12,"12,50",Omar Iqbal
+ORD54756,12-25-2024,Service Plan,1,"49,99",$49.99,Zain Lee
+ORD59790,04/08/2024,Service Plan,6,"49,99","299,94",Noor Reyes
+ORD61163,01-Aug-24,Gadget X,7,7.00,$49.00,Noor Khan  
+ORD77901,16/07/2024,Service Plan,2,54.99,"109,98",Ayesha Iqbal
+ORD40786,"Sep 01, 2024",Widget A,5, 11.25 ,"56,25",Hassan Chen
+ORD54855,08-29-2024,Service Plan,1,"54,99",54.99,Ayesha Chen
+ORD43745,2024-08-25,Gadget Y,7, 5.49 , 30.74 ,Hassan Chen
+ORD28229,06-11-2024,Service Plan,2,$49.99,"79,98",Sara Chen
+ORD84820,2024-06-01,Gadget X,6,"7,00",33,Noor Khan
+ORD58375,08-28-2024,Widget A,8, 11.25 ,$90.00,Fatima Patel
+ORD19981,"Jun 13, 2024",Widget A,4,$11.25,45.00,Ali Garcia
+ORD46613,06-20-2024,Gadget Y,7,$6.04,$42.27,Ayesha Smith
+ORD74406,"Jun 26, 2024",Service Plan, 6 ,54,329.93,Noor Smith
+ORD61066,2024-11-14,Widget B,3, 19.99 , 59.97 ,Noor Iqbal
+ORD77874,04/06/2024,Service Plan,6,"49,99",$359.93,Ayesha Lee
+ORD61808,10-10-2024,WIDGET A,9,12,112.50,Ayesha Ahmed
+ORD56181,2024-07-05,Widget A,4,11,"45,00",Fatima Chen
+ORD74426,18/10/2024,Widget A,10,$13.75,137,Zain Reyes
+ORD74190,07-07-2024,Widget B,6,19,"119,94",Omar Iqbal
+ORD12707,2024-06-24,Gadget Y,1, 6.04 ,6.04,John Iqbal
+ORD13085,11-23-2024,Widget B,2, 21.99 ,43,Noor Hussain
+ORD92764,2024-12-08,WIDGET A,6,$12.50,$71.25,Maria Ahmed
+ORD96825,16-Aug-24,Gadget X,6, 7.00 , 42.00 ,Hassan Garcia
+ORD49775,04-Jun-24,Widget A,2,"12,50",25,Sara Hussain
+ORD87175,2024-12-23,Widget A,2, 12.50 ,$23.75,Fatima Reyes
+ORD41678,26/11/2024,Widget A,4,"12,50", 50.00 ,Omar Patel
+ORD37409,2024-06-08,Gadget X,9,"7,00","63,00",Omar Reyes
+ORD84726,13/06/2024,Widget A,7,"12,50","87,50",Hassan Reyes
+ORD18190,11-Aug-24,WIDGET B,10,"19,99",$199.90,Fatima Iqbal
+ORD32334,07-Jul-24,Widget A,10,$13.75,$137.50,John Smith
+ORD64319,"Jul 18, 2024",Service Plan,5,"49,99",249,Maria Hussain
+ORD79817,2024-06-27,Gadget X,7,"7,00","49,00",John Lee
+ORD58041,30-Dec-24,Widget A,2,12.50,25,Hassan Reyes
+ORD94843,06-02-2024,Gadget X,3,$7.00,"21,00",Noor Reyes
+ORD64976,"Jul 22, 2024",Widget B,7,19.99,$139.93,Maria Garcia
+ORD67062,08-Dec-24,WIDGET B, 8 , 19.99 ,$167.92,John Khan
+ORD58930,12-11-2024,Widget B,10,"21,99",219.89,Fatima Hussain
+ORD67799,12-20-2024,GADGET Y, 4 ,5.49,21,Noor Chen
+ORD34791,07-02-2024,Gadget X, 6 ,"7,00",42,Sara Smith
+ORD90259,2024-08-03,Service Plan, 9 ,$49.99,449,Omar Lee
+ORD14441,"Aug 02, 2024",Gadget Y,10,$6.04,60,John Smith  
+ORD67212,"Dec 10, 2024",SERVICE PLAN,1, 54.99 ,54.99,Noor Chen
+ORD52281,06-28-2024,Gadget X, 6 ,7.00,42,Omar Hussain
+ORD25197,23-Jul-24,Gadget Y,4,5.49, 21.96 ,Zain Reyes
+ORD21257,10-12-2024,Widget B,6,19, 95.95 ,Sara Garcia
+ORD80348,16-Dec-24,Gadget X,5,6,$31.50,Ayesha Khan
+ORD30735,19/06/2024,Service Plan,3,$49.99,149,Sara Garcia
+ORD68375,2024-08-14,Service Plan, 9 , 49.99 ,449,Ayesha Patel
+ORD76264,2024-12-05,Gadget X,5,7.00,28.00,Omar Chen
+ORD43446,03-Aug-24,Gadget Y,4,"4,94",20,Zain Patel
+ORD85535,14-Oct-24,Service Plan,9, 49.99 ,"449,91",Ayesha Patel
+ORD93975,17-Sep-24,Widget A,5,$12.50,65,Zain Garcia
+ORD52839,2024-08-11,Widget B,6,19.99,$119.94,Hassan Reyes
+ORD33727,31-Aug-24,Widget A,3,$12.50,$35.62,Maria Reyes
+ORD34034,2024-08-15,Service Plan,8,49,399.92,Fatima Ahmed
+ORD84129,2024-09-29,Widget A,6,"12,50",75,Hassan Iqbal
+ORD84006,2024-07-03,Widget B,10,$17.99, 179.91 ,Ali Garcia
+ORD78847,11-28-2024,Gadget Y,9,$4.94,"44,47",Omar Ahmed
+ORD15445,11-Nov-24,Gadget Y,10, 6.04 ,72.47,John Reyes
+ORD86226,"Jun 10, 2024",Service Plan,3,49.99, 142.47 ,Fatima Reyes
+ORD52481,"Sep 20, 2024",Widget A, 1 ,$12.50, 12.50 ,Hassan Smith
+ORD75347,"Nov 07, 2024",Service Plan,1,49,49.99,Noor Patel
+ORD54897,12/09/2024,Widget A,9,13,123.75,Zain Chen
+ORD64337,"Jun 24, 2024",Gadget Y,1,$6.04,6,Omar Smith
+ORD51295,24-Nov-24,Service Plan,5, 44.99 ,"224,95",Sara Iqbal
+ORD37772,2024-08-16,Gadget Y,7,"6,04",50,Hassan Iqbal
+ORD67164,2024-10-16,Gadget Y,5,5.49,"27,45",John Smith
+ORD59343,2024-09-21,GADGET X,4,"7,70",30,Hassan Patel
+ORD69611,22-Jul-24,Widget A,6, 12.50 ,$90.00,Fatima Reyes
+ORD39736,2024-12-23,Gadget X,5,"7,70",$38.50,Hassan Lee
+ORD32014,05-Aug-24,Gadget X, 8 ,$7.00,56,Sara Garcia
+ORD22977,"Sep 02, 2024",Widget A,10,"12,50",$125.00,Sara Reyes
+ORD15729,11-18-2024,Gadget X,7,$7.00, 49.00 ,Fatima Chen
+ORD71740,03/12/2024,Service Plan,4, 44.99 ,$215.96,Ayesha Iqbal
+ORD39030,16-Nov-24,Service Plan,8,44,"359,93",Ali Khan
+ORD27227,20-Aug-24,Gadget Y,2,"5,49",10.98,Hassan Ahmed
+ORD87111,2024-12-14,Widget A,7, 13.75 ,"96,25",John Hussain
+ORD68050,17/11/2024,Gadget Y,1,4.94,4.94,Fatima Ahmed
+ORD55271,07-31-2024,Gadget X,6,6,37,Zain Lee
+ORD54849,05/09/2024,Widget A,1,13.75,13.75,John Iqbal
+ORD87935,2024-10-27,WIDGET A,7,12,91,Zain Garcia
+ORD72460,2024-10-22,Service Plan,1,"49,99",49,John Chen  
+ORD68751,2024-08-27,Widget B,4,21.99,87,Zain Patel
+ORD78251,30/09/2024,WIDGET B,2,19, 47.98 ,Ali Patel
+ORD26255,20-Dec-24,Service Plan,1,$44.99,"44,99",Omar Hussain
+ORD40315,14-Sep-24,Gadget X,8,7.00,56.00,Omar Reyes
+ORD79086,26/07/2024,Gadget X,8, 6.30 ,50.40,Maria Iqbal
+ORD34065,03-Nov-24,Gadget Y,3, 6.04 , 18.12 ,Hassan Patel
+ORD59916,23/06/2024,Gadget Y,6,"5,49",$32.94,Zain Garcia
+ORD86913,"Sep 17, 2024",Gadget X,3, 7.70 ,$23.10,Hassan Chen
+ORD57918,09-24-2024,Gadget Y,10,5,54.90,John Hussain
+ORD64821,"Nov 19, 2024",Gadget X,7, 7.70 ,53.90,Zain Iqbal
+ORD24394,2024-10-07,Gadget Y,4,$5.49,"26,35",John Lee
+ORD30110,08/09/2024,Service Plan,9,$44.99,"404,92",Ali Garcia
+ORD51622,10-21-2024,Gadget Y,9,6.04,$54.35,John Khan
+ORD55706,2024-08-06,Gadget X,8, 7.00 ,$56.00,Omar Chen
+ORD68966,07-03-2024,Widget B,9, 17.99 ,194.30,Hassan Garcia
+ORD43808,27-Sep-24,GADGET Y,4,$5.49, 17.57 ,Hassan Chen
+ORD89287,2024-12-05,Widget B,1,"21,99",20.89,Ali Khan
+ORD38135,12-Jul-24,Service Plan,8, 49.99 , 399.92 ,Noor Hussain
+ORD20183,11-Nov-24,Gadget X,5,$6.30,$31.50,Zain Khan
+ORD20136,11-18-2024,Widget A,5,$12.50,$62.50,John Garcia
+ORD48117,21/09/2024,WIDGET B,6,21, 131.93 ,Fatima Khan
+ORD12903,13-Aug-24,Service Plan,3,$49.99,149.97,John Lee
+ORD20889,"Jul 21, 2024",Gadget X,7,"7,00",$58.80,Ayesha Patel
+ORD77551,"Oct 11, 2024",Widget B,6,21.99,131.93,Sara Reyes
+ORD21611,2024-07-16,Gadget Y,10,$5.49,54.90,John Reyes
+ORD47875,2024-06-10,Service Plan,4,49.99,$199.96,Hassan Garcia
+ORD94128,27-Jun-24,Service Plan,5,$44.99,224,Maria Hussain
+ORD27349,07-Jun-24,Gadget X,2,"7,00",$14.00,Ali Iqbal
+ORD56134,"Sep 05, 2024",Widget A,9, 13.75 ,99.00,Ali Patel
+ORD98965,19/09/2024,Gadget X,5,7.00, 35.00 ,John Iqbal
+ORD91666,2024-10-12,GADGET Y,2,"5,49", 10.98 ,Ali Garcia
+ORD46684,11-30-2024,Gadget X,3,$7.00,$16.80,Ali Reyes
+ORD82675,11/08/2024,Widget A,5,12.50, 62.50 ,Ayesha Khan
+ORD59072,30-Sep-24,Service Plan,2,49, 99.98 ,Hassan Garcia
+ORD66938,"Jul 01, 2024",Gadget X,2,7.00,14,Hassan Lee
+ORD82665,"Nov 14, 2024",Widget A,2,"12,50","25,00",Sara Reyes
+ORD19064,2024-12-13,Widget A,7,12,87.50,Maria Garcia
+ORD39982,"Jun 04, 2024",Widget B,10,"19,99",159,Maria Smith
+ORD70264,2024-06-13,WIDGET A,9, 12.50 ,"112,50",Noor Khan
+ORD69321,2024-10-30,Widget A,3,"12,50","37,50",Omar Khan
+ORD85975,"Sep 20, 2024",Widget B,6,17,113,Zain Patel
+ORD31449,24-Oct-24,Gadget X,9,"7,00", 59.85 ,Ali Khan
+ORD69014,11-23-2024,Gadget Y,6,5,"31,29",Sara Reyes
+ORD15531,2024-12-10,Widget B,1,$19.99,19.99,Zain Reyes
+ORD91354,"Dec 26, 2024",Gadget X,7,7,53.90,Ayesha Chen
+ORD18641,2024-06-22,Gadget X,9, 7.00 ,63.00,Ayesha Reyes
+ORD58537,22-Nov-24,Gadget Y,1,4.94, 4.94 ,Ayesha Smith
+ORD26897,12-Oct-24,Widget B,6,19.99,119,Sara Khan
+ORD54990,"Jun 21, 2024",Widget B,1,19.99,19,Omar Smith
+ORD96437,10-30-2024,Widget B,1,$19.99,$19.99,Maria Hussain
+ORD12098,"Oct 31, 2024",Widget B,7, 17.99 ,"125,94",Ali Chen
+ORD82072,27/06/2024,WIDGET B,6,$19.99,$119.94,Sara Ahmed
+ORD52886,2024-12-09,GADGET Y, 2 ,5.49,10.98,Sara Chen
+ORD46035,2024-11-11,Widget B,6,"19,99",119.94,Hassan Khan
+ORD24405,27/10/2024,Widget A,8, 13.75 ,"110,00",Maria Hussain
+ORD86307,24-Jun-24,Service Plan,7,"49,99",332,Omar Iqbal
+ORD49543,2024-10-28,Gadget Y,2,"5,49",$10.98,Fatima Garcia
+ORD18571,16/07/2024,Widget A,9,"12,50",$112.50,Ayesha Lee
+ORD34617,21-Jun-24,Gadget Y,8,"5,49", 43.92 ,Sara Khan
+ORD31361,2024-07-13,Widget B,9, 19.99 ,$179.91,Fatima Ahmed  
+ORD14522,"Jul 26, 2024",Widget A,5,"11,25", 56.25 ,Sara Chen
+ORD62495,27-Sep-24,Widget B,6,19.99,119.94,Ali Khan
+ORD81062,06-27-2024,Gadget X,9,$7.00,"50,40",Maria Iqbal
+ORD79027,05/12/2024,Widget A,9,"12,50","112,50",Ali Garcia
+ORD49359,19/08/2024,Gadget Y,2,5, 10.98 ,Maria Iqbal
+ORD82260,2024-12-28,GADGET X,10,$7.00, 70.00 ,Sara Iqbal
+ORD50135,21/09/2024,Gadget X,7, 7.00 ,$49.00,Maria Khan
+ORD41528,12/12/2024,Service Plan,5,$44.99,$224.95,Sara Hussain
+ORD85307,2024-10-04,GADGET X,10,$7.00,$66.50,Noor Ahmed
+ORD89321,"Dec 08, 2024",Widget B, 8 ,19.99,"159,92",Zain Hussain
+ORD62867,2024-12-19,Gadget X,7, 7.70 , 53.90 ,Sara Smith
+ORD26568,02/06/2024,Gadget X,6,$7.00,"42,00",John Ahmed  
+ORD76065,12-23-2024,Gadget Y,6,$6.04, 36.23 ,Ali Iqbal
+ORD25831,"Aug 17, 2024",Widget B,9,19.99, 179.91 ,John Reyes  
+ORD16345,01/09/2024,Gadget X,3,7,"21,00",Ayesha Smith
+ORD39137,06-25-2024,Gadget Y,2,$6.04,12.08,John Chen
+ORD47345,2024-07-08,Gadget Y,1,6.04,6,Maria Garcia
+ORD40911,"Nov 14, 2024",Service Plan,10,"49,99",$499.90,Ayesha Ahmed
+ORD97432,16/08/2024,Widget A,5,"11,25",56,Sara Smith
+ORD42408,"Sep 17, 2024",Gadget Y,3, 5.49 , 16.47 ,Ali Patel
+ORD38173,10-Nov-24,Widget B,6, 19.99 ,$119.94,Fatima Garcia
+ORD77524,2024-07-30,Widget A,5,12,$62.50,Ali Iqbal
+ORD31970,"Sep 07, 2024",Service Plan,2,$49.99,119,Noor Lee
+ORD94229,12-30-2024,SERVICE PLAN,6,"49,99", 359.93 ,Maria Patel
+ORD82544,2024-08-15,Gadget X,3,$7.00,$21.00,Ayesha Smith
+ORD75229,"Oct 21, 2024",Gadget Y,3,5.49,$16.47,Sara Iqbal
+ORD14309,2024-12-29,Gadget Y,10,5.49,54.90,John Khan
+ORD76811,23/08/2024,Service Plan,4,$44.99,"179,96",Sara Chen
+ORD47422,2024-07-26,GADGET X,8,7,56.00,Fatima Lee
+ORD22976,30-Nov-24,Gadget X,7, 6.30 ,"44,10",Ali Ahmed
+ORD24527,2024-07-15,WIDGET B,5, 17.99 ,"89,95",Hassan Hussain
+ORD30673,06-14-2024,Gadget X,8,7, 64.68 ,Fatima Garcia
+ORD72803,"Dec 14, 2024",Gadget X,1, 7.00 ,7,Fatima Smith
+ORD50737,31/10/2024,Service Plan,1, 54.99 , 54.99 ,Omar Garcia
+ORD50247,15-Dec-24,Widget A,3, 12.50 ,35,Ali Patel
+ORD70047,03/06/2024,Widget B,5,19,99.95,Noor Iqbal
+ORD91104,"Aug 13, 2024",WIDGET A, 4 ,$12.50,$50.00,Ayesha Iqbal
+ORD49567,09-30-2024,Service Plan,10, 49.99 , 499.90 ,John Khan
+ORD25105,2024-10-13,Widget A,1,$13.75,11,Ali Reyes
+ORD41642,"Jul 02, 2024",Widget B,2, 19.99 ,$39.98,Zain Hussain
+ORD20312,"Aug 31, 2024",Service Plan,2,54.99,104,Fatima Lee
+ORD82083,"Jul 14, 2024",WIDGET B,2,19.99,"39,98",John Garcia
+ORD79820,30/08/2024,Gadget Y,8,"4,94",47.43,Omar Smith  
+ORD67683,07-31-2024,Gadget X,7, 7.00 , 49.00 ,Zain Chen
+ORD88149,09-25-2024,Widget B,9,"21,99","197,90",Zain Smith
+ORD31053,03-Sep-24,Widget B, 8 , 21.99 ,167.12,Omar Smith
+ORD35783,12-18-2024,Gadget X,4,"7,00",28,Noor Garcia
+ORD47911,04/07/2024,Widget B,6,$17.99,"107,95",John Khan
+ORD67249,06-13-2024,Service Plan,5, 44.99 , 179.96 ,Ali Iqbal
+ORD81057,28/12/2024,Gadget X,9,7.00,59.85,Zain Smith
+ORD83643,2024-06-22,Widget B,6,19,119.94,Fatima Reyes
+ORD56036,2024-09-23,Widget A,2, 12.50 ,25,Noor Iqbal
+ORD26438,2024-06-13,Service Plan,6,49,299.94,Sara Hussain  
+ORD33539,2024-12-20,Service Plan, 4 ,49.99,199,Zain Reyes
+ORD95349,25-Sep-24,Widget B,9,17,$161.92,Maria Ahmed
+ORD71570,08-09-2024,Gadget Y,4, 6.04 ,24.16,Hassan Reyes
+ORD88589,10/07/2024,Widget B,10,19.99, 199.90 ,Ayesha Chen
+ORD31260,2024-10-31,Widget A,1,11, 11.25 ,Omar Khan
+ORD38402,23/08/2024,WIDGET B,1,"19,99", 19.99 ,Maria Chen
+ORD88263,01/10/2024,Gadget X,6,$7.00, 42.00 ,Zain Reyes
+ORD94955,21-Jul-24,Widget A,5,12.50,$65.62,John Patel
+ORD12225,"Sep 23, 2024",Gadget Y,1,4.94,"4,94",Noor Patel
+ORD80290,2024-07-26,SERVICE PLAN,6,44.99,269.95,Sara Hussain
+ORD27058,2024-06-08,Service Plan,4, 49.99 ,199,Noor Chen
+ORD98760,13-Jun-24,Widget B,2, 19.99 , 31.98 ,Hassan Smith
+ORD36343,2024-08-07,Widget A,1, 12.50 ,$12.50,Omar Lee
+ORD28188,21-Aug-24,Widget B,9, 19.99 ,179,Ayesha Garcia
+ORD71083,"Sep 13, 2024",Widget B,8,19,"159,92",Hassan Iqbal
+ORD75197,01-Jul-24,Gadget X,9, 7.70 ,"72,77",Hassan Smith
+ORD14391,16/11/2024,WIDGET B,2, 19.99 , 39.98 ,Noor Patel
+ORD67977,"Dec 29, 2024",Widget B,4,"21,99",87,Omar Reyes
+ORD55338,07-01-2024,Widget A,8,12.50, 100.00 ,Maria Smith
+ORD13940,2024-11-10,Widget B,5,"19,99","99,95",Hassan Ahmed
+ORD75942,01/07/2024,Gadget Y,9,$5.49,$49.41,Fatima Chen
+ORD97527,09-07-2024,Widget B,4,$21.99, 87.96 ,Ayesha Lee
+ORD20554,"Nov 06, 2024",Widget B,2,21.99,$43.98,Ali Chen
+ORD93755,"Nov 29, 2024",Widget B,7,19.99,139.93,Maria Smith
+ORD54376,30-Jun-24,Gadget X, 10 ,"6,30",$63.00,Ayesha Garcia
+ORD51820,28-Jun-24,Gadget X,1, 7.00 ,7.00,Hassan Khan
+ORD11726,09/07/2024,Widget A,10,"12,50",125,Ayesha Ahmed
+ORD10280,18-Oct-24,Widget A,10,"12,50",125.00,Maria Iqbal
+ORD27004,10-10-2024,Gadget Y,9,5.49,49,John Hussain
+ORD79465,06-17-2024,Widget A,3,$13.75,$49.50,Hassan Patel
+ORD61474,"Sep 21, 2024",Service Plan,5,44.99,$213.71,Noor Patel
+ORD71465,"Dec 10, 2024",Widget A,3,"12,50",37.50,Zain Ahmed
+ORD41480,22/12/2024,Service Plan,5,$44.99,$224.95,Ayesha Ahmed
+ORD14927,2024-09-13,Gadget X,10,6,"63,00",John Garcia
+ORD99165,"Dec 17, 2024",SERVICE PLAN,8, 49.99 ,$399.92,Ali Ahmed
+ORD10114,"Nov 20, 2024",Widget B,10,19,199,Omar Patel
+ORD81569,2024-06-20,Gadget X,7,$7.00,"49,00",Ayesha Chen
+ORD52378,"Jun 26, 2024",Service Plan,8,"49,99",399,Sara Chen
+ORD36619,12-09-2024,Gadget Y,4,"5,49",21,Sara Chen  
+ORD11345,"Oct 24, 2024",Widget A,8, 12.50 ,100.00,Hassan Iqbal
+ORD51169,2024-09-05,Widget A,10,12.50,"125,00",Maria Reyes
+ORD50356,"Jun 12, 2024",Gadget Y,5,"5,49", 27.45 ,Fatima Lee
+ORD14881,18-Dec-24,Service Plan,6,$44.99, 256.45 ,Ayesha Smith
+ORD71628,25/07/2024,Gadget Y,7,4,"34,59",Omar Reyes
+ORD97486,26/09/2024,Service Plan,3,$49.99,157.47,Ayesha Patel
+ORD23398,2024-06-14,Gadget Y,1,5, 5.76 ,Ali Ahmed
+ORD77873,12-13-2024,Widget B,8,17.99,143,Noor Reyes
+ORD89247,01/10/2024,Widget A,3,$12.50, 37.50 ,Ali Reyes
+ORD73409,08-15-2024,Widget A,2,12,25,Zain Iqbal
+ORD97584,12-17-2024,Service Plan, 4 ,"49,99",199,Zain Smith
+ORD16294,"Dec 19, 2024",GADGET X,2,$7.00, 14.00 ,Ayesha Chen
+ORD82629,04/08/2024,Service Plan,3,49.99, 149.97 ,John Patel
+ORD32403,2024-06-20,Gadget X,6,$7.00,"42,00",Omar Iqbal
+ORD34802,10-03-2024,Gadget X,1,7.00, 7.00 ,Noor Khan
+ORD15669,11/07/2024,Gadget X,3, 7.00 ,16.80,Omar Reyes
+ORD12825,29-Jun-24,GADGET Y,10,"5,49", 54.90 ,Omar Reyes
+ORD74443,23-Oct-24,Widget B,8,19,159,Hassan Lee
+ORD68867,31-Jul-24,WIDGET A,1,$12.50,$12.50,John Smith
+ORD76645,"Sep 16, 2024",Widget B,3,17.99,"53,97",Noor Khan
+ORD74238,2024-10-11,Gadget X,7, 7.00 , 49.00 ,Hassan Smith
+ORD37452,23-Nov-24,Gadget Y,4, 5.49 , 21.96 ,Ayesha Patel
+ORD13044,2024-12-11,Widget A,3,"13,75","41,25",Ali Smith
+ORD45370,"Oct 01, 2024",Gadget Y,4,5.49, 21.96 ,Noor Hussain
+ORD98739,28/06/2024,Widget B,10,19.99,$199.90,Zain Khan
+ORD84268,2024-07-08,Widget B,4,$19.99,"79,96",Maria Hussain
+ORD14744,05-Jun-24,Gadget Y,6,5.49,$32.94,Ayesha Chen
+ORD80598,13/07/2024,WIDGET B,4,$21.99,87.96,Ayesha Smith
+ORD41540,09-Sep-24,Widget B,5,19.99,99.95,Hassan Reyes
+ORD97963,06-20-2024,Gadget Y,5,6.04, 30.20 ,Hassan Reyes
+ORD92159,21-Aug-24,Gadget Y,4, 5.49 , 21.96 ,Zain Garcia
+ORD54965,12-05-2024,Widget B, 9 , 19.99 , 143.93 ,Ali Iqbal
+ORD28275,2024-11-24,Widget A,10, 13.75 ,110.00,Ali Khan
+ORD47356,08-26-2024,Service Plan,1,$49.99,$49.99,Ayesha Smith
+ORD56740,06-Sep-24,Widget B,5,"19,99", 104.95 ,Hassan Ahmed
+ORD40073,02-Nov-24,WIDGET B,1,$19.99, 19.99 ,Sara Iqbal
+ORD13734,"Aug 18, 2024",Gadget Y,1,$5.49, 5.49 ,John Ahmed
+ORD21321,17-Nov-24,Gadget X,1, 7.00 ,7,Omar Hussain
+ORD40519,17/08/2024,Gadget X,8, 7.00 , 56.00 ,Ali Hussain
+ORD91661,14-Dec-24,Gadget Y,4,4.94,19,Hassan Reyes
+ORD26230,"Aug 17, 2024",Service Plan,4,54,219,Fatima Lee
+ORD61229,2024-06-25,Widget B,9,19.99,$179.91,John Ahmed
+ORD30284,28-Aug-24,Widget A,5, 12.50 , 50.00 ,Ayesha Lee
+ORD62429,06-27-2024,Widget B,7,$19.99,$146.93,Sara Iqbal
+ORD44041,"Aug 27, 2024",Gadget X,7,7, 49.00 ,Omar Iqbal
+ORD56379,"Nov 13, 2024",Widget B,3,17.99,$53.97,Zain Hussain
+ORD80644,"Oct 20, 2024",Widget B,9,21,$188.01,Fatima Patel
+ORD91527,17/10/2024,Service Plan,9,49, 449.91 ,Ali Garcia
+ORD87825,"Jul 23, 2024",Service Plan,8,44, 359.93 ,Maria Patel
+ORD48009,"Jun 12, 2024",Widget B,4,19.99,$79.96,Omar Lee
+ORD55438,11-25-2024,Service Plan,3,"49,99",149.97,Fatima Garcia
+ORD48196,14-Jul-24,Widget B,10,"19,99", 199.90 ,Sara Smith
+ORD88148,2024-10-25,GADGET X,3,7.00,"22,05",Ayesha Khan
+ORD73730,28/10/2024,Widget B,6,19, 113.94 ,Maria Garcia
+ORD57260,07/07/2024,Service Plan,7,49.99,$349.93,Maria Khan  
+ORD14565,2024-08-17,SERVICE PLAN,3,49,$179.96,Ali Patel
+ORD90887,21/12/2024,Gadget Y,6,$5.49,32,Noor Lee
+ORD93046,"Jul 25, 2024",Service Plan,8, 49.99 , 319.94 ,Ali Iqbal
+ORD45958,20/09/2024,Gadget Y,2,4,$9.88,Maria Lee
+ORD41159,"Sep 22, 2024",Service Plan,10,$49.99,499,Sara Lee
+ORD27688,12-Jul-24,Widget A,5,"12,50",50.00,Maria Patel
+ORD69959,06-Jun-24,Gadget Y,7,5,36.51,Maria Smith
+ORD18593,06-11-2024,Gadget X,8,$7.00,$56.00,Ayesha Smith
+ORD56187,"Nov 24, 2024",Gadget Y,7,5.49,38,Maria Garcia
+ORD91166,"Oct 26, 2024",Service Plan,2,49,$99.98,Ayesha Iqbal
+ORD16136,"Oct 24, 2024",Gadget X,4, 7.00 ,$28.00,Sara Hussain
+ORD59513,12-10-2024,Gadget X,10, 7.00 ,70.00,Omar Patel
+ORD44307,14-Oct-24,GADGET Y,1,$6.04,"4,83",Ayesha Lee
+ORD69547,"Nov 01, 2024",Widget B,8,21,"175,91",Maria Khan
+ORD88996,11-Sep-24,Gadget Y,10,4,$49.41,Noor Khan
+ORD80005,09-25-2024,Gadget X,8,7.00,"56,00",Zain Khan
+ORD29820,05/07/2024,Service Plan,9,49,$449.91,Maria Chen
+ORD38939,2024-09-11,GADGET Y,2,$5.49,13,Ali Iqbal
+ORD34122,"Nov 29, 2024",Service Plan,4,44,179,Hassan Patel
+ORD62867,2024-12-19,Gadget X,7, 7.70 , 53.90 ,Sara Smith
+ORD24425,10-26-2024,GADGET Y,7, 5.49 ,"46,12",Maria Lee  
+ORD78357,29/11/2024,Gadget X,5,"7,00",$35.00,Ayesha Chen
+ORD76874,05-Aug-24,Widget A,8,12.50,$100.00,John Lee
+ORD79689,06/06/2024,Widget B,1,"17,99",17,Zain Garcia
+ORD63602,"Oct 03, 2024",Widget B,10,"19,99",199,John Garcia
+ORD49678,11-02-2024,Service Plan,9,44,404,Maria Ahmed
+ORD44428,12/06/2024,Service Plan,3,$49.99,119,Ali Chen
+ORD75440,2024-06-11,Widget B,6,"19,99", 119.94 ,Fatima Iqbal
+ORD63453,10-Sep-24,WIDGET B,7,"21,99","146,23",Ali Smith
+ORD63291,"Jul 17, 2024",Widget B,7, 19.99 ,139.93,Fatima Hussain
+ORD91252,"Jun 06, 2024",Gadget Y,4,6.04,"24,16",John Chen
+ORD79101,08-07-2024,Gadget Y,4,5.49, 21.96 ,Zain Reyes
+ORD64871,13/07/2024,Widget A,3,12.50,37,Ali Khan
+ORD80291,06-22-2024,Service Plan,9,"49,99","449,91",Zain Hussain
+ORD44827,"Aug 04, 2024",Widget A,4,12.50,50.00,Ayesha Reyes
+ORD42320,05/12/2024,Gadget X,5,$7.70,$38.50,John Patel
+ORD64787,2024-12-24,Widget B,9,"19,99", 215.89 ,Ali Patel
+ORD90098,"Jun 03, 2024",WIDGET B,4,19.99,79.96,Ali Lee
+ORD92963,04-Jun-24,Widget A,3,$13.75,41,Ali Ahmed
+ORD88232,"Dec 24, 2024",Gadget Y,5,$5.49,27,Hassan Smith
+ORD52323,12-25-2024,Gadget X,9,$7.00,"63,00",Sara Iqbal
+ORD91117,2024-09-03,Service Plan,5,"49,99","249,95",Maria Ahmed
+ORD62288,2024-08-13,GADGET X,2,"7,00","14,00",Hassan Smith
+ORD14881,18-Dec-24,Service Plan,6,$44.99, 256.45 ,Ayesha Smith
+ORD54675,2024-10-13,Gadget X,3,7,21,Sara Patel
+ORD62457,15/06/2024,Widget A,10,$12.50,125.00,Fatima Iqbal
+ORD63898,"Jul 23, 2024",GADGET Y,1,5.49,5,Omar Reyes
+ORD73639,06-02-2024,Widget B,3,$19.99,59.97,Ayesha Khan
+ORD64036,2024-06-12,Gadget Y,5,"5,49","27,45",Noor Khan
+ORD59860,06-Jul-24,Gadget Y,1,5,$5.49,Fatima Chen
+ORD87216,09-06-2024,Gadget Y,2,"6,04","12,08",Noor Lee
+ORD17660,2024-08-03,SERVICE PLAN,8,49,"399,92",Omar Patel
+ORD83415,2024-11-19,Gadget Y,2, 6.04 ,"12,08",Maria Smith
+ORD18641,2024-06-22,Gadget X,9, 7.00 ,63.00,Ayesha Reyes
+ORD79529,"Nov 14, 2024",Gadget X,5,7,$35.00,John Chen
+ORD64612,2024-11-30,Widget A,1,$12.50,13.12,Fatima Smith
+ORD41316,2024-10-01,Gadget Y,5,5.49,27.45,Hassan Patel
+ORD67338,11/07/2024,Widget B,6,$19.99, 113.94 ,Zain Garcia
+ORD68384,09-24-2024,Widget A,1,$12.50,12,Noor Hussain
+ORD39686,2024-07-20,WIDGET B,1,19,$15.99,Ayesha Smith
+ORD36074,18-Aug-24,Gadget X,8,6,50,Fatima Iqbal
+ORD83605,07-Nov-24,Widget B,9,$19.99,"179,91",Omar Hussain
+ORD96411,15-Dec-24,Gadget Y,4,6.04,"24,16",Hassan Patel
+ORD61139,07-05-2024,Widget A,4,12.50, 50.00 ,Ali Reyes
+ORD57440,2024-07-24,Widget B, 2 ,$19.99,$39.98,Fatima Garcia
+ORD34610,16/06/2024,Widget A,6,12,75,Ayesha Hussain

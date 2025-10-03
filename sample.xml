@@ -1,0 +1,56 @@
+<!-- <?xml version="1.0"?> -->
+<OFX>
+  <SIGNONMSGSRSV1>
+    <SONRS>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <DTSERVER>20250920000000</DTSERVER>
+      <LANGUAGE>ENG</LANGUAGE>
+    </SONRS>
+  </SIGNONMSGSRSV1>
+
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1001</TRNUID>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <STMTRS>
+        <CURDEF>USD</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>123456</BANKID>
+          <ACCTID>987654321</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        <BANKTRANLIST>
+          <DTSTART>20250901000000</DTSTART>
+          <DTEND>20250915000000</DTEND>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250905</DTPOSTED>
+            <TRNAMT>-50.25</TRNAMT>
+            <FITID>0001</FITID>
+            <NAME>Grocery Store</NAME>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250910</DTPOSTED>
+            <TRNAMT>1200.00</TRNAMT>
+            <FITID>0002</FITID>
+            <NAME>Salary Deposit</NAME>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250912</DTPOSTED>
+            <TRNAMT>-75.00</TRNAMT>
+            <FITID>0003</FITID>
+            <NAME>Electric Bill</NAME>
+          </STMTTRN>
+        </BANKTRANLIST>
+      </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
